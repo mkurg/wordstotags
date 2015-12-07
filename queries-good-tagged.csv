@@ -1,0 +1,8 @@
+куда можно сходить в санкт-петербурге в октябре	set(['city', 'action_visit', u'full', 'wh_where_direction', 'date_month'])
+гостиница дивеево	set(['city', 'acm_gost', u'full'])
+гостиница екатеринбург дешево	set(['price_cheap', 'city', 'acm_gost', u'full'])
+отели дюссельдорфа	set(['city', u'full', 'acm_hotel'])
+гостиница дивеево	set(['city', 'acm_gost', u'full'])
+гостиница дивеево	set(['city', 'acm_gost', u'full'])
+гостиница дивеево гостиница дивеево	set(['city', 'acm_gost', u'full'])
+гостиница дивеево	set(['city', 'acm_gost', u'full'])

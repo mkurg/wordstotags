@@ -1,0 +1,81 @@
+куски кода - пригодится
+
+
+
+
+def ToTags(queries):
+"""Nu ponyatno vsyo"""
+    for root, dirs, files in os.walk(top, topdown=False):
+            print(filename)
+
+
+
+sys.setdefaultencoding('utf-8')
+
+
+
+
+
+def Normalizer(queries):
+    queries2 = []
+    cache = {}
+    n = 0
+    for query in queries:
+        if n % 100 == 0:
+            print('normalizing query %d' % n)
+        queries2.append([])
+        for token in query:
+            if not token in cache:
+                #morphology = [morph.parse(token.decode('utf-8'))[0].normal_form, morph.parse(token.decode('utf-8'))[0].tag.case, morph.parse(token.decode('utf-8'))[0].tag.number]
+                #morphology = [morph.parse(token.decode('utf-8'))[0].normal_form]
+                morphology = [morph.parse(token.decode('utf-8'))[0]]
+                print(morphology)
+                queries2[len(queries2) - 1].append(morphology)
+                cache[token] = morphology
+            else:
+                queries2[len(queries2) - 1].append(cache[token])
+        n += 1
+    return(queries2)
+
+
+
+
+    '''
+def Tagger(query):
+    queryTokens = []
+    matched = 0
+    for queryToken in query:
+        x = 0
+        for tag in tags:
+            for tagToken in tag:
+                if queryToken[0] == tagToken[0]:
+                    matched += 1
+                    if not tags[x][0] in queryTokens:
+                        if tags[x][0] != u'stopword':
+                            queryTokens.append(tags[x][0])
+                        #queryTokens.append(queryToken)
+            x += 1
+    if matched == len(query): # проверяем, все ли токены "ушли" на теги
+        queryTokens.append(u'full')
+    return(queryTokens)
+
+def Tagger(query):
+    queryTokens = []
+    matched = 0
+    matches = []
+    for tag in tags:
+        for i in range(len(query)):
+            #print()
+            if query[i][0] == tag[0][0] and query[i:i + len(tag)][0] == tag:
+                print('matched')
+                print(tag[1][0])
+    #if matched == len(query): # проверяем, все ли токены "ушли" на теги
+    queryTokens.append(u'full')
+    return(queryTokens)
+'''
+
+
+print 'length of queries: %d' % len(queriesParsed)
+for q in queriesParsed:
+    for i in q:
+        print i

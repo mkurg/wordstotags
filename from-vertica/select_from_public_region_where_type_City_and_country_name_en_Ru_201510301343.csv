@@ -1,0 +1,1052 @@
+"id","city_id","country_code","country_id","country_name_en","country_name_ru","name_en","name_ru","parent_id","pretty_slug","type","slug"
+258,258,R,153,Russia,Россия,Anapa,Анапа,6 288 364,anapa,City,anapa
+515,515,R,153,Russia,Россия,Beloreck,Белорецк,6 288 314,beloreck,City,beloreck
+675,675,R,153,Russia,Россия,Blagoveshchensk,Благовещенск,6 288 306,blagoveshchensk,City,blagoveshchensk
+804,804,R,153,Russia,Россия,Chelyabinsk,Челябинск,6 288 320,chelyabinsk,City,chelyabinsk
+1 109,1 109,R,153,Russia,Россия,Belgorod,Белгород,6 288 316,belgorod,City,belgorod
+1 521,1 521,R,153,Russia,Россия,Khatanga,Хатанга,6 288 365,khatanga,City,khatanga
+1 552,1 552,R,153,Russia,Россия,Igarka,Игарка,6 288 365,igarka,City,igarka
+1 584,1 584,R,153,Russia,Россия,Irkutsk,Иркутск,965 820 895,irkutsk,City,irkutsk
+1 911,1 911,R,153,Russia,Россия,Kurgan,Курган,6 288 366,kurgan,City,kurgan
+1 932,1 932,R,153,Russia,Россия,Kotlas,Котлас,6 288 307,kotlas,City,kotlas
+1 993,1 993,R,153,Russia,Россия,Kazan,Казань,6 288 539,kazan,City,kazan
+2 121,2 121,R,153,Russia,Россия,Lipetsk,Липецк,6 288 368,lipetsk,City,lipetsk
+2 242,2 242,R,153,Russia,Россия,Makhachkala,Махачкала,6 288 324,makhachkala,City,makhachkala
+2 321,2 321,R,153,Russia,Россия,Mirny,Мирный,6 288 519,mirny,City,mirny
+2 395,2 395,R,153,Russia,Россия,Moscow,Москва,965 825 039,moscow,City,moscow
+2 416,2 416,R,153,Russia,Россия,Mineralnye Vody,Минеральные Воды,6 288 530,mineralnye_vody,City,mineralnye_vody
+2 514,2 514,R,153,Russia,Россия,Nalchik,Нальчик,6 288 349,nalchik,City,nalchik
+2 522,2 522,R,153,Russia,Россия,Naberezhnye Chelny,Набережные Челны,6 288 539,naberezhnye_chelny,City,naberezhnye_chelny
+2 592,2 592,R,153,Russia,Россия,Novokuznetsk,Новокузнецк,6 288 356,novokuznetsk,City,novokuznetsk
+2 599,2 599,R,153,Russia,Россия,Norilsk,Норильск,6 288 365,norilsk,City,norilsk
+2 676,2 676,R,153,Russia,Россия,Omsk,Омск,6 288 491,omsk,City,omsk
+2 761,2 761,R,153,Russia,Россия,Perm,Пермь,6 288 495,perm,City,perm
+2 768,2 768,R,153,Russia,Россия,Petrozavodsk,Петрозаводск,6 288 355,petrozavodsk,City,petrozavodsk
+2 771,2 771,R,153,Russia,Россия,Penza,Пенза,6 288 494,penza,City,penza
+2 807,2 807,R,153,Russia,Россия,Petropavlovsk-Kamchatsky,Петропавловск-Камчатский,6 288 352,petropavlovsk-kamchatsky,City,petropavlovsk-kamchatsky
+2 923,2 923,R,153,Russia,Россия,Polyarnyj,Полярный,6 288 519,polyarnyj,City,polyarnyj
+3 028,3 028,R,153,Russia,Россия,Rostov-on-Don,Ростов-на-Дону,6 288 502,rostov-on-don,City,rostov-on-don
+3 103,3 103,R,153,Russia,Россия,Syktyvkar,Сыктывкар,6 288 362,syktyvkar,City,syktyvkar
+3 136,3 136,R,153,Russia,Россия,Surgut,Сургут,6 288 360,surgut,City,surgut
+3 384,3 384,R,153,Russia,Россия,Tambov,Тамбов,6 288 534,tambov,City,tambov
+3 514,3 514,R,153,Russia,Россия,Tobolsk,Тобольск,6 288 558,tobolsk,City,tobolsk
+3 665,3 665,R,153,Russia,Россия,Bugulma,Бугульма,6 288 539,bugulma,City,bugulma
+3 666,3 666,R,153,Russia,Россия,Ulan-Ude,Улан-Удэ,6 288 318,ulan-ude,City,ulan-ude
+3 986,3 986,R,153,Russia,Россия,Yakutsk,Якутск,6 288 519,yakutsk,City,yakutsk
+6 120,6 120,R,153,Russia,Россия,Amderma,Амдерма,6 288 464,amderma,City,amderma
+6 478,6 478,R,153,Russia,Россия,Bryansk,Брянск,6 288 317,bryansk,City,bryansk
+6 589,6 589,R,153,Russia,Россия,Cherepovets,Череповец,6 288 579,cherepovets,City,cherepovets
+8 275,8 275,R,153,Russia,Россия,Kerch,Керчь,6 057 828,kerch,City,kerch
+9 014,9 014,R,153,Russia,Россия,Novorossijsk,Новороссийск,6 288 364,novorossijsk,City,novorossijsk
+9 941,9 941,R,153,Russia,Россия,Sukhumi,Сухуми,153,sukhumi,City,sukhumi
+179 586,179 586,R,153,Russia,Россия,Medvedkovo,Медведково,6 288 557,medvedkovo,City,medvedkovo
+179 588,179 588,R,153,Russia,Россия,Khoroshevskiy,Хорошевский,6 288 493,khoroshevskiy,City,khoroshevskiy
+179 600,179 600,R,153,Russia,Россия,Besedy,Беседы,6 288 557,besedy,City,besedy
+179 603,179 603,R,153,Russia,Россия,Khimki,Химки,965 821 051,khimki,City,khimki
+179 606,179 606,R,153,Russia,Россия,Kuntsevo,Кунцево,6 288 483,kuntsevo,City,kuntsevo
+179 617,179 617,R,153,Russia,Россия,Misailovo,Михайлово,965 821 051,misailovo,City,misailovo
+179 620,179 620,R,153,Russia,Россия,Nemchinovka,Немчиновка,6 288 494,nemchinovka,City,nemchinovka
+179 626,179 626,R,153,Russia,Россия,Putilkovo,Путилково,965 821 051,putilkovo,City,putilkovo
+179 627,179 627,R,153,Russia,Россия,Reutov,Реутов,965 821 051,reutov,City,reutov
+179 642,179 642,R,153,Russia,Россия,Yasenevo,Ясенево,6 288 454,yasenevo,City,yasenevo
+179 643,179 643,R,153,Russia,Россия,Yanino,Янино,6 288 454,yanino,City,yanino
+180 352,180 352,R,153,Russia,Россия,Yalta,Ялта,6 084 933,yalta,City,yalta
+602 259,602 259,R,153,Russia,Россия,Kamenogorsk,Каменогорск,965 820 996,kamenogorsk,City,kamenogorsk
+6 004 444,6 004 444,R,153,Russia,Россия,Aprelevka,Апрелевка,178 289,aprelevka,City,aprelevka
+6 004 458,6 004 458,R,153,Russia,Россия,Zhukovskiy,Жуковский,178 289,zhukovskiy_moscow,City,moscow_region_zhukovskiy
+6 025 639,6 025 639,R,153,Russia,Россия,Pskov,Псков,6 288 499,pskov,City,pskov
+6 025 650,6 025 650,R,153,Russia,Россия,Listvyanka,Листвянка,965 820 895,listvyanka,City,listvyanka
+6 025 788,6 025 788,R,153,Russia,Россия,Nakhodka,Находка,6 288 496,nakhodka,City,nakhodka
+6 025 806,6 025 806,R,153,Russia,Россия,Vyborg,Выборг,965 820 996,vyborg,City,vyborg
+6 046 353,6 046 353,R,153,Russia,Россия,Migolosci,Миголоски,6 288 483,migolosci,City,migolosci
+6 049 235,6 049 235,R,153,Russia,Россия,Togliatti,Тольятти,6 288 524,togliatti,City,togliatti
+6 049 237,6 049 237,R,153,Russia,Россия,Sestroretsk,Сестрорецк,965 820 996,sestroretsk,City,sestroretsk
+6 055 548,6 055 548,R,153,Russia,Россия,Ergi-Barlyk,Эрги-барлык,6 288 549,ergi-barlyk,City,ergi-barlyk
+6 059 048,6 059 048,R,153,Russia,Россия,Izumrud,Изумруд,6 049 238,izumrud,City,izumrud
+6 059 258,6 059 258,R,153,Russia,Россия,Taganrog,Таганрог,6 288 502,taganrog,City,taganrog
+6 069 898,6 069 898,R,153,Russia,Россия,Petergof,Петергоф,965 820 996,petergof,City,petrodvorets
+6 124 865,6 124 865,R,153,Russia,Россия,Krasnoselkup,Красноселькуп,6 288 590,krasnoselkup,City,krasnoselkup
+6 124 868,6 124 868,R,153,Russia,Россия,Mys Kamennyy,Мыс Каменный,6 288 590,mys_kamennyy,City,mys_kamennyy
+6 124 874,6 124 874,R,153,Russia,Россия,Urengoy,Уренгой,6 288 590,urengoy,City,urengoy
+6 126 268,6 126 268,R,153,Russia,Россия,Pushkin,Пушкин,965 820 996,pushkin,City,pushkin
+6 130 445,6 130 445,R,153,Russia,Россия,Uglich,Углич,6 288 591,uglich,City,uglich
+6 130 448,6 130 448,R,153,Russia,Россия,Dzerzhinsk,Дзержинск,1 361,dzerzhinsk_nizhny_novgorod_oblast,City,dzerzhinsk
+6 130 458,6 130 458,R,153,Russia,Россия,Vladimir,Владимир,6 288 571,vladimir,City,vladimir
+6 130 565,6 130 565,R,153,Russia,Россия,Korolev,Королев,965 821 051,korolev,City,korolev
+6 132 020,6 132 020,R,153,Russia,Россия,Borovoye,Боровое,6 288 487,borovoye,City,borovoye
+6 133 804,6 133 804,R,153,Russia,Россия,Saky,Саки,6 057 828,saky,City,saky
+6 135 653,6 135 653,R,153,Russia,Россия,Alupka,Алупка,6 084 933,alupka,City,alupka
+6 141 696,6 141 696,R,153,Russia,Россия,Maykop,Майкоп,6 288 302,maykop,City,maykop
+6 143 575,6 143 575,R,153,Russia,Россия,Millerovo,Миллерово,6 288 502,millerovo,City,millerovo
+6 143 642,6 143 642,R,153,Russia,Россия,Karshevitoye,Каршевитое,965 821 123,karshevitoye,City,karshevitoye
+6 144 521,6 144 521,R,153,Russia,Россия,Pervomaiskoe,Первомайское,965 821 051,pervomaiskoe,City,pervomaiskoe
+6 144 648,6 144 648,R,153,Russia,Россия,Petrovo-Dalneye,Петрово-Дальнее,965 821 051,petrovo-dalneye,City,petrovo-dalneye
+6 154 999,6 154 999,R,153,Russia,Россия,Simeiz,Симеиз,6 084 933,simeiz,City,simeiz
+6 155 913,6 155 913,R,153,Russia,Россия,Sheremet'evskiy,Шереметьевский,965 821 051,sheremetevskiy,City,sheremet'evskiy
+6 156 241,6 156 241,R,153,Russia,Россия,Yessentuki,Ессентуки,6 288 530,yessentuki,City,yessentuki
+6 157 054,6 157 054,R,153,Russia,Россия,Istra,Истра,6 288 454,istra,City,istra
+6 157 876,6 157 876,R,153,Russia,Россия,Popovka,Поповка,6 057 828,popovka,City,popovka
+6 179 083,6 179 083,R,153,Russia,Россия,Borovichi,Боровичи,6 288 557,borovichi,City,borovichi
+6 198 909,6 198 909,R,153,Russia,Россия,Yantarny,Янтарный,6 057 744,yantarny,City,yantarny
+6 198 991,6 198 991,R,153,Russia,Россия,Derbent,Дербент,6 288 324,derbent,City,derbent
+6 201 349,6 201 349,R,153,Russia,Россия,Zhupanovo,Жупаново,6 288 352,zhupanovo,City,zhupanovo
+6 204 640,6 204 640,R,153,Russia,Россия,Pereslavl-Zalesskiy,Переславль-Залесский,6 288 591,pereslavl-zalesskiy_golden_ring,City,golden_ring_pereslavl-zalesskiy
+6 205 350,6 205 350,R,153,Russia,Россия,Kalyazin,Калязин,6 288 557,kalyazin,City,kalyazin
+6 205 358,6 205 358,R,153,Russia,Россия,Borisoglebskiy,Борисоглебский,6 288 591,borisoglebskiy,City,borisoglebskiy
+6 206 004,6 206 004,R,153,Russia,Россия,Solovetsky,Соловецкий,6 288 355,solovetsky,City,solovetsky
+6 206 831,6 206 831,R,153,Russia,Россия,Kizhi,Кижи,6 288 355,kizhi,City,kizhi
+6 215 077,6 215 077,R,153,Russia,Россия,Tuapse,Туапсе,6 084 686,tuapse_sochi_and_viciity,City,krasnodar_krai_tuapse
+6 223 577,6 223 577,R,153,Russia,Россия,Povedniki,Поведники,178 289,povedniki,City,povedniki
+6 230 499,6 230 499,R,153,Russia,Россия,Verbilki,Вербилки,6 288 454,verbilkii,City,verbilkii
+6 267 969,6 267 969,R,153,Russia,Россия,Opalikha,Опалиха,178 289,opalikha,City,opalikha
+6 285 154,6 285 154,R,153,Russia,Россия,Golovinka,Головинка,6 084 686,golovinka,City,golovinka
+6 288 353,6 288 353,R,153,Russia,Россия,Cherkessk,Черкесск,6 288 354,cherkessk,City,cherkessk
+6 289 548,6 289 548,R,153,Russia,Россия,Uhlove,Углове,6 057 828,uhlove,City,uhlove
+6 293 347,6 293 347,R,153,Russia,Россия,Estosadok,Эстосадок,6 084 686,estosadok,City,estosadok
+6 293 352,6 293 352,R,153,Russia,Россия,Yakornaya Shchel',Якорная щель,6 084 686,yakornaya_shchel,City,yakornaya_shchel'
+6 293 353,6 293 353,R,153,Russia,Россия,Soloniki,Солоники,6 084 686,soloniki,City,soloniki
+6 294 029,6 294 029,R,153,Russia,Россия,Nizhnee Orekhovo,Нижнее Орехово,6 084 686,nizhnee_orekhovo,City,nizhnee_orekhovo
+6 297 482,6 297 482,R,153,Russia,Россия,Denezhnikovo,Денежниково,178 289,denezhnikovo,City,denezhnikovo
+6 297 488,6 297 488,R,153,Russia,Россия,Kupchinino,Купчинино,178 289,kupchinino,City,kupchinino
+6 297 501,6 297 501,R,153,Russia,Россия,Golikovo,Голиково,178 289,golikovo,City,golikovo
+6 297 511,6 297 511,R,153,Russia,Россия,Trusovo,Трусово,178 289,trusovo_moscow,City,moscow_oblast_trusovo
+6 297 551,6 297 551,R,153,Russia,Россия,Oktyabrskiy,Октябрьский,178 289,oktyabrskiy_moscow,City,moscow_oblast_oktyabrskiy
+6 297 624,6 297 624,R,153,Russia,Россия,Laryovo,Ларёво,178 289,laryovo,City,laryovo
+6 299 308,6 299 308,R,153,Russia,Россия,Lyskovo,Лысково,1 361,lyskovo_nizhny_novgorod_oblast,City,volga_region_lyskovo
+6 299 850,6 299 850,R,153,Russia,Россия,Chulkovo,Чулково,178 289,chulkovo,City,chulkovo
+6 300 239,6 300 239,R,153,Russia,Россия,Novaya Tura,Новая Тура,6 288 539,novaya_tura,City,novaya_tura
+6 301 419,6 301 419,R,153,Russia,Россия,Kungurka,Кунгурка,6 049 238,kungurka,City,kungurka
+6 301 835,6 301 835,R,153,Russia,Россия,Sashino,Сашино,180 029,sashino,City,sashino
+6 302 318,6 302 318,R,153,Russia,Россия,Ivangorod,Ивангород,6 057 691,ivangorod,City,ivangorod
+6 303 183,6 303 183,R,153,Russia,Россия,Pionersky,Пионерский,6 057 744,pionersky,City,pionersky
+6 303 184,6 303 184,R,153,Russia,Россия,Laskino,Ласкино,6 057 744,laskino,City,laskino
+6 303 261,6 303 261,R,153,Russia,Россия,Goryachiy Klyuch,Горячий Ключ,6 288 364,goryachiy_klyuch_krasnodar_krai,City,southern_russia_goryachiy_klyuch
+6 303 268,6 303 268,R,153,Russia,Россия,Divnomorskoye,Дивноморское,6 288 364,divnomorskoye,City,divnomorskoye
+6 303 271,6 303 271,R,153,Russia,Россия,Abrau-Dyurso,Абрау-Дюрсо,6 288 364,abrau-dyurso,City,abrau-dyurso
+6 303 275,6 303 275,R,153,Russia,Россия,Golubitskaya,Голубицкая,6 288 364,golubitskaya_krasnodar_krai,City,southern_russia_golubitskaya
+6 303 282,6 303 282,R,153,Russia,Россия,Medvedovskaya,Медведовская,6 288 364,medvedovskaya,City,medvedovskaya
+6 303 295,6 303 295,R,153,Russia,Россия,Sukko,Сукко,6 288 364,sukko_krasnodar_krai,City,southern_russia_sukko
+6 303 358,6 303 358,R,153,Russia,Россия,Armavir,Армавир,6 288 364,armavir_krasnodar_krai,City,southern_russia_armavir
+6 303 477,6 303 477,R,153,Russia,Россия,Toksovo,Токсово,6 057 691,toksovo_leningrad,City,leningrad_toksovo
+6 303 487,6 303 487,R,153,Russia,Россия,Torfyanovka,Торфяновка,6 057 691,torfyanovka,City,torfyanovka
+6 303 681,6 303 681,R,153,Russia,Россия,Luzhki,Лужки,6 057 691,luzhki,City,luzhki
+6 303 885,6 303 885,R,153,Russia,Россия,Lamishino,Ламишино,6 288 454,lamishino,City,lamishino
+6 303 901,6 303 901,R,153,Russia,Россия,Voskresensk,Воскресенск,6 288 454,voskresensk_moscow_oblast,City,moscow_oblast_voskresensk
+6 303 907,6 303 907,R,153,Russia,Россия,Kuznetsovo,Кузнецово,178 289,kuznetsovo,City,kuznetsovo
+6 304 108,6 304 108,R,153,Russia,Россия,Bagrationovsk,Багратионовск,6 057 744,bagrationovsk,City,bagrationovsk
+6 304 304,6 304 304,R,153,Russia,Россия,Pravdinsk,Правдинск,6 057 744,pravdinsk,City,pravdinsk
+6 304 340,6 304 340,R,153,Russia,Россия,Gvardeysk,Гвардейск,6 057 744,gvardeysk,City,gvardeysk
+6 304 370,6 304 370,R,153,Russia,Россия,Gorodets,Городец,1 361,gorodets_nizhniy_novgorod,City,volga_region_gorodets
+6 304 373,6 304 373,R,153,Russia,Россия,Murom,Муром,6 288 571,murom_vladimir_oblast,City,golden_ring_murom
+6 304 374,6 304 374,R,153,Russia,Россия,Gorokhovets,Гороховец,6 288 571,gorokhovets,City,gorokhovets
+6 304 412,6 304 412,R,153,Russia,Россия,Afanasyevo,Афанасьево,1 361,afanasyevo,City,afanasyevo
+6 304 440,6 304 440,R,153,Russia,Россия,Gorbatovka,Горбатовка,1 361,gorbatovka,City,gorbatovka
+6 304 749,6 304 749,R,153,Russia,Россия,Cheposh,Чепош,6 288 305,cheposh,City,cheposh
+6 305 167,6 305 167,R,153,Russia,Россия,Ziborovka,Зиборовка,6 288 316,ziborovka,City,ziborovka
+6 305 350,6 305 350,R,153,Russia,Россия,Torzhok,Торжок,6 288 557,torzhok_tver_oblast,City,tver_oblast_torzhok
+6 306 561,6 306 561,R,153,Russia,Россия,Shemordan,Шемордан,6 288 539,shemordan,City,shemordan
+6 306 572,6 306 572,R,153,Russia,Россия,Zelenodolsk,Зеленодольск,6 288 539,zelenodolsk_republic_of_tatarstan,City,volga_region_zelenodolsk
+6 306 798,6 306 798,R,153,Russia,Россия,Yeysk,Ейск,6 288 364,yeysk,City,yeysk
+6 306 800,6 306 800,R,153,Russia,Россия,Leninogorsk,Лениногорск,6 288 539,leninogorsk,City,leninogorsk
+6 306 804,6 306 804,R,153,Russia,Россия,Urussu,Уруссу,6 288 539,urussu,City,urussu
+6 306 805,6 306 805,R,153,Russia,Россия,Zainsk,Заинск,6 288 539,zainsk,City,zainsk
+6 306 806,6 306 806,R,153,Russia,Россия,Krugloye Pole,Круглое Поле,6 288 539,krugloye_pole,City,krugloye_pole
+6 306 809,6 306 809,R,153,Russia,Россия,Gorki,Горки,6 288 454,gorki,City,gorki
+6 306 811,6 306 811,R,153,Russia,Россия,Kubinka,Кубинка,6 288 454,kubinka,City,kubinka
+6 306 812,6 306 812,R,153,Russia,Россия,Shapsugskaya,Шапсугская,6 288 364,shapsugskaya,City,shapsugskaya
+6 306 813,6 306 813,R,153,Russia,Россия,Monino,Монино,178 289,monino,City,monino
+6 307 355,6 307 355,R,153,Russia,Россия,Turgoyak,Тургояк,6 288 320,turgoyak,City,turgoyak
+6 307 372,6 307 372,R,153,Russia,Россия,Karagayskiy,Карагайский,6 288 320,karagayskiy,City,karagayskiy
+6 307 375,6 307 375,R,153,Russia,Россия,Novoabzakovo,Новоабзаково,6 288 314,novoabzakovo_republic_of_bashkortostan,City,ural_novoabzakovo
+6 307 494,6 307 494,R,153,Russia,Россия,Kugesi,Кугеси,6 288 321,kugesi_chuvash_republic,City,volga_region_kugesi
+6 307 496,6 307 496,R,153,Russia,Россия,Zvenigovo,Звенигово,6 288 370,zvenigovo,City,zvenigovo
+6 307 603,6 307 603,R,153,Russia,Россия,Goryachinsk,Горячинск,6 288 318,goryachinsk,City,goryachinsk
+6 307 641,6 307 641,R,153,Russia,Россия,Sakhyurta,Сахюрта,6 288 341,sakhyurta,City,sakhyurta
+6 307 656,6 307 656,R,153,Russia,Россия,Shelekhov,Шелехов,6 084 689,shelekhov,City,shelekhov
+6 307 675,6 307 675,R,153,Russia,Россия,Bolshaya Rechka,Большая Речка,6 084 689,bolshaya_rechka,City,bolshaya_rechka
+6 308 036,6 308 036,R,153,Russia,Россия,Yegoryevsk,Егорьевск,6 288 454,yegoryevsk,City,yegoryevsk
+6 308 041,6 308 041,R,153,Russia,Россия,Chekhov,Чезов,6 288 454,chekhov_moscow_oblast,City,moscow_oblast_chekhov
+6 308 042,6 308 042,R,153,Russia,Россия,Naro-Fominsk,Наро-Фоминск,6 288 454,naro-fominsk_moscow_oblast,City,moscow_oblast_naro-fominsk
+6 308 043,6 308 043,R,153,Russia,Россия,Vereya,Верея,6 288 454,vereya_moscow_oblast,City,moscow_oblast_vereya
+6 308 049,6 308 049,R,153,Russia,Россия,Taldom,Талдом,6 288 454,taldom,City,taldom
+6 308 173,6 308 173,R,153,Russia,Россия,Sortavala,Сортавала,6 288 355,sortavala_republic_of_karelia,City,republic_of_karelia_sortavala
+6 308 197,6 308 197,R,153,Russia,Россия,Alpatyevo,Алпатьево,6 288 454,alpatyevo,City,alpatyevo
+6 308 459,6 308 459,R,153,Russia,Россия,Peski,Пески,6 288 454,peski,City,peski
+6 308 469,6 308 469,R,153,Russia,Россия,Barybino,Барыбино,6 288 454,barybino,City,barybino
+6 308 470,6 308 470,R,153,Russia,Россия,Privalovo,Привалово,6 288 454,privalovo,City,privalovo
+6 308 472,6 308 472,R,153,Russia,Россия,Stolbovaya,Столбовая,6 288 454,stolbovaya,City,stolbovaya
+6 308 475,6 308 475,R,153,Russia,Россия,Golitsyno,Голицыно,6 288 454,golitsyno,City,golitsyno
+6 308 479,6 308 479,R,153,Russia,Россия,Tuchkovo,Тучково,6 288 454,tuchkovo,City,tuchkovo
+6 308 498,6 308 498,R,153,Russia,Россия,Povarovo,Поварово,6 288 454,povarovo,City,povarovo
+6 308 585,6 308 585,R,153,Russia,Россия,Belaya Gora,Белая Гора,6 288 519,belaya_gora,City,belaya_gora
+6 308 846,6 308 846,R,153,Russia,Россия,Liman,Лиман,6 288 308,liman,City,liman
+6 308 848,6 308 848,R,153,Russia,Россия,Oranzherei,Oranzherei,6 288 308,oranzherei_astrakhan_oblast,City,southern_russia_oranzherei
+6 308 856,6 308 856,R,153,Russia,Россия,Selitrennoye,Selitrennoye,6 288 308,selitrennoye,City,selitrennoye
+6 308 860,6 308 860,R,153,Russia,Россия,Kamen-na-Obi,Камень-на-Оби,6 288 304,kamen-na-obi,City,kamen-na-obi
+6 308 862,6 308 862,R,153,Russia,Россия,Rubtsovsk,Рубцовск,6 288 304,rubtsovsk,City,rubtsovsk
+6 308 864,6 308 864,R,153,Russia,Россия,Zmeinogorsk,Змеиногорск,6 288 304,zmeinogorsk,City,zmeinogorsk
+6 308 866,6 308 866,R,153,Russia,Россия,Belogorsk,Белогорск,6 288 306,belogorsk,City,belogorsk
+6 308 867,6 308 867,R,153,Russia,Россия,Seryshevo,Серышево,6 288 306,seryshevo,City,seryshevo
+6 308 868,6 308 868,R,153,Russia,Россия,Shimanovsk,Шимановск,6 288 306,shimanovsk,City,shimanovsk
+6 308 869,6 308 869,R,153,Russia,Россия,Zeya,Зея,6 288 306,zeya,City,zeya
+6 308 874,6 308 874,R,153,Russia,Россия,Shenkursk,Шенкурск,6 288 307,shenkursk_arkhangelsk_oblast,City,arkhangelsk_oblast_shenkursk
+6 308 875,6 308 875,R,153,Russia,Россия,Oktyabrsky,Октябрьский,6 288 307,oktyabrsky,City,oktyabrsky
+6 308 881,6 308 881,R,153,Russia,Россия,Lomonosovo,Ломоносово,6 288 307,lomonosovo,City,lomonosovo
+6 308 882,6 308 882,R,153,Russia,Россия,Pinega,Пинега,6 288 307,pinega_arkhangelsk_oblast,City,arkhangelsk_oblast_pinega
+6 308 907,6 308 907,R,153,Russia,Россия,Sinyaya Osoka,Синяя Осока,6 288 344,sinyaya_osoka,City,sinyaya_osoka
+6 308 908,6 308 908,R,153,Russia,Россия,Kovrov,Ковров,6 288 571,kovrov,City,kovrov
+965 821 299,965 821 299,R,153,Russia,Россия,Naro-Fominsk,Наро-Фоминск,965 821 051,naro-fominsk,City,naro-fominsk
+965 821 305,965 821 305,R,153,Russia,Россия,Kolpino,Колпино,965 820 996,kolpino,City,kolpino
+965 821 306,965 821 306,R,153,Russia,Россия,Murom,Муром,965 821 141,murom,City,murom
+965 821 307,965 821 307,R,153,Russia,Россия,Yubileyny,Юбилейный,965 821 051,yubileyny,City,yubileyny
+965 821 324,965 821 324,R,153,Russia,Россия,Sheremetyevo,Шереметьево,965 821 051,sheremetyevo,City,sheremetyevo
+965 821 334,965 821 334,R,153,Russia,Россия,Chekhov,Чехов,965 821 051,chekhov,City,chekhov
+965 821 358,965 821 358,R,153,Russia,Россия,Bereznik,Березник,965 820 979,bereznik,City,bereznik
+965 821 360,965 821 360,R,153,Russia,Россия,Holmogory,Холмогоры,965 820 979,holmogory,City,holmogory
+965 821 361,965 821 361,R,153,Russia,Россия,Iliynsko-Podomskoe,Ильинско-Подомское,965 820 979,iliynsko-podomskoe,City,iliynsko-podomskoe
+965 821 364,965 821 364,R,153,Russia,Россия,Karpogory,Карпогоры,965 820 979,karpogory,City,karpogory
+965 821 366,965 821 366,R,153,Russia,Россия,Kodino ,Кодино,965 820 979,kodino,City,kodino
+965 821 367,965 821 367,R,153,Russia,Россия,Konosha ,Коноша,965 820 979,konosha,City,konosha
+965 821 370,965 821 370,R,153,Russia,Россия,Krasnoborsk ,Красноборск,965 820 979,krasnoborsk,City,krasnoborsk
+965 821 372,965 821 372,R,153,Russia,Россия,Lukovetskiy ,Луковецкий,965 820 979,lukovetskiy,City,lukovetskiy
+965 821 373,965 821 373,R,153,Russia,Россия,Maloshuyka ,Малошуйка,965 820 979,maloshuyka,City,maloshuyka
+965 821 375,965 821 375,R,153,Russia,Россия,Mirniy ,Мирный,965 820 979,mirniy,City,mirniy
+965 821 376,965 821 376,R,153,Russia,Россия,Mudyuga ,Мудьюг,965 820 979,mudyuga,City,mudyuga
+965 821 379,965 821 379,R,153,Russia,Россия,Obozerskiy ,Обозерский,965 820 979,obozerskiy,City,obozerskiy
+965 821 383,965 821 383,R,153,Russia,Россия,Plesetsk ,Плесецк,965 820 979,plesetsk,City,plesetsk
+965 821 388,965 821 388,R,153,Russia,Россия,Solvychegodsk ,Сольвычегодск,965 820 979,solvychegodsk,City,solvychegodsk
+965 821 398,965 821 398,R,153,Russia,Россия,Shebekino ,Шебекино,965 821 127,shebekino,City,shebekino
+965 821 399,965 821 399,R,153,Russia,Россия,Elizovo ,Елизово,965 820 925,elizovo,City,elizovo
+965 821 400,965 821 400,R,153,Russia,Россия,Primore ,Приморье,965 820 881,primore,City,primore
+965 821 403,965 821 403,R,153,Russia,Россия,Petrushino ,Петрушино,965 821 141,petrushino,City,petrushino
+965 821 408,965 821 408,R,153,Russia,Россия,Kurovskoe,Куровское,965 821 051,kurovskoe,City,kurovskoe
+965 821 411,965 821 411,R,153,Russia,Россия,Kem ,Кемь,965 820 974,kem,City,kem
+965 821 412,965 821 412,R,153,Russia,Россия,Kostomuksha ,Костомукша,965 820 974,kostomuksha,City,kostomuksha
+965 821 413,965 821 413,R,153,Russia,Россия,Michurinets,Мичуринец,965 821 051,michurinets,City,michurinets
+965 821 414,965 821 414,R,153,Russia,Россия,Lakhdenpokhya ,Лахденпохья,965 820 974,lakhdenpokhya,City,lakhdenpokhya
+965 821 415,965 821 415,R,153,Russia,Россия,Loukhi ,Лоухи,965 820 974,loukhi,City,loukhi
+965 821 421,965 821 421,R,153,Russia,Россия,Pitkyaranta ,Питкяранта,965 820 974,pitkyaranta,City,pitkyaranta
+965 821 431,965 821 431,R,153,Russia,Россия,Shatura,Шатура,965 821 051,shatura,City,shatura
+965 821 432,965 821 432,R,153,Russia,Россия,Suoyarvi,Суоярви,965 820 974,suoyarvi,City,suoyarvi
+965 821 436,965 821 436,R,153,Russia,Россия,Zaraisk,Зарайск,965 821 051,zaraisk,City,zaraisk
+965 821 438,965 821 438,R,153,Russia,Россия,Kugesi ,Кугеси,965 820 992,kugesi,City,kugesi
+965 821 443,965 821 443,R,153,Russia,Россия,Apatity,Апатиты,965 820 939,apatity,City,apatity
+965 821 444,965 821 444,R,153,Russia,Россия,Novocheboksarsk ,Новочебоксарск,965 820 992,novocheboksarsk,City,novocheboksarsk
+965 821 447,965 821 447,R,153,Russia,Россия,Oktyabrskiy ,Октябрьский,965 820 977,oktyabrskiy_bashkortostan,City,bashkortostan_oktyabrskiy
+965 821 449,965 821 449,R,153,Russia,Россия,Lovozero,Ловозеро,965 820 939,lovozero,City,lovozero
+965 821 451,965 821 451,R,153,Russia,Россия,Sterlitamak ,Стерлитамак,965 820 977,sterlitamak,City,sterlitamak
+965 821 452,965 821 452,R,153,Russia,Россия,Syatrakasi ,Сятракасы,965 820 992,syatrakasi,City,syatrakasi
+965 821 454,965 821 454,R,153,Russia,Россия,Syzran ,Сызрань,965 820 938,syzran,City,syzran
+965 821 465,965 821 465,R,153,Russia,Россия,Staraya Russa,Старая Русса,965 820 937,staraya_russa,City,staraya_russa
+965 821 467,965 821 467,R,153,Russia,Россия,Kacha ,Кача,6 057 828,kacha,City,kacha
+965 821 473,965 821 473,R,153,Russia,Россия,Nizhnezamorskoe ,Нижнезаморское,6 057 828,nizhnezamorskoe,City,nizhnezamorskoe
+965 821 476,965 821 476,R,153,Russia,Россия,Peschanoe ,Песчаное,6 057 828,peschanoe,City,peschanoe
+965 821 478,965 821 478,R,153,Russia,Россия,Shtormovoe ,Штормовое,6 057 828,shtormovoe,City,shtormovoe
+965 821 486,965 821 486,R,153,Russia,Россия,Velikie Luki,Великие Луки,965 820 997,velikie_luki,City,velikie_luki
+965 821 522,965 821 522,R,153,Russia,Россия,Gatchina,Гатчина,965 820 996,gatchina,City,gatchina
+965 821 527,965 821 527,R,153,Russia,Россия,Lodeynoe Pole,Лодейное Поле,965 820 996,lodeynoe_pole,City,lodeynoe_pole
+965 821 530,965 821 530,R,153,Russia,Россия,Mainilo,Майнило,965 820 996,mainilo,City,mainilo
+965 821 539,965 821 539,R,153,Russia,Россия,Baikalsk ,Байкальск,965 820 895,baikalsk,City,baikalsk
+965 821 542,965 821 542,R,153,Russia,Россия,Kupino,Купино,965 820 888,kupino,City,kupino
+965 821 546,965 821 546,R,153,Russia,Россия,Arkhipo-Osipovka,Архипо-Осиповка,965 821 147,arkhipo-osipovka,City,arkhipo-osipovka
+965 821 547,965 821 547,R,153,Russia,Россия,Armavir,Армавир,965 821 147,armavir,City,armavir
+965 821 553,965 821 553,R,153,Russia,Россия,Divnomorsk,Дивноморск,965 821 147,divnomorsk,City,divnomorsk
+965 821 568,965 821 568,R,153,Russia,Россия,Loo,Лоо,6 084 686,loo,City,loo
+965 821 569,965 821 569,R,153,Russia,Россия,Nizhnyaya Beranda,Нижняя Беранда,965 821 147,nizhnyaya_beranda,City,nizhnyaya_beranda
+965 821 576,965 821 576,R,153,Russia,Россия,Teberda,Теберда,965 821 148,teberda,City,teberda
+965 821 581,965 821 581,R,153,Russia,Россия,Veseloe,Весёлое,6 084 686,veseloe,City,veseloe
+965 821 586,965 821 586,R,153,Russia,Россия,Pervouralsk,Первоуральск,965 820 941,pervouralsk,City,pervouralsk
+965 821 589,965 821 589,R,153,Russia,Россия,Zelenaya Polyana,Зелёная Поляна,965 821 186,zelenaya_polyana,City,zelenaya_polyana
+965 821 590,965 821 590,R,153,Russia,Россия,Burduguz,Бурдугуз,965 820 895,burduguz,City,burduguz
+965 821 591,965 821 591,R,153,Russia,Россия,Zhilino,Жилино,965 821 051,zhilino,City,zhilino
+965 821 594,965 821 594,R,153,Russia,Россия,Novorzhev,Новоржев,965 820 997,novorzhev,City,novorzhev
+965 821 601,965 821 601,R,153,Russia,Россия,Angarsk,Ангарск,965 820 895,angarsk,City,irkutsk_region_angarsk
+965 821 605,965 821 605,R,153,Russia,Россия,Pashkovskii,Пашковский,1 913,pashkovskii,City,pashkovskii
+965 824 569,965 824 569,R,153,Russia,Россия,Oranzherei,Оранжереи,965 821 124,oranzherei,City,oranzherei
+965 824 570,965 824 570,R,153,Russia,Россия,Breitovo,Брейтово,965 821 117,breitovo,City,breitovo
+965 824 575,965 824 575,R,153,Russia,Россия,Komarovo,Комарово,965 820 996,komarovo,City,komarovo
+965 824 576,965 824 576,R,153,Russia,Россия,Kimri,Кимры,965 820 998,kimri,City,kimri
+965 824 577,965 824 577,R,153,Russia,Россия,Letnyaya Zolotitsa,Летняя Золотица ,965 820 979,letnyaya_zolotitsa,City,letnyaya_zolotitsa
+965 824 582,965 824 582,R,153,Russia,Россия,Medvezhegorsk,Медвежьегорск,965 820 974,medvezhegorsk_karelia,City,karelia_medvezhegorsk
+965 824 586,965 824 586,R,153,Russia,Россия,Akhtubinsk,Ахтубинск,965 821 124,akhtubinsk,City,akhtubinsk
+965 824 681,965 824 681,R,153,Russia,Россия,Polyarnye Zori,Полярные Зори,965 820 939,polyarnye_zori,City,polyarnye_zori
+965 824 759,965 824 759,R,153,Russia,Россия,Kolezhma,Колежма,965 820 974,kolezhma,City,kolezhma
+965 824 761,965 824 761,R,153,Russia,Россия,Smolensk,Смоленск,965 821 118,smolensk,City,smolensk_oblast_smolensk
+965 824 762,965 824 762,R,153,Russia,Россия,Yakhroma,Яхрома,965 821 051,yakhroma,City,yakhroma
+965 824 763,965 824 763,R,153,Russia,Россия,Belokurikha,Белокуриха,965 820 890,belokurikha,City,belokurikha
+965 824 770,965 824 770,R,153,Russia,Россия,Troitsk,Троицк,965 821 186,troitsk,City,troitsk
+965 824 791,965 824 791,R,153,Russia,Россия,Strelna,Стрельна,2 042,strelna,City,leningrad_oblast_strelna
+965 824 943,965 824 943,R,153,Russia,Россия,Kanaka,Канака,6 057 828,kanaka,City,kanaka
+965 824 996,965 824 996,R,153,Russia,Россия,Bannoye Lake,Озеро Банное,965 820 977,bannoye_lake,City,bannoye_lake
+965 825 041,965 825 041,R,153,Russia,Россия,Chernomorskoe,Черноморское,6 057 828,chernomorskoe,City,chernomorskoe
+965 825 290,965 825 290,R,153,Russia,Россия,Zvenigorod,Звенигород,965 821 051,zvenigorod,City,zvenigorod
+965 825 442,965 825 442,R,153,Russia,Россия,Orlovo,Орлово,965 821 051,orlovo,City,orlovo
+965 825 443,965 825 443,R,153,Russia,Россия,Kartmazovo,Картмазово,965 821 051,kartmazovo,City,kartmazovo
+965 825 462,965 825 462,R,153,Russia,Россия,Utes,Утес,6 057 828,utes,City,utes
+965 825 521,965 825 521,R,153,Russia,Россия,Lyugowochi,Люговичи,965 820 996,lyugowochi,City,lyugowochi
+965 825 580,965 825 580,R,153,Russia,Россия,Aleksin,Алексин,6 288 543,aleksin,City,aleksin
+965 825 581,965 825 581,R,153,Russia,Россия,Nemchinovka,Немчиновка,965 821 051,nemchinovka_moscow_region,City,moscow_region_nemchinovka
+965 825 583,965 825 583,R,153,Russia,Россия,Zaborovka,Заборовка,965 820 997,zaborovka,City,zaborovka
+965 825 687,965 825 687,R,153,Russia,Россия,Solnechnogorskoe,Солнечногорское,6 057 828,solnechnogorskoe,City,solnechnogorskoe
+965 825 688,965 825 688,R,153,Russia,Россия,Kremenki,Кременки,965 821 139,kremenki,City,kremenki
+965 825 690,965 825 690,R,153,Russia,Россия,Djemete,Джемете,965 821 147,djemete,City,djemete
+965 825 693,965 825 693,R,153,Russia,Россия,Lesosibirsk,Лесосибирск,965 820 894,lesosibirsk,City,lesosibirsk
+965 825 694,965 825 694,R,153,Russia,Россия,Lesosibirsk,Лесосибирск,965 820 894,lesosibirsk_krasnoyarsk_krai,City,krasnoyarsk_krai_lesosibirsk
+965 825 715,965 825 715,R,153,Russia,Россия,Yam,Ям,965 821 051,yam,City,yam
+965 825 717,965 825 717,R,153,Russia,Россия,Beregovoe,Береговое,6 057 828,beregovoe_crimea,City,crimea_beregovoe
+965 825 740,965 825 740,R,153,Russia,Россия,Ulitkino,Улиткино,965 821 051,ulitkino,City,ulitkino
+965 825 741,965 825 741,R,153,Russia,Россия,Rayki,Райки,965 821 051,rayki,City,rayki
+965 825 836,965 825 836,R,153,Russia,Россия,Privetnoe,Приветное,6 057 828,privetnoe,City,privetnoe
+965 825 845,965 825 845,R,153,Russia,Россия,Novaya Salin,Новая Салынь,965 821 120,novaya_salin,City,novaya_salin
+965 825 913,965 825 913,R,153,Russia,Россия,Burashevo,Бурашево,965 820 998,burashevo,City,burashevo
+965 825 934,965 825 934,R,153,Russia,Россия,Morskoe,Морское,6 057 828,morskoe,City,morskoe
+965 825 983,965 825 983,R,153,Russia,Россия,Malorechenskoe,Малореченское,6 057 828,malorechenskoe,City,malorechenskoe
+965 825 995,965 825 995,R,153,Russia,Россия,Vereya,Верея,965 821 051,vereya,City,vereya
+965 825 996,965 825 996,R,153,Russia,Россия,Vladimirovka ,Владимировка,965 820 938,vladimirovka,City,vladimirovka
+965 825 997,965 825 997,R,153,Russia,Россия,Ribachie,Рыбачье,6 057 828,ribachie,City,ribachie
+965 826 014,965 826 014,R,153,Russia,Россия,Luga,Луга,965 820 996,luga,City,luga
+965 826 023,965 826 023,R,153,Russia,Россия,Ruza,Руза,965 821 051,ruza,City,ruza
+965 826 064,965 826 064,R,153,Russia,Россия,Mozhaysk,Можайск,965 821 051,mozhaysk,City,mozhaysk
+965 826 086,965 826 086,R,153,Russia,Россия,Kotelniki,Котельники,965 821 051,kotelniki,City,kotelniki
+965 826 498,965 826 498,R,153,Russia,Россия,Balaklava,Балаклава,6 057 828,balaklava,City,balaklava
+965 826 542,965 826 542,R,153,Russia,Россия,Khabez,Хабез,6 288 354,khabez,City,khabez
+965 826 551,965 826 551,R,153,Russia,Россия,Plyaho,Пляхо,6 288 364,plyaho,City,plyaho
+965 826 786,965 826 786,R,153,Russia,Россия,Nizhny Tagil,Нижний Тагил,965 820 941,nizhny_tagil,City,nizhny_tagil
+965 826 812,965 826 812,R,153,Russia,Россия,Nefteyugansk,Нефтеюганск,6 288 360,nefteyugansk_khanty-mansi_autonomous_okrug,City,ural_nefteyugansk
+965 826 819,965 826 819,R,153,Russia,Россия,Salekhard,Салехард,6 288 590,salekhard,City,salekhard
+965 826 871,965 826 871,R,153,Russia,Россия,Filimonkovskoe,Филимонковское,6 288 454,filimonkovskoe,City,filimonkovskoe
+965 826 875,965 826 875,R,153,Russia,Россия,Demino,Дёмино,6 288 591,demino,City,demino
+965 826 922,965 826 922,R,153,Russia,Россия,Pesochny,Песочный,2 042,pesochny_saint_petersburg,City,pesochny
+965 826 952,965 826 952,R,153,Russia,Россия,Malysheva,Малышева,6 288 533,malysheva,City,malysheva
+965 827 031,965 827 031,R,153,Russia,Россия,Maryino,Марьино,6 288 454,maryino_moscow_oblast,City,maryino
+965 827 034,965 827 034,R,153,Russia,Россия,Tarusa,Таруса,6 288 454,tarusa,City,tarusa
+965 827 038,965 827 038,R,153,Russia,Россия,Zvizzhi,Звизжи,6 288 351,zvizzhi,City,zvizzhi
+965 827 522,965 827 522,R,153,Russia,Россия,Valuevo,Валуево,965 825 353,valuevo,City,valuevo
+965 827 840,965 827 840,R,153,Russia,Россия,Zelenograd,Зеленоград,2 395,zelao_area,City,zelao
+965 827 846,965 827 846,R,153,Russia,Россия,Uste,Устье,6 288 557,uste,City,uste
+965 827 888,965 827 888,R,153,Russia,Россия,Korobcheevo,Коробчеево,6 288 454,korobcheevo,City,korobcheevo
+965 827 892,965 827 892,R,153,Russia,Россия,Severobaykalsk,Северобайкальск,153,severobaykalsk,City,severobaykalsk
+965 827 932,965 827 932,R,153,Russia,Россия,village Monastir,село Монастырь,6 084 686,village_monastir,City,village_monastir
+965 827 937,965 827 937,R,153,Russia,Россия,Sorochinsk,Сорочинск,965 820 993,sorochinsk,City,sorochinsk
+965 829 168,965 829 168,R,153,Russia,Россия,Sibay,Сибай,965 820 977,sibay,City,sibay
+965 829 180,965 829 180,R,153,Russia,Россия,Yurga,Юрга,6 288 356,yurga_kemerovo_oblast,City,western_siberia_yurga
+965 829 205,965 829 205,R,153,Russia,Россия,Новосёлово,Новоселово,1 798,,City,novosyolovo
+965 829 209,965 829 209,R,153,Russia,Россия,Miass,Миасс,6 288 320,miass,City,miass
+965 829 272,965 829 272,R,153,Russia,Россия,Chebarkul,Чебаркуль,6 288 320,chebarkul,City,chebarkul
+965 829 273,965 829 273,R,153,Russia,Россия,Berezovsky,Березовский,6 288 533,berezovsky,City,berezovsky
+965 829 277,965 829 277,R,153,Russia,Россия,Ordzhonikidze Village,Поселок городского типа Орджоникидзе,6 057 828,ordzhonikidze_village,City,ordzhonikidze_village
+965 829 283,965 829 283,R,153,Russia,Россия,Megvodnoe,Межводное,6 057 828,megvodnoe,City,megvodnoe
+965 829 295,965 829 295,R,153,Russia,Россия,Solnechnoe,Солнечное,965 820 996,solnechnoe,City,solnechnoe
+965 829 298,965 829 298,R,153,Russia,Россия,Primorskiy (Tamanskiy Zaliv),Приморский (Таманский залив),6 288 364,primorskiy_tamanskiy_zaliv,City,primorskiy_(tamanskiy_zaliv)
+965 829 302,965 829 302,R,153,Russia,Россия,Nikolaevka,Николаевка,6 057 828,nikolaevka,City,nikolaevka
+965 829 310,965 829 310,R,153,Russia,Россия,Sayanogorsk,Саяногорск,6 288 358,sayanogorsk,City,sayanogorsk
+965 829 318,965 829 318,R,153,Russia,Россия,Zavolgie,Заволжье,6 288 471,zavolgie,City,zavolgie
+965 829 323,965 829 323,R,153,Russia,Россия,Korobicino,Коробицыно,965 820 996,korobicino,City,korobicino
+965 829 325,965 829 325,R,153,Russia,Россия,Patrushevo,Патрушево,3 450,patrushevo,City,patrushevo
+965 829 327,965 829 327,R,153,Russia,Россия,Sadovii,Садовый,6 288 571,sadovii,City,sadovii
+965 829 329,965 829 329,R,153,Russia,Россия,Big Yalta,Большая Ялта,6 057 828,big_yalta,City,big_yalta
+965 829 336,965 829 336,R,153,Russia,Россия,Zikovshina,Зыковщина,965 820 937,zikovshina,City,zikovshina
+965 829 337,965 829 337,R,153,Russia,Россия,Livni,Ливны,6 288 493,livni,City,livni
+965 829 339,965 829 339,R,153,Russia,Россия,Nedel'noe,Недельное,6 288 351,nedelnoe,City,nedel'noe
+965 829 340,965 829 340,R,153,Russia,Россия,Uspeh,Успех,6 288 308,uspeh,City,astrakhan_oblast_uspeh_street
+965 829 342,965 829 342,R,153,Russia,Россия,Nagorniy,Нагорный,179 619,nagorniy,City,nagorniy
+965 829 343,965 829 343,R,153,Russia,Россия,Nesterovo,Нестерово,6 308 045,nesterovo_ruza,City,nesterovo
+965 829 494,965 829 494,R,153,Russia,Россия,Prohovo,Прохово,6 288 557,prohovo,City,prohovo
+262,262,R,153,Russia,Россия,Abakan,Абакан,6 288 358,abakan,City,abakan
+413,413,R,153,Russia,Россия,Arkhangelsk,Архангельск,6 288 307,arkhangelsk,City,arkhangelsk
+497,497,R,153,Russia,Россия,Barnaul,Барнаул,6 288 304,barnaul,City,barnaul
+1 720,1 720,R,153,Russia,Россия,Yoshkar-Ola,Йошкар-Ола,6 288 370,yoshkar-ola,City,yoshkar-ola
+1 913,1 913,R,153,Russia,Россия,Krasnodar,Краснодар,6 288 364,krasnodar,City,krasnodar
+1 965,1 965,R,153,Russia,Россия,Kirov,Киров,6 288 361,kirov,City,kirov
+1 981,1 981,R,153,Russia,Россия,Komsomolsk Na Amure,Комсомольск-на-Амуре,6 288 357,komsomolsk_na_amure,City,komsomolsk_na_amure
+2 548,2 548,R,153,Russia,Россия,Nefteyugansk,Нефтеюганск,6 288 360,nefteyugansk,City,nefteyugansk
+2 625,2 625,R,153,Russia,Россия,Nadym,Надим,6 288 590,nadym,City,nadym
+2 705,2 705,R,153,Russia,Россия,Orsk,Орск,6 288 492,orsk,City,orsk
+2 915,2 915,R,153,Russia,Россия,Pevek,Певек,6 288 300,pevek,City,pevek
+2 944,2 944,R,153,Russia,Россия,Raduzhny,Радужный,6 288 360,raduzhny,City,raduzhny
+3 197,3 197,R,153,Russia,Россия,Saransk,Саранск,6 288 371,saransk,City,saransk
+3 325,3 325,R,153,Russia,Россия,Strezhevoy,Стрежевой,6 288 541,strezhevoy,City,strezhevoy
+3 504,3 504,R,153,Russia,Россия,Tomsk,Томск,6 288 541,tomsk,City,tomsk
+3 667,3 667,R,153,Russia,Россия,Yuzhno-Sakhalinsk,Южно-Сахалинск,6 288 521,yuzhno-sakhalinsk,City,yuzhno-sakhalinsk
+3 748,3 748,R,153,Russia,Россия,Vladivostok,Владивосток,6 288 496,vladivostok,City,vladivostok
+6 455,6 455,R,153,Russia,Россия,Balakovo,Балаково,6 288 525,balakovo,City,balakovo
+8 304,8 304,R,153,Russia,Россия,Kaluga,Калуга,6 288 351,kaluga,City,kaluga
+10 111,10 111,R,153,Russia,Россия,Tula,Тула,6 288 543,tula,City,tula
+10 198,10 198,R,153,Russia,Россия,Kursk,Курск,6 288 367,kursk,City,kursk
+10 281,10 281,R,153,Russia,Россия,Volgodonsk,Волгодонск,6 288 502,volgodonsk,City,volgodonsk
+179 587,179 587,R,153,Russia,Россия,Vladykino,Владыкино,965 820 996,vladykino,City,vladykino
+179 592,179 592,R,153,Russia,Россия,Troparevo,Тропарево,6 288 454,troparevo,City,troparevo
+179 607,179 607,R,153,Russia,Россия,Lakhta,Лахта,6 288 460,lakhta,City,lakhta
+179 618,179 618,R,153,Russia,Россия,Murino,Мурино,6 288 341,murino,City,murino
+179 622,179 622,R,153,Russia,Россия,Novoarchangelskoje,Новоархангельское,6 288 492,novoarchangelskoje,City,novoarchangelskoje
+179 623,179 623,R,153,Russia,Россия,Ostrov,Остров,6 288 499,ostrov,City,ostrov
+179 629,179 629,R,153,Russia,Россия,Saltykovka,Салтыковка,965 821 051,saltykovka,City,saltykovka
+179 635,179 635,R,153,Russia,Россия,Valuyevo,Валуево,6 288 363,valuyevo,City,valuyevo
+179 638,179 638,R,153,Russia,Россия,Zarecje,Заречье,965 820 996,zarecje,City,zarecje
+179 644,179 644,R,153,Russia,Россия,Volkovo,Волково,965 820 996,volkovo,City,volkovo
+179 661,179 661,R,153,Russia,Россия,Ozerki,Озерки,6 288 304,ozerki,City,ozerki
+179 666,179 666,R,153,Russia,Россия,Novinki,Новинки,6 288 307,novinki,City,novinki
+179 676,179 676,R,153,Russia,Россия,Kamenka,Каменка,965 820 996,kamenka,City,kamenka
+179 685,179 685,R,153,Russia,Россия,Aleksandrovskoye,Александровское,6 288 530,aleksandrovskoye,City,aleksandrovskoye
+601 499,601 499,R,153,Russia,Россия,Krasnoyarsk,Красноярск,6 288 365,krasnoyarsk,City,krasnoyarsk
+602 445,602 445,R,153,Russia,Россия,Atman,Атман,6 057 828,atman,City,atman
+602 510,602 510,R,153,Russia,Россия,Kabardinka,Кабардинка,6 288 364,kabardinka,City,kabardinka
+6 004 447,6 004 447,R,153,Russia,Россия,Ivanteyevka,Ивантеевка,178 289,ivanteyevka,City,ivanteyevka
+6 049 234,6 049 234,R,153,Russia,Россия,Ryazan,Рязань,6 288 506,ryazan,City,ryazan
+6 057 745,6 057 745,R,153,Russia,Россия,Sovetsk,Советск,965 820 933,sovetsk,City,sovetsk
+6 057 777,6 057 777,R,153,Russia,Россия,Domodedovo,Домодедово,965 821 051,domodedovo,City,domodedovo
+6 057 792,6 057 792,R,153,Russia,Россия,Pechki,Печки,965 821 118,pechki,City,pechki
+6 057 804,6 057 804,R,153,Russia,Россия,Krasnaya Polyana,Красная Поляна,6 084 686,krasnaya_polyana,City,krasnaya_polyana
+6 059 261,6 059 261,R,153,Russia,Россия,Pyatigorsk,Пятигорск,6 288 530,pyatigorsk,City,pyatigorsk
+6 085 069,6 085 069,R,153,Russia,Россия,Naryan Mar,Нарьян-Мар,6 288 464,naryan_mar,City,naryan_mar
+6 130 438,6 130 438,R,153,Russia,Россия,Lechishchevo,Лещичево,6 288 454,lechishchevo,City,lechishchevo
+6 131 450,6 131 450,R,153,Russia,Россия,Taman,Таман,6 288 364,taman,City,taman
+6 131 912,6 131 912,R,153,Russia,Россия,Sudak,Судак,6 057 828,sudak,City,sudak
+6 137 274,6 137 274,R,153,Russia,Россия,Ivanovo,Иваново,6 288 344,ivanovo,City,ivanovo
+6 140 993,6 140 993,R,153,Russia,Россия,Lobnya,Лобня,965 821 051,lobnya,City,lobnya
+6 144 821,6 144 821,R,153,Russia,Россия,Roshchino,Рощино,965 820 996,roshchino,City,roshchino
+6 155 685,6 155 685,R,153,Russia,Россия,Boltino,Болтино,965 821 051,boltino,City,boltino
+6 156 875,6 156 875,R,153,Russia,Россия,Rozhdestvenno,Рождественно,6 288 454,rozhdestvenno,City,rozhdestvenno
+6 179 061,6 179 061,R,153,Russia,Россия,Ramenskoye,Раменское,965 821 051,ramenskoye,City,ramenskoye
+6 179 074,6 179 074,R,153,Russia,Россия,Vyksa,Выкса,6 288 471,vyksa,City,vyksa
+6 179 091,6 179 091,R,153,Russia,Россия,Shuya,Шуя,6 288 344,shuya,City,shuya
+6 191 510,6 191 510,R,153,Russia,Россия,Arzamas,Арзамас,1 361,arzamas_volga_region,City,volga_region_arzamas
+6 205 760,6 205 760,R,153,Russia,Россия,Vaya,Вая,6 288 495,vaya,City,vaya
+6 205 769,6 205 769,R,153,Russia,Россия,Segezha,Сегежа,6 288 355,segezha_northwest_russia,City,northwest_russia_segezha
+6 288 333,6 288 333,R,153,Russia,Россия,Nazran,Назрань,6 288 336,nazran,City,nazran
+6 288 346,6 288 346,R,153,Russia,Россия,Birobidzhan,Биробиджан,6 288 347,birobidzhan,City,birobidzhan
+6 293 355,6 293 355,R,153,Russia,Россия,Lazarevskoye,Лазаревское,6 084 686,lazarevskoye,City,lazarevskoye
+6 294 034,6 294 034,R,153,Russia,Россия,Bolshoy Kichmay,Большой Кичмай,6 084 686,bolshoy_kichmay,City,bolshoy_kichmay
+6 297 496,6 297 496,R,153,Russia,Россия,Vatutinki,Ватутинки,178 289,vatutinki_moscow,City,moscow_oblast_vatutinki
+6 297 510,6 297 510,R,153,Russia,Россия,Bol'shoye Ivanovskoye,Большое Ивановское,178 289,bolshoye_ivanovskoye,City,bol'shoye_ivanovskoye
+6 297 569,6 297 569,R,153,Russia,Россия,Aleksandrovka,Александровка,178 289,aleksandrovka,City,aleksandrovka
+6 297 597,6 297 597,R,153,Russia,Россия,Yubileyny,Юбилейный,178 289,yubileyny_moscow,City,moscow_oblast_yubileyny
+6 297 670,6 297 670,R,153,Russia,Россия,Molokovo,Молоково,178 289,molokovo,City,molokovo
+6 297 756,6 297 756,R,153,Russia,Россия,Krasnaya Gorka,Красная Горка,178 289,krasnaya_gorka,City,krasnaya_gorka
+6 303 233,6 303 233,R,153,Russia,Россия,Volochaevskoye,Волочаевское,6 057 744,volochaevskoye,City,volochaevskoye
+6 303 274,6 303 274,R,153,Russia,Россия,Fadeevo,Фадеево,6 288 364,fadeevo,City,fadeevo
+6 303 294,6 303 294,R,153,Russia,Россия,Su-Psekh,Су-Псех,6 288 364,su-psekh,City,su-psekh
+6 303 302,6 303 302,R,153,Russia,Россия,Yurkyne,Юркино,6 057 828,yurkyne,City,yurkyne
+6 303 372,6 303 372,R,153,Russia,Россия,Psebay,Псебай,6 288 364,psebay,City,psebay
+6 303 518,6 303 518,R,153,Russia,Россия,Pesochny,Песочный,965 820 996,pesochny,City,saint_petersburg_pesochny_neighborhood
+6 303 900,6 303 900,R,153,Russia,Россия,Zhivotino,Животино,6 288 454,zhivotino,City,zhivotino
+6 303 902,6 303 902,R,153,Russia,Россия,Dubna,Дубна,6 288 454,dubna_moscow_oblast,City,moscow_oblast_dubna
+6 304 330,6 304 330,R,153,Russia,Россия,Nekrasovo,Некрасово,6 057 744,nekrasovo,City,nekrasovo
+6 304 372,6 304 372,R,153,Russia,Россия,Navashino,Навашино,6 288 471,navashino,City,navashino
+6 304 505,6 304 505,R,153,Russia,Россия,Divnogorsk,Дивногорск,6 288 365,divnogorsk,City,divnogorsk
+6 304 655,6 304 655,R,153,Russia,Россия,Yaroslavl Historic City Centre,Исторический центр Ярославля,6 288 591,yaroslavl_historic_city_centre,City,yaroslavl_historic_city_centre
+6 304 741,6 304 741,R,153,Russia,Россия,Katun,Катунь,6 288 305,katun,City,katun
+6 304 742,6 304 742,R,153,Russia,Россия,Manzherok,Манжерок,6 288 305,manzherok,City,manzherok
+6 304 744,6 304 744,R,153,Russia,Россия,Biysk,Бийск,6 288 304,biysk_altai_krai,City,altai_krai_biysk
+6 305 170,6 305 170,R,153,Russia,Россия,Krasnoye,Красное,6 288 316,krasnoye,City,krasnoye
+6 305 376,6 305 376,R,153,Russia,Россия,Sheregesh,Шерегеш,6 288 356,sheregesh_kemerovo_oblast,City,western_siberia_sheregesh
+6 307 306,6 307 306,R,153,Russia,Россия,Zhudre,Жудре,6 288 493,zhudre,City,zhudre
+6 307 314,6 307 314,R,153,Russia,Россия,Netyinka,Нетьинка,6 288 317,netyinka,City,netyinka
+6 307 373,6 307 373,R,153,Russia,Россия,Yakty-Kul',Якты-Куль,6 288 314,yakty-kul,City,yakty-kul'
+6 307 374,6 307 374,R,153,Russia,Россия,Zelyonaya Polyana,Зелёная Поляна,6 288 314,zelyonaya_polyana,City,zelyonaya_polyana
+6 307 632,6 307 632,R,153,Russia,Россия,Utulik,Утулик,6 288 341,utulik,City,utulik
+6 307 637,6 307 637,R,153,Russia,Россия,Bol'shoye Goloustnoye,Большое Голоустное,6 288 341,bolshoye_goloustnoye,City,bol'shoye_goloustnoye
+6 308 037,6 308 037,R,153,Russia,Россия,Bronnitsy,Бронницы,6 288 454,bronnitsy_moscow_oblast,City,moscow_oblast_bronnitsy
+6 308 044,6 308 044,R,153,Russia,Россия,Borodino,Бородино,6 288 454,borodino,City,borodino
+6 308 046,6 308 046,R,153,Russia,Россия,Volokolamsk,Волоколамск,6 288 454,volokolamsk_moscow_oblast,City,moscow_oblast_volokolamsk
+6 308 149,6 308 149,R,153,Russia,Россия,Obninsk,Обнинск,6 288 351,obninsk_kaluga_oblast,City,central_russia_obninsk
+6 308 442,6 308 442,R,153,Russia,Россия,Lukhovitsy,Луховицы,6 288 454,lukhovitsy,City,lukhovitsy
+6 308 521,6 308 521,R,153,Russia,Россия,Klimovsk,Климовск,178 289,klimovsk,City,klimovsk
+6 308 852,6 308 852,R,153,Russia,Россия,Kamyzyak,Камызяк,6 288 308,kamyzyak,City,kamyzyak
+6 308 880,6 308 880,R,153,Russia,Россия,Severodvinsk,Severodvinsk,6 288 307,severodvinsk_arkhangelsk_oblast,City,arkhangelsk_oblast_severodvinsk
+6 308 906,6 308 906,R,153,Russia,Россия,Kineshma,Kineshma,6 288 344,kineshma_ivanovo_oblast,City,golden_ring_kineshma
+6 308 910,6 308 910,R,153,Russia,Россия,Pavlovskoye,Павловское,6 288 591,pavlovskoye,City,pavlovskoye
+965 821 298,965 821 298,R,153,Russia,Россия,Dolgoprudny,Долгопрудный,965 821 051,dolgoprudny,City,dolgoprudny
+965 821 301,965 821 301,R,153,Russia,Россия,Kondopoga,Кондопога,965 820 974,kondopoga,City,kondopoga
+965 821 302,965 821 302,R,153,Russia,Россия,Stary Oskol,Старый Оскол,965 821 127,stary_oskol,City,stary_oskol
+965 821 325,965 821 325,R,153,Russia,Россия,Pulkovo,Пулково,965 820 996,pulkovo,City,pulkovo
+965 821 336,965 821 336,R,153,Russia,Россия,Belomorsk,Беломорск,965 820 974,belomorsk,City,belomorsk
+965 821 342,965 821 342,R,153,Russia,Россия,Azov,Азов,965 821 103,azov,City,azov
+965 821 377,965 821 377,R,153,Russia,Россия,Novodvinsk ,Новодвинск,965 820 979,novodvinsk,City,novodvinsk
+965 821 378,965 821 378,R,153,Russia,Россия,Dmitrov,Дмитров,965 821 051,dmitrov,City,dmitrov
+965 821 380,965 821 380,R,153,Russia,Россия,Oktyabrskiy ,Октябрьский,965 820 979,oktyabrskiy_arkhangelsk_oblast,City,oktyabrskiy
+965 821 396,965 821 396,R,153,Russia,Россия,Yarensk ,Яренск,965 820 979,yarensk,City,yarensk
+965 821 402,965 821 402,R,153,Russia,Россия,Pereslavl-Zalesskiy ,Переславль-Залесский,965 821 117,pereslavl-zalesskiy,City,pereslavl-zalesskiy
+965 821 405,965 821 405,R,153,Russia,Россия,Jantarniy ,Янтарный,965 820 933,jantarniy,City,jantarniy
+965 821 419,965 821 419,R,153,Russia,Россия,Oktyabrskiy,Октябрьский,965 821 051,oktyabrskiy,City,moscow_region_oktyabrskiy
+965 821 426,965 821 426,R,153,Russia,Россия,Rabocheostrovsk ,Рабочеостровск,965 820 974,rabocheostrovsk,City,rabocheostrovsk
+965 821 427,965 821 427,R,153,Russia,Россия,Salmi ,Салми,965 820 974,salmi,City,salmi
+965 821 433,965 821 433,R,153,Russia,Россия,Solnechnogorsk,Солнечногорск,965 821 051,solnechnogorsk,City,solnechnogorsk
+965 821 440,965 821 440,R,153,Russia,Россия,Zhukovskiy,Жуковский,965 821 051,zhukovskiy,City,zhukovskiy
+965 821 448,965 821 448,R,153,Russia,Россия,Salavat ,Салават,965 820 977,salavat,City,salavat
+965 821 450,965 821 450,R,153,Russia,Россия,Sarov ,Саров,965 821 142,sarov,City,sarov
+965 821 466,965 821 466,R,153,Russia,Россия,Gurzuf ,Гурзуф,6 084 933,gurzuf,City,gurzuf
+965 821 475,965 821 475,R,153,Russia,Россия,Partenit ,Партенит,6 057 828,partenit,City,partenit
+965 821 533,965 821 533,R,153,Russia,Россия,Sosnovyi Bor,Сосновый бор,965 820 996,sosnovyi_bor,City,sosnovyi_bor
+965 821 538,965 821 538,R,153,Russia,Россия,Angarsk,Ангарск,965 820 895,angarsk_irkutsk_region,City,angarsk
+965 821 541,965 821 541,R,153,Russia,Россия,Kuibyshev,Куйбышев,965 820 888,kuibyshev,City,kuibyshev
+965 821 543,965 821 543,R,153,Russia,Россия,Nikola,Никола,965 820 895,nikola,City,nikola
+965 821 550,965 821 550,R,153,Russia,Россия,Betta,Бетта,965 821 147,betta,City,betta
+965 821 557,965 821 557,R,153,Russia,Россия,Elbrus,Эльбрус,965 821 551,elbrus_prielbruse,City,elbrus
+965 821 561,965 821 561,R,153,Russia,Россия,Iakornaia Shchel,Якорная Щель,6 084 686,iakornaia_shchel,City,iakornaia_shchel
+965 821 564,965 821 564,R,153,Russia,Россия,Khosta,Хоста,6 084 686,khosta,City,khosta
+965 821 571,965 821 571,R,153,Russia,Россия,Peresyp,Пересыпь,965 821 147,peresyp,City,peresyp
+965 821 574,965 821 574,R,153,Russia,Россия,Sukko,Сукко,965 821 147,sukko,City,sukko
+965 821 578,965 821 578,R,153,Russia,Россия,Tuapse,Туапсе,965 821 147,tuapse,City,tuapse
+965 821 602,965 821 602,R,153,Russia,Россия,Dubna,Дубна,965 821 051,dubna,City,dubna
+965 821 603,965 821 603,R,153,Russia,Россия,Znamensk,Знаменск,965 821 124,znamensk,City,znamensk
+965 824 566,965 824 566,R,153,Russia,Россия,Dimitrovgrad,Димитровград,965 820 991,dimitrovgrad,City,dimitrovgrad
+965 824 572,965 824 572,R,153,Russia,Россия,Undori,Ундоры,965 820 991,undori,City,undori
+965 824 585,965 824 585,R,153,Russia,Россия,Velikaya Guba,Великая Губа,965 821 417,velikaya_guba,City,velikaya_guba
+965 824 658,965 824 658,R,153,Russia,Россия,Biysk,Бийск,965 820 890,biysk,City,biysk
+965 824 768,965 824 768,R,153,Russia,Россия,Berezniki,Березники,965 820 954,berezniki,City,berezniki
+965 824 944,965 824 944,R,153,Russia,Россия,Zelenaya Polyana,Зеленая поляна,965 820 977,zelenaya_polyana_bashkortostan,City,bashkortostan_zelenaya_polyana
+965 825 063,965 825 063,R,153,Russia,Россия,Achinsk,Ачинск,965 820 894,achinsk,City,achinsk
+965 825 352,965 825 352,R,153,Russia,Россия,Totma,Тотьма,965 820 980,totma,City,totma
+965 825 444,965 825 444,R,153,Russia,Россия,Trusovo,Трусово,965 821 051,trusovo,City,trusovo
+965 825 526,965 825 526,R,153,Russia,Россия,Kobona,Кобона,965 820 996,kobona,City,kobona
+965 825 585,965 825 585,R,153,Russia,Россия,Kineshma,Кинешма,965 821 355,kineshma,City,kineshma
+965 825 590,965 825 590,R,153,Russia,Россия,Gorodets,Городец,965 821 142,gorodets,City,gorodets
+965 825 945,965 825 945,R,153,Russia,Россия,Ozyory,Озеры,965 821 051,ozyory,City,ozyory
+965 825 993,965 825 993,R,153,Russia,Россия,Opolznevoe,Оползневое,6 057 828,opolznevoe,City,opolznevoe
+965 826 414,965 826 414,R,153,Russia,Россия,Ishim,Ишим,965 820 886,ishim,City,ishim
+965 827 887,965 827 887,R,153,Russia,Россия,Krasnoselovka,Красносёловка,6 057 828,krasnoselovka,City,krasnoselovka
+965 827 940,965 827 940,R,153,Russia,Россия,Petrovo,Петрово,6 288 351,petrovo,City,petrovo
+965 829 198,965 829 198,R,153,Russia,Россия,Volkovskoye,Волковское,6 288 533,volkovskoye,City,volkovskoye
+965 829 202,965 829 202,R,153,Russia,Россия,Priozersk,Приозерск,153,priozersk,City,priozersk
+965 829 206,965 829 206,R,153,Russia,Россия,Novosyolovo,Новосёлово,965 820 933,novosyolovo,City,novosyolovo2
+965 829 233,965 829 233,R,153,Russia,Россия,Mostovskoy,Мостовской,6 288 364,mostovskoy_krasnodar_krai,City,mostovskoy2
+965 829 293,965 829 293,R,153,Russia,Россия,Prokopevsk,Прокопьевск,153,prokopevsk,City,prokopevsk
+965 829 304,965 829 304,R,153,Russia,Россия,Dvoriki,Дворики,6 288 571,dvoriki,City,dvoriki
+965 829 309,965 829 309,R,153,Russia,Россия,Bzhid,Бжид,6 288 364,bzhid,City,bzhid
+965 829 314,965 829 314,R,153,Russia,Россия,Utkino,Уткино,965 820 996,utkino,City,utkino
+965 829 317,965 829 317,R,153,Russia,Россия,Emel'yanovo,Емельяново,6 288 365,emelyanovo,City,emel'yanovo
+965 829 324,965 829 324,R,153,Russia,Россия,Priyatnoe Svidanie,Приятное Свидание,3 169,priyatnoe_svidanie,City,priyatnoe_svidanie
+965 829 334,965 829 334,R,153,Russia,Россия,Krasnoslobotsk,Краснослободск,6 288 574,krasnoslobotsk,City,krasnoslobotsk
+965 829 341,965 829 341,R,153,Russia,Россия,Cemdolina,Цемдолина,9 014,cemdolina,City,cemdolina
+299,299,R,153,Russia,Россия,Adler,Адлер,6 084 686,adler,City,adler
+424,424,R,153,Russia,Россия,Astrakhan,Астрахань,6 288 308,astrakhan,City,astrakhan
+706,706,R,153,Russia,Россия,Bratsk,Братск,6 288 341,bratsk,City,bratsk
+923,923,R,153,Russia,Россия,Cheboksary,Чебоксары,6 288 321,cheboksary,City,cheboksary
+1 114,1 114,R,153,Russia,Россия,Yeniseysk,Енисейск,6 288 365,yeniseysk,City,yeniseysk
+1 300,1 300,R,153,Russia,Россия,Magadan,Магадан,6 288 369,magadan,City,magadan
+1 581,1 581,R,153,Russia,Россия,Izhevsk,Ижевск,6 288 559,izhevsk,City,izhevsk
+1 866,1 866,R,153,Russia,Россия,Kostroma,Кострома,6 288 363,kostroma,City,kostroma
+2 564,2 564,R,153,Russia,Россия,Nizhnevartovsk,Нижневартовск,6 288 360,nizhnevartovsk,City,nizhnevartovsk
+3 048,3 048,R,153,Russia,Россия,Saratov,Саратов,6 288 525,saratov,City,saratov
+3 169,3 169,R,153,Russia,Россия,Simferopol,Симферополь,6 057 828,simferopol,City,simferopol
+3 291,3 291,R,153,Russia,Россия,Stavropol,Ставрополь,6 288 530,stavropol,City,stavropol
+3 450,3 450,R,153,Russia,Россия,Tyumen,Тюмень,6 288 558,tyumen,City,tyumen
+5 580,5 580,R,153,Russia,Россия,Sochi,Сочи,6 084 686,sochi,City,sochi
+179 599,179 599,R,153,Russia,Россия,Balashikha,Балашиха,965 821 051,balashikha,City,balashikha
+179 601,179 601,R,153,Russia,Россия,Druzhba,Дружба,6 288 316,druzhba,City,druzhba
+179 605,179 605,R,153,Russia,Россия,Krasnogorsk,Красногорск,965 821 051,krasnogorsk,City,krasnogorsk
+179 608,179 608,R,153,Russia,Россия,Lenino,Ленино,6 288 352,lenino,City,lenino
+179 610,179 610,R,153,Russia,Россия,Lytkarino,Лыткарино,965 821 051,lytkarino,City,lytkarino
+179 636,179 636,R,153,Russia,Россия,Vidnoye,Видное,965 821 051,vidnoye,City,vidnoye
+179 640,179 640,R,153,Russia,Россия,Zhernovka,Жерновка,6 288 525,zhernovka,City,zhernovka
+179 641,179 641,R,153,Russia,Россия,Zaozerye,Заозерье,965 820 996,zaozerye,City,zaozerye
+179 653,179 653,R,153,Russia,Россия,Saburovo,Сабурово,6 288 493,saburovo,City,saburovo
+179 659,179 659,R,153,Russia,Россия,Petrovskoye,Петровское,6 288 557,petrovskoye,City,petrovskoye
+179 669,179 669,R,153,Russia,Россия,Nikolskoye,Никольское,965 820 996,nikolskoye,City,nikolskoye
+179 675,179 675,R,153,Russia,Россия,Khoroshevo,Хорошево,965 820 998,khoroshevo,City,khoroshevo
+179 681,179 681,R,153,Russia,Россия,Dachnoye,Дачное,6 288 521,dachnoye,City,dachnoye
+180 349,180 349,R,153,Russia,Россия,Yaroslavl,Ярославль,6 288 591,yaroslavl,City,yaroslavl
+602 094,602 094,R,153,Russia,Россия,Veliky,Великий,6 288 499,veliky,City,veliky
+602 260,602 260,R,153,Russia,Россия,Tver,Тверь,6 288 557,tver,City,tver
+602 261,602 261,R,153,Russia,Россия,Suzdal,Суздаль,6 288 571,suzdal,City,suzdal
+6 046 657,6 046 657,R,153,Russia,Россия,Khanty-Mansiysk,Ханты-Мансийск,6 288 360,khanty-mansiysk,City,khanty-mansiysk
+6 118 907,6 118 907,R,153,Russia,Россия,Wrangel Island,Заповедник «Остров Врангеля»,6 288 300,wrangel_island,City,russia_wrangel_island_interest
+6 126 083,6 126 083,R,153,Russia,Россия,Orel,Орел,6 288 493,orel_oryol_oblast,City,orel
+6 130 481,6 130 481,R,153,Russia,Россия,Brekhovo,Брехово,965 821 051,brekhovo,City,brekhovo
+6 130 564,6 130 564,R,153,Russia,Россия,Romashkovo,Ромашково,965 821 051,romashkovo,City,romashkovo
+6 134 450,6 134 450,R,153,Russia,Россия,Olginka,Ольгинка,965 821 147,olginka,City,olginka
+6 135 603,6 135 603,R,153,Russia,Россия,Berdsk,Бердск,6 288 487,berdsk,City,berdsk
+6 142 336,6 142 336,R,153,Russia,Россия,Sergiyev Posad,Сергиев Посад,6 288 454,sergiyev_posad,City,sergiyev_posad
+6 144 514,6 144 514,R,153,Russia,Россия,Kurumoch,Курумоч,6 288 524,kurumoch,City,kurumoch
+6 144 522,6 144 522,R,153,Russia,Россия,Rumyantsevo,Румянцево,965 821 051,rumyantsevo,City,rumyantsevo
+6 145 054,6 145 054,R,153,Russia,Россия,Bakhchisaray,Бахчисарай,6 057 828,bakhchisaray,City,bakhchisaray
+6 199 007,6 199 007,R,153,Russia,Россия,Elbrus,Эльбрус,6 288 349,elbrus,City,southern_russia_elbrus
+6 205 752,6 205 752,R,153,Russia,Россия,Ferapontovo,Ферапонтово,6 288 579,ferapontovo,City,ferapontovo
+6 218 494,6 218 494,R,153,Russia,Россия,Ozernovskiy,Озерновский,6 288 352,ozernovskiy,City,ozernovskiy
+6 223 555,6 223 555,R,153,Russia,Россия,Gatchina,Гатчина,6 057 691,gatchina_leningrad_region,City,leningrad_region_gatchina
+6 242 340,6 242 340,R,153,Russia,Россия,Rybinsk,Рыбинск,6 288 591,rybinsk_golden_ring,City,golden_ring_rybinsk
+6 293 359,6 293 359,R,153,Russia,Россия,Ashe,Аше,6 084 686,ashe,City,ashe
+6 293 364,6 293 364,R,153,Russia,Россия,Makopse,Макопсе,6 084 686,makopse,City,makopse
+6 293 424,6 293 424,R,153,Russia,Россия,Betta,Бетта,6 288 364,betta_krasnodar_krai,City,southern_russia_betta
+6 293 705,6 293 705,R,153,Russia,Россия,Caucasian Biosphere Reserve,Кавказский государственный природный биос,6 084 686,caucasian_biosphere_reserve,City,caucasian_biosphere_reserve
+6 295 390,6 295 390,R,153,Russia,Россия,Rosa Khutor Ski Resort,Горнолыжный курорт Rosa Khutor,6 084 686,rosa_khutor_ski_resort,City,rosa_khutor_ski_resort
+6 297 403,6 297 403,R,153,Russia,Россия,Shevyolkino,Шевёлкино,178 289,shevyolkino,City,shevyolkino
+6 297 441,6 297 441,R,153,Russia,Россия,Novaya Kupavna,Новая Купавна,178 289,novaya_kupavna,City,novaya_kupavna
+6 297 466,6 297 466,R,153,Russia,Россия,Pushkino,Пушкино,178 289,pushkino_moscow,City,moscow_oblast_pushkino
+6 297 535,6 297 535,R,153,Russia,Россия,Lukino,Лукино,178 289,lukino,City,lukino
+6 297 571,6 297 571,R,153,Russia,Россия,Nemchinovka,Немчиновка,178 289,nemchinovka_moscow,City,moscow_oblast_nemchinovka
+6 297 678,6 297 678,R,153,Russia,Россия,Michurinets,Мичуринец,178 289,michurinets_moscow,City,moscow_oblast_michurinets
+6 300 193,6 300 193,R,153,Russia,Россия,Bor,Бор,1 361,bor_6300193,City,volga_region_bor
+6 301 383,6 301 383,R,153,Russia,Россия,Kosulino,Косулино,6 049 238,kosulino,City,kosulino
+6 301 415,6 301 415,R,153,Russia,Россия,Asbest,Асбест,6 288 533,asbest,City,asbest
+6 301 424,6 301 424,R,153,Russia,Россия,Rezh,Реж,6 288 533,rezh,City,rezh
+6 303 186,6 303 186,R,153,Russia,Россия,Lesnoy,Лесной,6 057 744,lesnoy,City,lesnoy
+6 303 262,6 303 262,R,153,Russia,Россия,Maraunenhof,Марауненхоф,6 057 744,maraunenhof,City,maraunenhof
+6 303 266,6 303 266,R,153,Russia,Россия,Dzhankhot,Джанхот,6 288 364,dzhankhot_krasnodar_krai,City,southern_russia_dzhankhot
+6 303 293,6 303 293,R,153,Russia,Россия,Vityazevo,Витязево,6 288 364,vityazevo_krasnodar_krai,City,southern_russia_vityazevo
+6 303 303,6 303 303,R,153,Russia,Россия,Osovyny,Осовины,6 057 828,osovyny,City,osovyny
+6 303 482,6 303 482,R,153,Russia,Россия,Gostilitsy,Гостилицы,6 057 691,gostilitsy,City,gostilitsy
+6 303 519,6 303 519,R,153,Russia,Россия,Ilyichevo,Ильичево,6 057 691,ilyichevo,City,ilyichevo
+6 303 675,6 303 675,R,153,Russia,Россия,Vysotsk,Высоцк,6 057 691,vysotsk,City,vysotsk
+6 303 881,6 303 881,R,153,Russia,Россия,Zvenigorod,Звенигород,6 288 454,zvenigorod_moscow_oblast,City,moscow_oblast_zvenigorod
+6 303 898,6 303 898,R,153,Russia,Россия,Abramtsevo,Абрамцево,6 288 454,abramtsevo_moscow_oblast,City,moscow_oblast_abramtsevo
+6 304 413,6 304 413,R,153,Russia,Россия,Chernovskaya,Черновская,6 288 571,chernovskaya,City,chernovskaya
+6 304 739,6 304 739,R,153,Russia,Россия,Chemal,Чемал,6 288 305,chemal,City,chemal
+6 304 743,6 304 743,R,153,Russia,Россия,Belokurikha,Белокуриха,6 288 304,belokurikha_altai_krai,City,altai_krai_belokurikha
+6 304 747,6 304 747,R,153,Russia,Россия,Chindek,Чиндек,6 288 305,chindek,City,chindek
+6 306 801,6 306 801,R,153,Russia,Россия,Almetyevsk,Альметьевск,6 288 539,almetyevsk,City,almetyevsk
+6 306 802,6 306 802,R,153,Russia,Россия,Slavyansk-na-Kubani,Славянск-на-Кубани,6 288 364,slavyansk-na-kubani,City,slavyansk-na-kubani
+6 306 807,6 306 807,R,153,Russia,Россия,Serpukhov,Серпухов,6 288 454,serpukhov_moscow_oblast,City,central_russia_serpukhov
+6 307 166,6 307 166,R,153,Russia,Россия,Prokhorovka,Прохоровка,6 288 316,prokhorovka,City,prokhorovka
+6 307 302,6 307 302,R,153,Russia,Россия,Khotynets,Хотынец,6 288 493,khotynets,City,khotynets
+6 307 328,6 307 328,R,153,Russia,Россия,Magas,Магас,6 288 336,magas,City,magas
+6 307 358,6 307 358,R,153,Russia,Россия,Yuzhnouralsk,Южноуральск,6 288 320,yuzhnouralsk,City,yuzhnouralsk
+6 307 376,6 307 376,R,153,Russia,Россия,Abzakovo,Абзаково,6 288 314,abzakovo_republic_of_bashkortostan,City,ural_abzakovo
+6 307 644,6 307 644,R,153,Russia,Россия,Sarma,Сарма,6 288 341,sarma,City,sarma
+6 307 666,6 307 666,R,153,Russia,Россия,Patrony,Патроны,6 084 689,patrony,City,patrony
+6 307 686,6 307 686,R,153,Russia,Россия,Baykal,Байкал,6 084 689,baykal,City,baykal
+6 307 688,6 307 688,R,153,Russia,Россия,Maksimikha,Максимиха,6 288 318,maksimikha,City,maksimikha
+6 308 040,6 308 040,R,153,Russia,Россия,Protvino,Протвино,6 288 454,protvino,City,protvino
+6 308 045,6 308 045,R,153,Russia,Россия,Ruza,Руза,6 288 454,ruza_moscow_oblast,City,moscow_oblast_ruza
+6 308 047,6 308 047,R,153,Russia,Россия,Shakhovskaya,Шаховская,6 288 454,shakhovskaya,City,shakhovskaya
+6 308 460,6 308 460,R,153,Russia,Россия,Konobeevo,Конобеево,6 288 454,konobeevo,City,konobeevo
+6 308 461,6 308 461,R,153,Russia,Россия,Vinogradovo,Виноградово,6 288 454,vinogradovo,City,vinogradovo
+6 308 468,6 308 468,R,153,Russia,Россия,Zhilevo,Жилево,6 288 454,zhilevo,City,zhilevo
+6 308 473,6 308 473,R,153,Russia,Россия,Sandarovo,Сандарово,6 288 454,sandarovo,City,sandarovo
+6 308 481,6 308 481,R,153,Russia,Россия,Chismena,Чисмена,6 288 454,chismena,City,chismena
+6 308 509,6 308 509,R,153,Russia,Россия,Malyshevo,Малышево,6 288 454,malyshevo,City,malyshevo
+6 308 516,6 308 516,R,153,Russia,Россия,Lugovaya,Луговая,178 289,lugovaya,City,lugovaya
+6 308 536,6 308 536,R,153,Russia,Россия,Selyatino,Селятино,6 288 454,selyatino,City,selyatino
+6 308 876,6 308 876,R,153,Russia,Россия,Velsk,Velsk,6 288 307,velsk_arkhangelsk_oblast,City,arkhangelsk_oblast_velsk
+6 308 912,6 308 912,R,153,Russia,Россия,Tunoshna,Туношна,6 288 591,tunoshna,City,tunoshna
+965 821 303,965 821 303,R,153,Russia,Россия,Zheleznovodsk,Железноводск,965 821 145,zheleznovodsk,City,zheleznovodsk
+965 821 359,965 821 359,R,153,Russia,Россия,Ertsevo,Ерцево,965 820 979,ertsevo,City,ertsevo
+965 821 381,965 821 381,R,153,Russia,Россия,Onega ,Онега,965 820 979,onega,City,onega
+965 821 391,965 821 391,R,153,Russia,Россия,Verhnyaya Toyma ,Верхняя Тойма,965 820 979,verhnyaya_toyma,City,verhnyaya_toyma
+965 821 401,965 821 401,R,153,Russia,Россия,Lunevo ,Лунево,965 821 116,lunevo,City,lunevo
+965 821 407,965 821 407,R,153,Russia,Россия,Rybachiy ,Рыбачий,965 820 933,rybachiy,City,rybachiy
+965 821 416,965 821 416,R,153,Russia,Россия,Noginsk,Ногинск,965 821 051,noginsk,City,noginsk
+965 821 422,965 821 422,R,153,Russia,Россия,Podolsk,Подольск,965 821 051,podolsk,City,podolsk
+965 821 425,965 821 425,R,153,Russia,Россия,Pudozh ,Пудож,965 820 974,pudozh,City,pudozh
+965 821 434,965 821 434,R,153,Russia,Россия,Almetevsk ,Альметьевск,965 820 976,almetevsk,City,almetevsk
+965 821 441,965 821 441,R,153,Russia,Россия,Neftekamsk ,Нефтекамск,965 820 977,neftekamsk,City,neftekamsk
+965 821 445,965 821 445,R,153,Russia,Россия,Kanevka,Каневка,965 820 939,kanevka,City,kanevka
+965 821 455,965 821 455,R,153,Russia,Россия,Vyksa ,Выкса,965 821 142,vyksa_nizhny_novgorod_oblast,City,nizhny_novgorod_oblast_vyksa
+965 821 462,965 821 462,R,153,Russia,Россия,Foros ,Форос,6 084 933,foros,City,foros
+965 821 469,965 821 469,R,153,Russia,Россия,Koktebel ,Коктебель,6 057 828,koktebel,City,koktebel
+965 821 470,965 821 470,R,153,Russia,Россия,Koreiz ,Кореиз,6 084 933,koreiz,City,koreiz
+965 821 472,965 821 472,R,153,Russia,Россия,Mirniy ,Мирный,6 057 828,mirniy_crimea,City,crinea_mirniy
+965 821 474,965 821 474,R,153,Russia,Россия,Novyy Svet ,Новый Свет,6 057 828,novyy_svet,City,novyy_svet
+965 821 477,965 821 477,R,153,Russia,Россия,Saki ,Саки,6 057 828,saki,City,saki
+965 821 479,965 821 479,R,153,Russia,Россия,Uglovoe ,Угловое,6 057 828,uglovoe,City,uglovoe
+965 821 484,965 821 484,R,153,Russia,Россия,Pechory,Печоры,965 820 997,pechory,City,pechory
+965 821 528,965 821 528,R,153,Russia,Россия,Lomonosov,Ломоносов,965 820 996,lomonosov,City,lomonosov
+965 821 532,965 821 532,R,153,Russia,Россия,Shlisselburg,Шлиссельбург,965 820 996,shlisselburg,City,shlisselburg
+965 821 534,965 821 534,R,153,Russia,Россия,Tikhvin,Тихвин,965 820 996,tikhvin,City,tikhvin
+965 821 540,965 821 540,R,153,Russia,Россия,Gorno-Altaisk,Горно-Алтайск,965 820 891,gorno-altaisk,City,gorno-altaisk
+965 821 545,965 821 545,R,153,Russia,Россия,Sheregesh,Шерегеш,965 820 889,sheregesh,City,sheregesh
+965 821 558,965 821 558,R,153,Russia,Россия,Esto-Sadok,Эсто-Садок,6 084 686,esto-sadok,City,esto-sadok
+965 821 559,965 821 559,R,153,Russia,Россия,Golubitskaya,Голубицкая,965 821 147,golubitskaya,City,golubitskaya
+965 821 562,965 821 562,R,153,Russia,Россия,Inozemcevo,Иноземцево,965 821 147,inozemcevo,City,inozemcevo
+965 821 565,965 821 565,R,153,Russia,Россия,Kuchuguri,Кучугуры,965 821 147,kuchuguri,City,kuchuguri
+965 821 566,965 821 566,R,153,Russia,Россия,Labinsk,Лабинск,965 821 147,labinsk,City,labinsk
+965 821 592,965 821 592,R,153,Russia,Россия,Prokhorovo,Прохорово,965 821 051,prokhorovo,City,prokhorovo
+965 821 593,965 821 593,R,153,Russia,Россия,Ileza ,Илеза,965 820 979,ileza,City,ileza
+965 824 579,965 824 579,R,153,Russia,Россия,Rybinsk,Рыбинск,965 821 117,rybinsk,City,rybinsk
+965 824 580,965 824 580,R,153,Russia,Россия,Velsk,Вельск,965 820 979,velsk,City,velsk
+965 824 817,965 824 817,R,153,Russia,Россия,Emmaus,Эммаус,965 821 051,emmaus,City,emmaus
+965 824 845,965 824 845,R,153,Russia,Россия,Rassudovo,Рассудово,2 395,rassudovo,City,rassudovo
+965 824 906,965 824 906,R,153,Russia,Россия,ST Fakel 2,СТ Факел 2,3 028,st_fakel_2,City,st_fakel_2
+965 825 038,965 825 038,R,153,Russia,Россия,Volokolamsk,Волоколамск,965 821 051,volokolamsk,City,volokolamsk
+965 825 244,965 825 244,R,153,Russia,Россия,Krutinka,Крутинка,965 820 887,krutinka,City,krutinka
+965 825 287,965 825 287,R,153,Russia,Россия,Gaspra,Гаспра,6 084 933,gaspra,City,gaspra
+965 825 440,965 825 440,R,153,Russia,Россия,Rasskazovka,Рассказовка,965 821 051,rasskazovka,City,rasskazovka
+965 825 441,965 825 441,R,153,Russia,Россия,Vatutinki,Ватутинки,965 821 051,vatutinki,City,vatutinki
+965 825 464,965 825 464,R,153,Russia,Россия,Nebug,Небуг,965 821 147,nebug,City,nebug
+965 825 658,965 825 658,R,153,Russia,Россия,Ordzhonikidze,Орджоникидзе,6 057 828,ordzhonikidze,City,ordzhonikidze
+965 825 716,965 825 716,R,153,Russia,Россия,Primorskiy (Black Sea),Приморский (берег Черного моря),6 057 828,primorskiy_crimea,City,crimea_primorskiy
+965 825 944,965 825 944,R,153,Russia,Россия,Korolyov,Королев,965 821 051,korolyov,City,korolyov
+965 826 071,965 826 071,R,153,Russia,Россия,Zheleznodorozhny,Железнодорожный,965 821 051,zheleznodorozhny,City,zheleznodorozhny
+965 826 111,965 826 111,R,153,Russia,Россия,Grigorchikovo,Григорчиково,965 821 051,grigorchikovo,City,grigorchikovo
+965 826 408,965 826 408,R,153,Russia,Россия,Parkovoe,Парковое,6 084 933,parkovoe,City,parkovoe
+965 826 538,965 826 538,R,153,Russia,Россия,Izluchinsk,Излучинск,965 820 885,izluchinsk,City,izluchinsk
+965 826 925,965 826 925,R,153,Russia,Россия,Gryazi,Грязи,6 288 368,gryazi,City,gryazi
+965 826 998,965 826 998,R,153,Russia,Россия,Podlysie,Подлысье,6 288 471,podlysie,City,podlysie
+965 827 036,965 827 036,R,153,Russia,Россия,Artyom,Артем,6 288 496,artyom,City,artyom
+965 827 065,965 827 065,R,153,Russia,Россия,Udachny,Удачный,965 820 899,udachny,City,udachny
+965 827 936,965 827 936,R,153,Russia,Россия,Vilga,Вилга,965 820 974,vilga,City,vilga
+965 829 166,965 829 166,R,153,Russia,Россия,Staraya Ladoga,Старая Ладога,965 820 996,staraya_ladoga,City,staraya_ladoga
+965 829 184,965 829 184,R,153,Russia,Россия,Yurga,Юрга,6 288 356,yurga_965829184,City,western_siberia_yurga3
+965 829 225,965 829 225,R,153,Russia,Россия,Buzuluk,Бузулук,6 288 492,buzuluk,City,buzuluk
+965 829 232,965 829 232,R,153,Russia,Россия,Mostovskoy,Мостовской,6 288 364,mostovskoy,City,mostovskoy
+965 829 284,965 829 284,R,153,Russia,Россия,Tschelkino,Щелкино,6 057 828,tschelkino,City,crimea_tschelkino_neighborhood
+965 829 287,965 829 287,R,153,Russia,Россия,Sarapul,Сарапул,6 288 559,sarapul,City,sarapul
+965 829 296,965 829 296,R,153,Russia,Россия,Velikodvorie,Великодворье,965 825 039,velikodvorie,City,velikodvorie
+965 829 303,965 829 303,R,153,Russia,Россия,Pikino,Пикино,6 288 454,pikino,City,pikino
+965 829 326,965 829 326,R,153,Russia,Россия,Lazurnoe,Лазурное,6 057 828,lazurnoe,City,lazurnoe
+965 829 328,965 829 328,R,153,Russia,Россия,Big Gelendzhik,Большой Геленджик,6 288 364,big_gelendzhik,City,big_gelendzhik
+965 829 394,965 829 394,R,153,Russia,Россия,Silino,Силино,965 820 996,silino,City,silino
+965 829 439,965 829 439,R,153,Russia,Россия,Nikolaevsk-na-Amure,Николаевск-на-Амуре,965 820 923,nikolaevsk-na-amure,City,nikolaevsk-na-amure
+1 166,1 166,R,153,Russia,Россия,Elista,Элиста,6 288 350,elista,City,elista
+1 520,1 520,R,153,Russia,Россия,Chita,Чита,6 288 592,chita,City,chita
+1 783,1 783,R,153,Russia,Россия,Kemerovo,Кемерово,6 288 356,kemerovo,City,kemerovo
+1 948,1 948,R,153,Russia,Россия,Samara,Самара,6 288 524,samara,City,samara
+2 365,2 365,R,153,Russia,Россия,Murmansk,Мурманск,6 288 460,murmansk,City,murmansk
+2 403,2 403,R,153,Russia,Россия,Magnitogorsk,Магнитогорск,6 288 320,magnitogorsk,City,magnitogorsk
+2 546,2 546,R,153,Russia,Россия,Neryungri,Нерюнгри,6 288 519,neryungri,City,neryungri
+2 587,2 587,R,153,Russia,Россия,Noyabrsk,Ноябрьск,6 288 590,noyabrsk,City,noyabrsk
+2 721,2 721,R,153,Russia,Россия,Novosibirsk,Новосибирск,6 288 487,novosibirsk,City,novosibirsk
+2 974,2 974,R,153,Russia,Россия,Orenburg,Оренбург,6 288 492,orenburg,City,orenburg
+3 607,3 607,R,153,Russia,Россия,Ukhta,Ухта,6 288 362,ukhta,City,ukhta
+3 615,3 615,R,153,Russia,Россия,Ufa,Уфа,6 288 314,ufa,City,ufa
+3 712,3 712,R,153,Russia,Россия,Vorkuta,Воркута,6 288 362,vorkuta,City,vorkuta
+5 523,5 523,R,153,Russia,Россия,Kislovodsk,Кисловодск,6 288 530,kislovodsk,City,kislovodsk
+7 513,7 513,R,153,Russia,Россия,Grozny,Грозный,6 288 319,grozny,City,grozny
+8 372,8 372,R,153,Russia,Россия,Kyzyl,Кызыл,6 288 549,kyzyl,City,kyzyl
+9 034,9 034,R,153,Russia,Россия,Velikiy Novgorod,Великий Новгород,6 288 483,velikiy_novgorod,City,velikiy_novgorod
+179 602,179 602,R,153,Russia,Россия,Dzerzhinskiy,Дзержинский,965 821 051,dzerzhinskiy,City,dzerzhinskiy
+179 612,179 612,R,153,Russia,Россия,Lyublino,Люблино,6 288 483,lyublino,City,lyublino
+179 619,179 619,R,153,Russia,Россия,Mytishchi,Мытищи,965 821 051,mytishchi,City,mytishchi
+179 637,179 637,R,153,Russia,Россия,Vsevolozhsk,Всеволожск,965 820 996,vsevolozhsk,City,vsevolozhsk
+179 651,179 651,R,153,Russia,Россия,Shcherbinka,Щербинка,965 821 051,shcherbinka,City,shcherbinka
+179 668,179 668,R,153,Russia,Россия,Nikulino,Никулино,6 288 344,nikulino,City,nikulino
+179 682,179 682,R,153,Russia,Россия,Cheremushki,Черемушки,6 288 365,cheremushki,City,cheremushki
+602 214,602 214,R,153,Russia,Россия,Svetlogorsk,Светлогорск,965 820 933,svetlogorsk,City,svetlogorsk
+6 004 445,6 004 445,R,153,Russia,Россия,Elektrougli,Электроугли,178 289,elektrougli,City,elektrougli
+6 049 238,6 049 238,R,153,Russia,Россия,Yekaterinburg,Екатеринбург,6 288 533,yekaterinburg,City,yekaterinburg
+6 051 835,6 051 835,R,153,Russia,Россия,Alushta,Алушта,6 057 828,alushta,City,alushta
+6 057 747,6 057 747,R,153,Russia,Россия,Neman,Неман,965 820 933,neman,City,neman
+6 057 809,6 057 809,R,153,Russia,Россия,Nicola,Никола,965 820 895,nicola,City,nicola
+6 059 415,6 059 415,R,153,Russia,Россия,Feodosiya,Феодосия,6 057 828,feodosiya,City,feodosiya
+6 122 883,6 122 883,R,153,Russia,Россия,Yelabuga,Елабуга,6 288 539,yelabuga,City,yelabuga
+6 130 443,6 130 443,R,153,Russia,Россия,Rostov Velikiy,Ростов Великий,6 288 591,rostov,City,rostov
+6 130 483,6 130 483,R,153,Russia,Россия,Vologda,Вологда,6 288 579,vologda,City,vologda
+6 140 000,6 140 000,R,153,Russia,Россия,Baltiysk,Балтийск,965 820 933,baltiysk,City,baltiysk
+6 146 722,6 146 722,R,153,Russia,Россия,Temryuk,Темрюк,6 288 364,temryuk,City,temryuk
+6 199 017,6 199 017,R,153,Russia,Россия,Terney,Терней,6 288 496,terney,City,terney
+6 199 031,6 199 031,R,153,Russia,Россия,Ust'-Koksa,Усть-Кокса,6 288 305,ust-koksa,City,ust'-koksa
+6 204 653,6 204 653,R,153,Russia,Россия,Ostashkov,Осташков,6 288 557,ostashkov_central_russia,City,central_russia_ostashkov
+6 256 022,6 256 022,R,153,Russia,Россия,Koktebel,Коктебель,6 057 828,koktebel_crimea,City,crimea_koktebel
+6 267 971,6 267 971,R,153,Russia,Россия,Skhodnya,Сходня,178 289,skhodnya,City,skhodnya
+6 267 974,6 267 974,R,153,Russia,Россия,Usovo,Усово,178 289,usovo,City,usovo
+6 293 382,6 293 382,R,153,Russia,Россия,Dederkoy,Дедеркой,6 084 686,dederkoy,City,dederkoy
+6 293 392,6 293 392,R,153,Russia,Россия,Yuzhnyy,Южный,6 084 686,yuzhnyy,City,yuzhnyy
+6 293 400,6 293 400,R,153,Russia,Россия,Agoy,Агой,6 084 686,agoy,City,agoy
+6 293 410,6 293 410,R,153,Russia,Россия,Dzhubga,Джубга,6 288 364,dzhubga_krasnodar_krai,City,southern_russia_dzhubga
+6 293 415,6 293 415,R,153,Russia,Россия,Arkhipo-Osipovka,Архипо-Осиповка,6 288 364,arkhipo-osipovka_krasnodar_krai,City,southern_russia_arkhipo-osipovka
+6 297 404,6 297 404,R,153,Russia,Россия,Zheleznodorozhny,Железнодорожный,178 289,zheleznodorozhny_moscow,City,moscow_oblast_zheleznodorozhny
+6 297 513,6 297 513,R,153,Russia,Россия,Pirogovo,Пирогово,178 289,pirogovo,City,pirogovo
+6 297 584,6 297 584,R,153,Russia,Россия,Druzhba,Дружба,178 289,druzhba_moscow,City,moscow_oblast_druzhba
+6 297 762,6 297 762,R,153,Russia,Россия,Nikolo-Uryupino,Николо-Урюпино,178 289,nikolo-uryupino,City,nikolo-uryupino
+6 301 420,6 301 420,R,153,Russia,Россия,Pervoural'sk,Первоуральск,6 049 238,pervouralsk_yekaterinburg,City,pervoural'sk
+6 301 423,6 301 423,R,153,Russia,Россия,Nizhniye Sergi,Нижние Серги,6 288 533,nizhniye_sergi,City,nizhniye_sergi
+6 303 176,6 303 176,R,153,Russia,Россия,Morskoye,Морское,6 057 744,morskoye,City,morskoye
+6 303 180,6 303 180,R,153,Russia,Россия,Polessk,Полесск,6 057 744,polessk,City,polessk
+6 303 238,6 303 238,R,153,Russia,Россия,Kneiphof Island,Остров Кнайпхоф,6 057 744,kneiphof_island,City,kneiphof_island
+6 303 263,6 303 263,R,153,Russia,Россия,Abinsk,Абинск,6 288 364,abinsk,City,abinsk
+6 303 449,6 303 449,R,153,Russia,Россия,Myaglovo,Мяглово,180 029,myaglovo,City,myaglovo
+6 303 491,6 303 491,R,153,Russia,Россия,Svetogorsk,Светогорск,6 057 691,svetogorsk,City,svetogorsk
+6 303 917,6 303 917,R,153,Russia,Россия,Skolkovo,Сколково,178 289,skolkovo,City,moscow_skolkovo_neighborhood
+6 304 315,6 304 315,R,153,Russia,Россия,Chistye Prudy,Чистые Пруды,6 057 744,chistye_prudy,City,chistye_prudy
+6 304 371,6 304 371,R,153,Russia,Россия,Diveevo,Дивеево,6 288 471,diveevo,City,diveevo
+6 304 409,6 304 409,R,153,Russia,Россия,Krasnye Baki,Красные Баки,6 288 471,krasnye_baki,City,krasnye_baki
+6 304 439,6 304 439,R,153,Russia,Россия,Gavrilovka,Гавриловка,1 361,gavrilovka,City,gavrilovka
+6 304 534,6 304 534,R,153,Russia,Россия,Zheleznogorsk,Железногорск,6 288 365,zheleznogorsk,City,zheleznogorsk
+6 304 740,6 304 740,R,153,Russia,Россия,Gorno-Altaisk,Горно-Алтайск,6 288 305,gorno-altaisk_altai_republic,City,altai_republic_gorno-altaisk
+6 304 748,6 304 748,R,153,Russia,Россия,Urluaspak,Урлу-Аспак,6 288 305,urluaspak,City,urluaspak
+6 304 767,6 304 767,R,153,Russia,Россия,Vlasikha,Власиха,6 288 304,vlasikha,City,vlasikha
+6 305 372,6 305 372,R,153,Russia,Россия,Staraya Russa,Старая Русса,6 288 483,staraya_russa_novgorod_oblast,City,novgorod_oblast_staraya_russa
+6 306 536,6 306 536,R,153,Russia,Россия,Valday,Валдай,6 288 557,valday_tver_oblast,City,tver_oblast_valday
+6 306 590,6 306 590,R,153,Russia,Россия,Buinsk,Буинск,6 288 539,buinsk,City,buinsk
+6 306 897,6 306 897,R,153,Russia,Россия,Upper Volga Embankment,Верхневолжская набережная,1 361,upper_volga_embankment,City,upper_volga_embankment
+6 307 626,6 307 626,R,153,Russia,Россия,Gremyachinsk,Гремячинск,6 288 318,gremyachinsk,City,gremyachinsk
+6 308 034,6 308 034,R,153,Russia,Россия,Pavlovskiy Posad,Павловский Посад,6 288 454,pavlovskiy_posad,City,pavlovskiy_posad
+6 308 038,6 308 038,R,153,Russia,Россия,Zaraysk,Зарайск,6 288 454,zaraysk,City,zaraysk
+6 308 177,6 308 177,R,153,Russia,Россия,Alexandrov,Александров,6 288 571,alexandrov_vladimir_oblast,City,golden_ring_alexandrov
+6 308 438,6 308 438,R,153,Russia,Россия,Fruktovaya,Фруктовая,6 288 454,fruktovaya,City,fruktovaya
+6 308 458,6 308 458,R,153,Russia,Россия,Chernaya,Чёрная,6 288 454,chernaya,City,chernaya
+6 308 465,6 308 465,R,153,Russia,Россия,Ozherelye,Ожерелье,6 288 454,ozherelye,City,ozherelye
+6 308 466,6 308 466,R,153,Russia,Россия,Sorokino,Сорокино,6 288 454,sorokino_moscow_oblast,City,moscow_oblast_sorokino
+6 308 474,6 308 474,R,153,Russia,Россия,Bekasovo,Бекасово,6 288 454,bekasovo,City,bekasovo
+6 308 477,6 308 477,R,153,Russia,Россия,Dorokhovo,Дорохово,6 288 454,dorokhovo,City,dorokhovo
+6 308 496,6 308 496,R,153,Russia,Россия,Snegiri,Снегири,6 288 454,snegiri,City,snegiri
+6 308 538,6 308 538,R,153,Russia,Россия,Zhavoronki,Жаворонки,178 289,zhavoronki,City,zhavoronki
+6 308 871,6 308 871,R,153,Russia,Россия,Solvychegodsk,Сольвычегодск,6 288 307,solvychegodsk_arkhangelsk_oblast,City,arkhangelsk_oblast_solvychegodsk
+6 308 877,6 308 877,R,153,Russia,Россия,Konosha,Коноша,6 288 307,konosha_arkhangelsk_oblast,City,arkhangelsk_oblast_konosha
+6 308 878,6 308 878,R,153,Russia,Россия,Kargopol,Kargopol,6 288 307,kargopol_arkhangelsk_oblast,City,arkhangelsk_oblast_kargopol2
+6 308 883,6 308 883,R,153,Russia,Россия,Noginsk,Ногинск,6 288 454,noginsk_moscow_oblast,City,moscow_oblast_noginsk
+6 308 913,6 308 913,R,153,Russia,Россия,Nerekhta,Нерехта,6 288 363,nerekhta,City,nerekhta
+965 821 341,965 821 341,R,153,Russia,Россия,Valday,Валдай,965 820 937,valday,City,valday
+965 821 362,965 821 362,R,153,Russia,Россия,Kargopol,Каргополь,965 820 979,kargopol_965821362,City,kargopol
+965 821 363,965 821 363,R,153,Russia,Россия,Kargopol,Каргополь,965 820 979,kargopol,City,arkhangelsk_oblast_kargopol
+965 821 365,965 821 365,R,153,Russia,Россия,Kizema,Кизема,965 820 979,kizema,City,kizema
+965 821 368,965 821 368,R,153,Russia,Россия,Koryazhma ,Коряжма,965 820 979,koryazhma,City,koryazhma
+965 821 369,965 821 369,R,153,Russia,Россия,Koyda ,Койда,965 820 979,koyda,City,koyda
+965 821 371,965 821 371,R,153,Russia,Россия,Leshukonskoe ,Лешуконское,965 820 979,leshukonskoe,City,leshukonskoe
+965 821 374,965 821 374,R,153,Russia,Россия,Mezen ,Мезень,965 820 979,mezen,City,mezen
+965 821 385,965 821 385,R,153,Russia,Россия,Severodvinsk ,Северодвинск,965 820 979,severodvinsk,City,severodvinsk
+965 821 386,965 821 386,R,153,Russia,Россия,Fryazino,Фрязино,965 821 051,fryazino,City,fryazino
+965 821 387,965 821 387,R,153,Russia,Россия,Shenkursk ,Шенкурск,965 820 979,shenkursk,City,shenkursk
+965 821 390,965 821 390,R,153,Russia,Россия,Urdoma ,Урдома,965 820 979,urdoma,City,urdoma
+965 821 393,965 821 393,R,153,Russia,Россия,Klin,Клин,965 821 051,klin,City,klin
+965 821 394,965 821 394,R,153,Russia,Россия,Voloshka ,Волошка,965 820 979,voloshka,City,voloshka
+965 821 395,965 821 395,R,153,Russia,Россия,Kolomna,Коломна,965 821 051,kolomna,City,kolomna
+965 821 397,965 821 397,R,153,Russia,Россия,Engels ,Энгельс,965 821 144,engels,City,engels
+965 821 406,965 821 406,R,153,Russia,Россия,Pionerskiy ,Пионерский,965 820 933,pionerskiy,City,pionerskiy
+965 821 409,965 821 409,R,153,Russia,Россия,Chupa ,Чупа,965 820 974,chupa,City,chupa
+965 821 417,965 821 417,R,153,Russia,Россия,Medvezhegorsk ,Медвежьегорск,965 820 974,medvezhegorsk,City,medvezhegorsk
+965 821 418,965 821 418,R,153,Russia,Россия,Muezerskiy ,Муезерский,965 820 974,muezerskiy,City,muezerskiy
+965 821 420,965 821 420,R,153,Russia,Россия,Olonets ,Олонец,965 820 974,olonets,City,olonets
+965 821 424,965 821 424,R,153,Russia,Россия,Pryazhinskiy ,Пряжинский,965 820 974,pryazhinskiy,City,pryazhinskiy
+965 821 429,965 821 429,R,153,Russia,Россия,Segezha ,Сегежа,965 820 974,segezha,City,segezha
+965 821 430,965 821 430,R,153,Russia,Россия,Sortavala ,Сортавала,965 820 974,sortavala,City,sortavala
+965 821 442,965 821 442,R,153,Russia,Россия,Nizhnekamsk ,Нижнекамск,965 820 976,nizhnekamsk,City,nizhnekamsk
+965 821 446,965 821 446,R,153,Russia,Россия,Novokuybyshevsk ,Новокуйбышевск,965 820 938,novokuybyshevsk,City,novokuybyshevsk
+965 821 456,965 821 456,R,153,Russia,Россия,Zelenodolsk ,Зеленодольск,965 820 976,zelenodolsk,City,zelenodolsk
+965 821 457,965 821 457,R,153,Russia,Россия,Velikiy Ustyug ,Великий Устюг,965 820 980,velikiy_ustyug,City,velikiy_ustyug
+965 821 523,965 821 523,R,153,Russia,Россия,Kingisepp,Кингисепп,965 820 996,kingisepp,City,kingisepp
+965 821 524,965 821 524,R,153,Russia,Россия,Kirishi,Кириши,965 820 996,kirishi,City,kirishi
+965 821 531,965 821 531,R,153,Russia,Россия,Roschino,Рощино,965 820 996,roschino,City,roschino
+965 821 549,965 821 549,R,153,Russia,Россия,Belorechensk,Белореченск,965 821 147,belorechensk,City,belorechensk
+965 821 567,965 821 567,R,153,Russia,Россия,Lazarevskoe,Лазаревское,6 084 686,lazarevskoe,City,lazarevskoe
+965 821 570,965 821 570,R,153,Russia,Россия,Novomikhaylovskiy,Новомихайловский,965 821 147,novomikhaylovskiy,City,novomikhaylovskiy
+965 821 577,965 821 577,R,153,Russia,Россия,Terskol,Терскол,965 821 153,terskol,City,terskol
+965 821 580,965 821 580,R,153,Russia,Россия,Vardane,Вардане,6 084 686,vardane,City,vardane
+965 821 582,965 821 582,R,153,Russia,Россия,Vityazevo,Витязево,965 821 147,vityazevo,City,vityazevo
+965 821 584,965 821 584,R,153,Russia,Россия,Krasnousolskii,Красноусольский,965 820 977,krasnousolsk,City,krasnousolsk
+965 821 595,965 821 595,R,153,Russia,Россия,Pushkinskie Gori,Пушкинские Горы,965 820 997,pushkinskie_gori,City,pushkinskie_gori
+965 824 567,965 824 567,R,153,Russia,Россия,Ostashkov,Осташков,965 820 998,ostashkov,City,ostashkov
+965 824 571,965 824 571,R,153,Russia,Россия,Chapaevsk,Чапаевск,965 820 938,chapaevsk,City,chapaevsk
+965 824 760,965 824 760,R,153,Russia,Россия,Svetliy,Светлый,965 820 933,svetliy,City,svetliy
+965 824 767,965 824 767,R,153,Russia,Россия,Shadrinsk,Шадринск,965 821 002,shadrinsk,City,shadrinsk
+965 825 366,965 825 366,R,153,Russia,Россия,Ussuriysk,Уссурийск,965 820 881,ussuriysk,City,ussuriysk
+965 825 431,965 825 431,R,153,Russia,Россия,Ivanovka,Ивановка,965 821 120,ivanovka,City,ivanovka
+965 825 582,965 825 582,R,153,Russia,Россия,Bor,Бор,965 821 142,bor_965825582,City,nizhny_novgorod_oblast_bor
+965 825 587,965 825 587,R,153,Russia,Россия,Zaozyornoye,Заозерное,6 057 828,zaozyornoye,City,zaozyornoye
+965 825 811,965 825 811,R,153,Russia,Россия,Vlasovo,Власово,965 825 353,vlasovo,City,vlasovo
+965 825 835,965 825 835,R,153,Russia,Россия,Bogorodsk,Богородск,965 821 142,bogorodsk,City,bogorodsk
+965 825 840,965 825 840,R,153,Russia,Россия,Novoabzakovo,Новоабзаково,965 820 977,novoabzakovo,City,novoabzakovo
+965 825 895,965 825 895,R,153,Russia,Россия,Kokhma,Кохма,965 821 355,kokhma,City,kokhma
+965 825 897,965 825 897,R,153,Russia,Россия,Kuibyshev,Куйбышево,6 057 828,kuibyshev_crimea,City,crimea_kuibyshev
+965 826 013,965 826 013,R,153,Russia,Россия,Rostoshi,Ростоши,965 820 993,rostoshi,City,rostoshi
+965 826 102,965 826 102,R,153,Russia,Россия,Kurkieki,Куркиёки,965 820 974,kurkieki,City,kurkieki
+965 826 412,965 826 412,R,153,Russia,Россия,Vytegra,Вытегра,965 820 980,vytegra,City,vytegra
+965 826 415,965 826 415,R,153,Russia,Россия,Sosni,Сосны,965 821 051,sosni,City,sosni
+965 826 505,965 826 505,R,153,Russia,Россия,Kungur,Кунгур,965 820 954,kungur,City,kungur
+965 826 540,965 826 540,R,153,Russia,Россия,Torfynovka,Торфяновка,965 820 996,torfynovka,City,torfynovka
+965 826 876,965 826 876,R,153,Russia,Россия,Troitsk,Троицк,6 288 454,troitsk_moscow_oblast,City,moscow_oblast_troitsk
+965 827 478,965 827 478,R,153,Russia,Россия,Belikovo,Беликово,6 288 454,belikovo,City,belikovo
+965 827 847,965 827 847,R,153,Russia,Россия,Pechora,Печора,965 820 960,pechora,City,pechora
+965 827 851,965 827 851,R,153,Russia,Россия,Chaykovsky,Чайковский,6 288 495,chaykovsky,City,chaykovsky
+965 827 872,965 827 872,R,153,Russia,Россия,Iste,Истье,6 288 351,iste,City,iste
+965 827 910,965 827 910,R,153,Russia,Россия,Yeresino,Ересино,6 288 483,yeresino,City,yeresino
+965 827 934,965 827 934,R,153,Russia,Россия,Razvilka,Развилка,965 825 039,razvilka,City,razvilka
+965 827 942,965 827 942,R,153,Russia,Россия,Belozersk,Белозерск,965 820 980,belozersk,City,belozersk
+965 829 181,965 829 181,R,153,Russia,Россия,Yurga,Юрга,6 288 356,yurga_965829181,City,western_siberia_yurga2
+965 829 186,965 829 186,R,153,Russia,Россия,Sol-Iletsk,Соль-Илецк,6 288 492,sol-iletsk,City,sol-iletsk
+965 829 188,965 829 188,R,153,Russia,Россия,Demidov,Демидов,6 288 526,demidov,City,demidov
+965 829 190,965 829 190,R,153,Russia,Россия,Bekhovo,Брехово,6 288 454,bekhovo,City,bekhovo
+965 829 194,965 829 194,R,153,Russia,Россия,Saburovo,Сабурово,6 288 454,saburovo_moscow_oblast,City,moscow_oblast_saburovo
+965 829 201,965 829 201,R,153,Russia,Россия,Pokrov,Покров,6 288 571,pokrov,City,pokrov
+965 829 208,965 829 208,R,153,Russia,Россия,Volkovskoe,Волковское,6 288 351,volkovskoe,City,volkovskoe
+965 829 276,965 829 276,R,153,Russia,Россия,Khvalynsk,Хвалынск,965 821 144,khvalynsk,City,khvalynsk
+965 829 322,965 829 322,R,153,Russia,Россия,Kotlyakovo,Котляково,6 288 454,kotlyakovo,City,kotlyakovo
+1 081,1 081,R,153,Russia,Россия,Anadyr,Анадырь,6 288 300,anadyr,City,anadyr
+1 301,1 301,R,153,Russia,Россия,Gelendzhik,Геленджик,6 288 364,gelendzhik,City,gelendzhik
+1 361,1 361,R,153,Russia,Россия,Nizhniy Novgorod,Нижний Новгород,6 288 471,nizhniy_novgorod,City,nizhniy_novgorod
+1 798,1 798,R,153,Russia,Россия,Kaliningrad,Калининград,965 820 933,kaliningrad,City,kaliningrad
+1 813,1 813,R,153,Russia,Россия,Khabarovsk,Хабаровск,6 288 357,khabarovsk,City,khabarovsk
+1 963,1 963,R,153,Russia,Россия,Kirovsk,Кировск,6 288 460,kirovsk,City,kirovsk
+2 042,2 042,R,153,Russia,Россия,Saint Petersburg,Санкт-Петербург,180 029,st_petersburg,City,st._petersburg
+2 616,2 616,R,153,Russia,Россия,Novy Urengoy,Новый Уренгой,6 288 590,novy_urengoy,City,novy_urengoy
+2 650,2 650,R,153,Russia,Россия,Vladikavkaz,Владикавказ,6 288 474,vladikavkaz,City,vladikavkaz
+3 621,3 621,R,153,Russia,Россия,Ust-Ilimsk,Усть-Илимск,6 288 341,ust-ilimsk,City,ust-ilimsk
+3 635,3 635,R,153,Russia,Россия,Ulyanovsk,Ульяновск,6 288 566,ulyanovsk,City,ulyanovsk
+3 649,3 649,R,153,Russia,Россия,Uray,Урай,6 288 360,uray,City,uray
+3 655,3 655,R,153,Russia,Россия,Usinsk,Усинск,6 288 362,usinsk,City,usinsk
+3 727,3 727,R,153,Russia,Россия,Volgograd,Волгоград,965 821 123,volgograd,City,volgograd
+3 730,3 730,R,153,Russia,Россия,Voronezh,Воронеж,6 288 586,voronezh,City,voronezh
+7 942,7 942,R,153,Russia,Россия,Ivanova,Иванова,6 288 499,ivanova,City,ivanova
+179 584,179 584,R,153,Russia,Россия,Certanovo,Чертаново,6 288 454,certanovo,City,certanovo
+179 591,179 591,R,153,Russia,Россия,Ramenki,Раменки,6 288 557,ramenki,City,ramenki
+179 597,179 597,R,153,Russia,Россия,Arzamastsevo,Арзамасцево,6 288 559,abramtsevo,City,arzamastsevo
+179 598,179 598,R,153,Russia,Россия,Babushkin,Бабушкин,6 288 318,babushkin,City,babushkin
+179 611,179 611,R,153,Russia,Россия,Lyubertsy,Люберцы,965 821 051,lyubertsy,City,lyubertsy
+179 613,179 613,R,153,Russia,Россия,Makino,Макино,6 288 579,makino,City,makino
+179 614,179 614,R,153,Russia,Россия,Malakhovka,Малаховка,965 821 051,malakhovka,City,malakhovka
+179 616,179 616,R,153,Russia,Россия,Michajlovskoje,Михайловское,965 820 997,michajlovskoje,City,michajlovskoje
+179 625,179 625,R,153,Russia,Россия,Perovo,Перово,6 288 579,perovo,City,perovo
+179 631,179 631,R,153,Russia,Россия,Sosenki,Сосенки,6 288 591,sosenki,City,sosenki
+179 639,179 639,R,153,Russia,Россия,Zyuzino,Зюзино,6 288 308,zyuzino,City,zyuzino
+179 645,179 645,R,153,Russia,Россия,Veshnyaki,Вешняки,6 288 557,veshnyaki,City,veshnyaki
+179 646,179 646,R,153,Russia,Россия,Teplyy Stan,Теплый Стан,6 288 524,teplyy_stan,City,teplyy_stan
+179 652,179 652,R,153,Russia,Россия,Shchelkovo,Щелково,965 821 051,shchelkovo,City,shchelkovo
+179 654,179 654,R,153,Russia,Россия,Rybatskaya,Рыбатская,6 288 579,rybatskaya,City,rybatskaya
+179 657,179 657,R,153,Russia,Россия,Pokrovskoye,Покровское,6 288 502,pokrovskoye,City,pokrovskoye
+179 660,179 660,R,153,Russia,Россия,Pesochnyy,Песочный,6 288 363,pesochnyy,City,pesochnyy
+179 667,179 667,R,153,Russia,Россия,Novaya Derevnya,Новая Деревня,6 288 307,novaya_derevnya,City,novaya_derevnya
+505 397,505 397,R,153,Russia,Россия,Nakhabino,Нахабино,965 821 051,nakhabino,City,nakhabino
+6 004 453,6 004 453,R,153,Russia,Россия,Podolsk,Подольск,178 289,podolsk_moscow,City,moscow_region_podolsk
+6 023 788,6 023 788,R,153,Russia,Россия,Sevastopol,Севастополь,6 057 828,sevastopol,City,sevastopol
+6 057 776,6 057 776,R,153,Russia,Россия,Dedovsk,Дедовск,965 821 051,dedovsk,City,dedovsk
+6 057 793,6 057 793,R,153,Russia,Россия,Ramon,Рамонь,6 288 586,ramon,City,ramon
+6 059 259,6 059 259,R,153,Russia,Россия,Chernyakhovsk,Черняховск,965 820 933,chernyakhovsk,City,chernyakhovsk
+6 124 871,6 124 871,R,153,Russia,Россия,Tarko-Sale,Тарко-Сале,6 288 590,tarko-sale,City,tarko-sale
+6 124 877,6 124 877,R,153,Russia,Россия,Ust-Tsilma,Усть-Цильма,6 288 362,ust-tsilma,City,ust-tsilma
+6 130 698,6 130 698,R,153,Russia,Россия,Shakhty,Шахты,6 288 502,shakhty,City,shakhty
+6 131 633,6 131 633,R,153,Russia,Россия,Yelets,Елец,6 288 368,yelets,City,yelets
+6 135 696,6 135 696,R,153,Russia,Россия,Zelenogradsk,Зеленоградск,965 820 933,zelenogradsk,City,zelenogradsk
+6 135 818,6 135 818,R,153,Russia,Россия,Krasnoarmeisk,Красноармейск,6 288 454,krasnoarmeisk,City,krasnoarmeysk
+6 144 518,6 144 518,R,153,Russia,Россия,Barvikha,Барвиха,965 821 051,barvikha,City,barvikha
+6 152 890,6 152 890,R,153,Russia,Россия,Khuzhir,Хужир,6 288 341,khuzhir,City,khuzhir
+6 155 909,6 155 909,R,153,Russia,Россия,Korobovo,Коробово,965 821 051,korobovo,City,korobovo
+6 155 912,6 155 912,R,153,Russia,Россия,Sorokino,Сорокино,965 821 051,sorokino,City,sorokino
+6 157 027,6 157 027,R,153,Russia,Россия,Orlovka,Орловка,965 820 933,orlovka,City,orlovka
+6 201 369,6 201 369,R,153,Russia,Россия,Bogachevka,Богачевка,6 288 352,bogachevka,City,bogachevka
+6 201 782,6 201 782,R,153,Russia,Россия,Smolensk,Смоленск,6 288 526,smolensk_central_russia,City,smolensk
+6 204 125,6 204 125,R,153,Russia,Россия,Kozyrevsk,Козыревск,6 288 352,kozyrevsk,City,kozyrevsk
+6 206 631,6 206 631,R,153,Russia,Россия,Shchekino,Щекино,6 288 543,shchekino,City,shchekino
+6 215 082,6 215 082,R,153,Russia,Россия,Odintsovo,Одинцово,178 289,odintsovo,City,odintsovo
+6 224 384,6 224 384,R,153,Russia,Россия,Novomikhaylovskiy,Новомихайловский,6 084 686,novomikhaylovskiy_sochi_and_viciity,City,krasnodar_krai_novomikhaylovskiy
+6 293 406,6 293 406,R,153,Russia,Россия,Nebug,Небуг,6 084 686,nebug_big_sochi_sochi_and_vicinity,City,southern_russia_nebug
+6 296 097,6 296 097,R,153,Russia,Россия,Volkonka,Волконка,6 084 686,volkonka,City,volkonka
+6 297 459,6 297 459,R,153,Russia,Россия,Fryazino,Фрязино,178 289,fryazino_moscow,City,moscow_oblast_fryazino
+6 297 616,6 297 616,R,153,Russia,Россия,Medvezh'i Ozera,Медвежьи Озера,178 289,medvezhi_ozera,City,medvezh'i_ozera
+6 297 619,6 297 619,R,153,Russia,Россия,Ilyinskiy,Ильинский,178 289,ilyinskiy,City,ilyinskiy
+6 297 724,6 297 724,R,153,Russia,Россия,Gribki,Грибки,178 289,gribki_moscow,City,moscow_oblast_gribki
+6 297 759,6 297 759,R,153,Russia,Россия,Buzaevo,Бузаево,178 289,buzaevo,City,buzaevo
+6 301 430,6 301 430,R,153,Russia,Россия,Koltsovo,Кольцово,6 049 238,koltsovo_6301430,City,ural_koltsovo
+6 302 325,6 302 325,R,153,Russia,Россия,Shlisselburg,Шлиссельбург,6 057 691,shlisselburg_leningrad,City,leningrad_shlisselburg
+6 303 182,6 303 182,R,153,Russia,Россия,Novoselovo,Новосёлово,6 057 744,novoselovo,City,novoselovo
+6 303 260,6 303 260,R,153,Russia,Россия,Belorechensk,Белореченск,6 288 364,belorechensk_krasnodar_krai,City,southern_russia_belorechensk
+6 303 270,6 303 270,R,153,Russia,Россия,Shirokaya Balka,Широкая Балка,6 288 364,shirokaya_balka,City,shirokaya_balka
+6 303 278,6 303 278,R,153,Russia,Россия,Peresyp,Пересыпь,6 288 364,peresyp_krasnodar_krai,City,southern_russia_peresyp
+6 303 279,6 303 279,R,153,Russia,Россия,Timashevsk,Тимашевск,6 288 364,timashevsk,City,timashevsk
+6 303 365,6 303 365,R,153,Russia,Россия,Labinsk,Лабинск,6 288 364,labinsk_krasnodar_krai,City,southern_russia_labinsk
+6 303 378,6 303 378,R,153,Russia,Россия,Kamennomostskiy,Каменномостский,6 288 302,kamennomostskiy,City,kamennomostskiy
+6 303 490,6 303 490,R,153,Russia,Россия,Lesogorskiy,Лесогорский,6 057 691,lesogorskiy,City,lesogorskiy
+6 303 891,6 303 891,R,153,Russia,Россия,Solnechnogorsk,Солнечногорск,6 288 454,solnechnogorsk_moscow_oblast,City,moscow_oblast_solnechnogorsk
+6 303 899,6 303 899,R,153,Russia,Россия,Kurovo,Курово,6 288 454,kurovo,City,kurovo
+6 303 903,6 303 903,R,153,Russia,Россия,Prislon,Прислон,6 288 557,prislon,City,prislon
+6 303 904,6 303 904,R,153,Russia,Россия,Pleshkovo,Плешково,6 288 557,pleshkovo,City,pleshkovo
+6 303 910,6 303 910,R,153,Russia,Россия,Rozhdestveno,Рождествено,178 289,rozhdestveno,City,rozhdestveno
+6 303 929,6 303 929,R,153,Russia,Россия,Dmitrov,Дмитров,6 288 454,dmitrov_moscow_oblast,City,moscow_oblast_dmitrov
+6 304 369,6 304 369,R,153,Russia,Россия,Bogorodsk,Богородск,1 361,bogorodsk_nizhniy_novgorod,City,volga_region_bogorodsk
+6 304 441,6 304 441,R,153,Russia,Россия,Afonino,Афонино,1 361,afonino,City,afonino
+6 304 750,6 304 750,R,153,Russia,Россия,Souzga,Соузга,6 288 305,souzga,City,souzga
+6 305 169,6 305 169,R,153,Russia,Россия,Maslova Pristan',Маслова пристань,6 288 316,maslova_pristan,City,maslova_pristan'
+6 305 369,6 305 369,R,153,Russia,Россия,Ust-Kachka,Усть-Качка,6 288 495,ust-kachka_perm_krai,City,volga_region_ust-kachka
+6 306 555,6 306 555,R,153,Russia,Россия,Kukmor,Кукмор,6 288 539,kukmor,City,kukmor
+6 306 567,6 306 567,R,153,Russia,Россия,Arsk,Арск,6 288 539,arsk,City,arsk
+6 306 579,6 306 579,R,153,Russia,Россия,Kulanga,Куланга,6 288 539,kulanga,City,kulanga
+6 306 584,6 306 584,R,153,Russia,Россия,Karatun,Каратун,6 288 539,karatun,City,karatun
+6 306 803,6 306 803,R,153,Russia,Россия,Kurganinsk,Курганинск,6 288 364,kurganinsk,City,kurganinsk
+6 306 808,6 306 808,R,153,Russia,Россия,Bolshoye Boldino,Большое Болдино,6 288 471,bolshoye_boldino,City,bolshoye_boldino
+6 306 810,6 306 810,R,153,Russia,Россия,Kolomna,Коломна,6 288 454,kolomna_moscow_oblast,City,central_russia_kolomna
+6 306 894,6 306 894,R,153,Russia,Россия,Bolshaia Pokrovskaia Street,Большая Покровская улица,1 361,bolshaia_pokrovskaia_street,City,bolshaia_pokrovskaia_street
+6 307 309,6 307 309,R,153,Russia,Россия,Antonovka,Антоновка,6 288 317,antonovka,City,antonovka
+6 307 351,6 307 351,R,153,Russia,Россия,Syrostan,Сыростан,6 288 320,syrostan,City,syrostan
+6 307 377,6 307 377,R,153,Russia,Россия,Sosnovka,Сосновка,6 288 314,sosnovka,City,sosnovka
+6 307 495,6 307 495,R,153,Russia,Россия,Novocheboksarsk,Новочебоксарск,6 288 321,novocheboksarsk_chuvash_republic,City,volga_region_novocheboksarsk
+6 307 627,6 307 627,R,153,Russia,Россия,Novyy Enkheluk,Новый Энхалук,6 288 318,novyy_enkheluk,City,novyy_enkheluk
+6 307 628,6 307 628,R,153,Russia,Россия,Baykalsk,Байкальск,6 288 341,baykalsk,City,baykalsk
+6 307 651,6 307 651,R,153,Russia,Россия,Kurma,Курма,6 288 341,kurma,City,kurma
+6 307 672,6 307 672,R,153,Russia,Россия,Burduguz,Бурдугуз,6 084 689,burduguz_irkutsk_-_lake_baikal,City,western_siberia_burduguz
+6 308 032,6 308 032,R,153,Russia,Россия,Frolishchi,Фролищи,6 288 471,frolishchi,City,frolishchi
+6 308 033,6 308 033,R,153,Russia,Россия,Likino-Dulyovo,Ликино-Дулево,6 288 454,likino-dulyovo,City,likino-dulyovo
+6 308 035,6 308 035,R,153,Russia,Россия,Elektrostal,Электросталь,6 288 454,elektrostal,City,elektrostal
+6 308 039,6 308 039,R,153,Russia,Россия,Stupino,Ступино,6 288 454,stupino,City,stupino
+6 308 048,6 308 048,R,153,Russia,Россия,Yaropolets,Ярополец,6 288 454,yaropolets,City,yaropolets
+6 308 050,6 308 050,R,153,Russia,Россия,Minusinsk,Минусинск,6 288 365,minusinsk,City,minusinsk
+6 308 051,6 308 051,R,153,Russia,Россия,Achinsk,Ачинск,6 288 365,achinsk_krasnoyarsk_krai,City,western_siberia_achinsk
+6 308 183,6 308 183,R,153,Russia,Россия,Oktyabrskiy,Октябрьский,6 288 314,oktyabrskiy_republic_of_bashkortostan,City,ural_oktyabrskiy
+6 308 464,6 308 464,R,153,Russia,Россия,Uzunovo,Узуново,6 288 454,uzunovo,City,uzunovo
+6 308 467,6 308 467,R,153,Russia,Россия,Kashira,Кашира,6 288 454,kashira,City,kashira
+6 308 471,6 308 471,R,153,Russia,Россия,Mikhnevo,Михнево,6 288 454,mikhnevo,City,mikhnevo
+6 308 546,6 308 546,R,153,Russia,Россия,Belye Stolby,Белые Столбы,6 288 454,belye_stolby,City,belye_stolby
+6 308 854,6 308 854,R,153,Russia,Россия,Altynzhar,Altynzhar,6 288 308,altynzhar,City,altynzhar
+6 308 857,6 308 857,R,153,Russia,Россия,Chernyy Yar,Черный Яр,6 288 308,chernyy_yar,City,chernyy_yar
+6 308 861,6 308 861,R,153,Russia,Россия,Slavgorod,Славгород,6 288 304,slavgorod,City,slavgorod
+6 308 873,6 308 873,R,153,Russia,Россия,Krasnoborsk,Красноборск,6 288 307,krasnoborsk_arkhangelsk_oblast,City,arkhangelsk_oblast_krasnoborsk
+6 308 879,6 308 879,R,153,Russia,Россия,Onega,Онега,6 288 307,onega_arkhangelsk_oblast,City,arkhangelsk_oblast_onega
+965 821 304,965 821 304,R,153,Russia,Россия,Petergof,Петергоф,965 820 996,petergof_leningrad_oblast,City,petergof
+965 821 327,965 821 327,R,153,Russia,Россия,Koltsovo,Кольцово,965 820 941,koltsovo,City,koltsovo
+965 821 335,965 821 335,R,153,Russia,Россия,Yeisk,Ейск,965 821 147,yeisk,City,yeisk
+965 821 382,965 821 382,R,153,Russia,Россия,Pinega ,Пинега,965 820 979,pinega,City,pinega
+965 821 384,965 821 384,R,153,Russia,Россия,Poduyga ,Подюга,965 820 979,poduyga,City,poduyga
+965 821 389,965 821 389,R,153,Russia,Россия,Udimskiy ,Удимский,965 820 979,udimskiy,City,udimskiy
+965 821 392,965 821 392,R,153,Russia,Россия,Golitsino,Голицыно,965 821 051,golitsino,City,golitsino
+965 821 404,965 821 404,R,153,Russia,Россия,Ples ,Плёс,965 821 355,ples,City,ples
+965 821 410,965 821 410,R,153,Russia,Россия,Kalevala ,Калевала,965 820 974,kalevala,City,kalevala
+965 821 423,965 821 423,R,153,Russia,Россия,Prionezhskiy ,Прионежский,965 820 974,prionezhskiy,City,prionezhskiy
+965 821 428,965 821 428,R,153,Russia,Россия,Pushkino,Пушкино,965 821 051,pushkino,City,pushkino
+965 821 435,965 821 435,R,153,Russia,Россия,Arzamas ,Арзамас,965 821 142,arzamas,City,arzamas
+965 821 437,965 821 437,R,153,Russia,Россия,Bor ,Бор,965 821 142,bor_nizhny_novgorod_oblast,City,bor
+965 821 439,965 821 439,R,153,Russia,Россия,Lyskovo ,Лысково,965 821 142,lyskovo,City,lyskovo
+965 821 453,965 821 453,R,153,Russia,Россия,Monchegorsk,Мончегорск,965 820 939,monchegorsk,City,monchegorsk
+965 821 458,965 821 458,R,153,Russia,Россия,Evpatorya ,Евпатория,6 057 828,evpatorya,City,evpatorya
+965 821 471,965 821 471,R,153,Russia,Россия,Kvasy ,Квасы,6 057 828,kvasy,City,kvasy
+965 821 480,965 821 480,R,153,Russia,Россия,Izborsk,Изборск,965 820 997,izborsk,City,izborsk
+965 821 482,965 821 482,R,153,Russia,Россия,Opochka,Опочка,965 820 997,opochka,City,opochka
+965 821 485,965 821 485,R,153,Russia,Россия,Pleskov,Плесков,965 820 997,pleskov,City,pleskov
+965 821 525,965 821 525,R,153,Russia,Россия,Krasnoe Selo,Красное Село,965 820 996,krasnoe_selo,City,krasnoe_selo
+965 821 526,965 821 526,R,153,Russia,Россия,Kronshtadt,Кронштадт,965 820 996,kronshtadt,City,kronshtadt
+965 821 535,965 821 535,R,153,Russia,Россия,Toksovo,Токсово,965 820 996,toksovo,City,toksovo
+965 821 536,965 821 536,R,153,Russia,Россия,Volkhov,Волхов,965 820 996,volkhov,City,volkhov
+965 821 537,965 821 537,R,153,Russia,Россия,Zelenogorsk,Зеленогорск,965 820 996,zelenogorsk,City,zelenogorsk
+965 821 544,965 821 544,R,153,Russia,Россия,Ob,Обь,965 820 888,ob,City,ob
+965 821 548,965 821 548,R,153,Russia,Россия,Bataisk,Батайск,965 821 103,bataisk,City,bataisk
+965 821 552,965 821 552,R,153,Russia,Россия,Dagomys,Дагомыс,6 084 686,dagomys,City,dagomys
+965 821 554,965 821 554,R,153,Russia,Россия,Dombay,Домбай,965 821 148,dombay,City,dombay
+965 821 555,965 821 555,R,153,Russia,Россия,Dzhankhot,Джанхот,965 821 147,dzhankhot,City,dzhankhot
+965 821 556,965 821 556,R,153,Russia,Россия,Dzhubga,Джубга,965 821 147,dzhubga,City,dzhubga
+965 821 560,965 821 560,R,153,Russia,Россия,Goryachiy Klyuch,Горячий Ключ,965 821 147,goryachiy_klyuch,City,goryachiy_klyuch
+965 821 563,965 821 563,R,153,Russia,Россия,Kamyshin,Камышин,965 821 123,kamyshin,City,kamyshin
+965 821 572,965 821 572,R,153,Russia,Россия,Primorskiy (Dagestan),Приморский (Дагестан),965 821 149,primorskiy,City,primorskiy
+965 821 573,965 821 573,R,153,Russia,Россия,Primorsko-Akhtarsk,Приморско-Ахтарск,965 821 147,primorsko-akhtarsk,City,primorsko-akhtarsk
+965 821 575,965 821 575,R,153,Russia,Россия,Svetlyi Yar,Светлый Яр,965 821 123,svetlyi_yar,City,svetlyi_yar
+965 821 579,965 821 579,R,153,Russia,Россия,Uch-Dere,Уч-Дере,6 084 686,uch-dere,City,uch-dere
+965 821 583,965 821 583,R,153,Russia,Россия,Volzhskiy,Волжский,965 821 123,volzhskiy,City,volzhskiy
+965 821 585,965 821 585,R,153,Russia,Россия,Novouralsk,Новоуральск,965 820 941,novouralsk,City,novouralsk
+965 821 587,965 821 587,R,153,Russia,Россия,Sredneuralsk,Среднеуральск,965 820 941,sredneuralsk,City,sredneuralsk
+965 821 588,965 821 588,R,153,Russia,Россия,Ust-Kachka,Усть-качка,965 820 954,ust-kachka,City,ust-kachka
+965 821 604,965 821 604,R,153,Russia,Россия,Vnucovo,Внуково,965 821 051,vnucovo,City,vnucovo
+965 824 568,965 824 568,R,153,Russia,Россия,Alekka,Алекка,965 820 974,alekka,City,alekka
+965 824 573,965 824 573,R,153,Russia,Россия,Stariy Beliy Yar,Старый Белый Яр,965 820 991,stariy_beliy_yar,City,stariy_beliy_yar
+965 824 574,965 824 574,R,153,Russia,Россия,Beloe Ozero,Белое Озеро ,965 820 991,beloe_ozero,City,beloe_ozero
+965 824 680,965 824 680,R,153,Russia,Россия,Myshkin,Мышкин,965 821 117,myshkin,City,myshkin
+965 824 684,965 824 684,R,153,Russia,Россия,Kandalaksha,Кандалакша,965 820 974,kandalaksha,City,kandalaksha
+965 824 687,965 824 687,R,153,Russia,Россия,Okulovka,Окуловка,965 820 937,okulovka,City,okulovka
+965 824 766,965 824 766,R,153,Russia,Россия,Liski,Лиски,965 821 041,liski,City,liski
+965 824 800,965 824 800,R,153,Russia,Россия,Vyartsilya,Вяртсиля,965 821 430,vyartsilya,City,vyartsilya
+965 824 805,965 824 805,R,153,Russia,Россия,Torzhok,Торжок,965 820 998,torzhok,City,torzhok
+965 824 818,965 824 818,R,153,Russia,Россия,Serpukhov,Серпухов,965 821 051,serpukhov,City,serpukhov
+965 824 856,965 824 856,R,153,Russia,Россия,Abzakovo,Абзаково,965 820 977,abzakovo,City,abzakovo
+965 825 383,965 825 383,R,153,Russia,Россия,Alexandrov,Александров,965 821 141,alexandrov,City,alexandrov
+965 825 439,965 825 439,R,153,Russia,Россия,Meshcherino,Мещерино,965 821 051,meshcherino,City,meshcherino
+965 825 445,965 825 445,R,153,Russia,Россия,Gribki,Грибки,965 821 051,gribki,City,gribki
+965 825 465,965 825 465,R,153,Russia,Россия,Steregushee,Стерегущее ,6 057 828,steregushee,City,steregushee
+965 825 547,965 825 547,R,153,Russia,Россия,Khotkovo,Хотьково,965 821 051,khotkovo,City,khotkovo
+965 825 597,965 825 597,R,153,Russia,Россия,Katsiveli,Кацивели,6 057 828,katsiveli,City,katsiveli
+965 825 697,965 825 697,R,153,Russia,Россия,Obninsk,Обнинск,965 821 139,obninsk,City,obninsk
+965 825 743,965 825 743,R,153,Russia,Россия,Sokolinoe,Соколиное,6 057 828,sokolinoe,City,sokolinoe
+965 826 010,965 826 010,R,153,Russia,Россия,Kamenskoe,Каменское,6 057 828,kamenskoe,City,kamenskoe
+965 826 046,965 826 046,R,153,Russia,Россия,Bronnitsy,Бронницы,965 821 051,bronnitsy,City,bronnitsy
+965 826 053,965 826 053,R,153,Russia,Россия,Voskresensk,Воскресенск,965 821 051,voskresensk,City,voskresensk
+965 826 526,965 826 526,R,153,Russia,Россия,Teberda,Теберда,965 821 148,teberda_karachay-cherkessia,City,karachay-cherkessia_teberda
+965 826 776,965 826 776,R,153,Russia,Россия,Nadym,Надым,6 288 590,nadym_yamalo-nenets_autonomous_okrug,City,ural_nadym
+965 826 781,965 826 781,R,153,Russia,Россия,Obraztsovo-Travino,Образцово-Травино,6 288 308,obraztsovo-travino,City,obraztsovo-travino
+965 826 873,965 826 873,R,153,Russia,Россия,Voshod,Восход,6 288 351,voshod,City,voshod
+965 826 880,965 826 880,R,153,Russia,Россия,Vatnavolok, Ватнаволок,965 820 974,vatnavolok,City,vatnavolok
+965 827 029,965 827 029,R,153,Russia,Россия,Reftinskiy,Рефтинский,6 288 533,reftinskiy,City,reftinskiy
+965 827 040,965 827 040,R,153,Russia,Россия,Mikhaylovka, Михайловка,6 288 574,mikhaylovka,City,mikhaylovka
+965 827 903,965 827 903,R,153,Russia,Россия,Mindalnoe,Миндальное,6 057 828,mindalnoe,City,mindalnoe
+965 827 946,965 827 946,R,153,Russia,Россия,Shcholkine,Щёлкино,6 057 828,shcholkine,City,shcholkine
+965 829 170,965 829 170,R,153,Russia,Россия,Nyagan,Нягань,6 288 360,nyagan,City,nyagan
+965 829 179,965 829 179,R,153,Russia,Россия,Yurga,Юрга,6 288 356,yurga,City,yurga
+965 829 274,965 829 274,R,153,Russia,Россия,Nizhneudinsk,Нижнеудинск,965 820 895,nizhneudinsk,City,nizhneudinsk
+965 829 291,965 829 291,R,153,Russia,Россия,Repino,Репино,965 820 996,repino_leningrad_oblast,City,repino
+965 829 305,965 829 305,R,153,Russia,Россия,Lisy Island,Лисий остров,153,lisy_island,City,lisy_island
+965 829 335,965 829 335,R,153,Russia,Россия,Srednjya Ahtuba,Средняя Ахтуба,6 288 574,srednjya_ahtuba,City,srednjya_ahtuba
+965 829 395,965 829 395,R,153,Russia,Россия,Krasnopolyanskoe,Краснополянское,965 820 933,krasnopolyanskoe,City,krasnopolyanskoe

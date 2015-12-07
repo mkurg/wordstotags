@@ -1,0 +1,22 @@
+неразобранное
+
+разница с full и без него
+
+0. total - 80.00%
+1. ['acm_hostel', 'city', 'full'] - 40.00%, most popular query: ['хостел в москве', 2]
+2. ['acm_gost', 'city', 'full'] - 13.33%, most popular query: ['гостиницы санкт-петербурга', 1]
+3. ['country', 'full', 'tour'] - 6.67%, most popular query: ['туры в египет', 1]
+4. ['agregator_ostrovok', 'full'] - 6.67%, most popular query: ['островок', 1]
+5. ['acm_hotel', 'city', 'full'] - 6.67%, most popular query: ['отели хургады', 1]
+6. ['acm_hostel', 'full'] - 6.67%, most popular query: ['хостел', 1]
+
+0. total - 73.33%
+1. ['acm_hostel', 'city'] - 33.33%, most popular query: ['хостел в москве', 2]
+2. ['acm_gost', 'city'] - 13.33%, most popular query: ['гостиницы москвы', 1]
+3. ['acm_hostel'] - 6.67%, most popular query: ['хостел', 1]
+4. ['acm_hotel', 'city'] - 6.67%, most popular query: ['отели хургады', 1]
+5. ['agregator_ostrovok'] - 6.67%, most popular query: ['островок', 1]
+6. ['country', 'tour'] - 6.67%, most popular query: ['туры в египет', 1]
+
+странное
+	купить минигостиницу в крыму на берегу моря недорого
