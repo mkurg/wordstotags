@@ -1,82 +1,102 @@
-action_see	посмотреть
+rest	отдых
 action_buy	купить
-wh_how	как
-wh_where_direction	куда
-amn_breakfast	завтрак
-acm_hostel	хостел
-amn_beach	пляж
-action_select	подобрать
-action_overnight	переночевать
-amn_safe	сейф
-amn_amn	удобства
-agregator_booking	booking
-photo	фото
-wh_where	где
-action_drive	ехать
-map	карта
-action_show	показать
-amn_kitchen	кухня
-amn_basin	бассейн
-action_fly	лететь
-reviews	отзывы
-amn_banya	баня
-amn_laundry	прачечная
-action_do	делать
-action_save	сэкономить
-contacts_phone	телефон
-amn_smoking	курящие
-amn_restaurant	ресторан
-action_use	использовать
-amn_bowling	боулинг
-acm_hotel	отель
-amn_jacuzzi	джакузи
 wh_what	что
+acm_hotel	отель
+amn_amn	удобства
+amn_basin	бассейн
+amn_breakfast	завтрак
+action_do	делать
+amn_smoking	курящие
+amn_jacuzzi	джакузи
+action_use	использовать
+trip	поездка
+action_select	подобрать
+amn_bowling	боулинг
+action_drive	ехать
+amn_banya	баня
+wh_where_direction	куда
+action_show	показать
+wh_where	где
+action_overnight	переночевать
+amn_laundry	прачечная
+contacts_phone	телефон
+amn_safe	сейф
+amn_kitchen	кухня
+action_save	сэкономить
+wh_how	как
+action_fly	лететь
+peninsula	крым
+agregator_booking	booking
+acm_hostel	хостел
+action_see	посмотреть
+price	цены
+amn_restaurant	ресторан
 acm_minigost	минги-гостиница
 	минигостиница
-action_perceive	слушать
-	смотреть
-amn_atm	банкомат
-	atm
-tour	туры
-	путевки
+lang_rus	на русском
+	на русском языке
 amn_parking	парковка
 	паркинг
-amn_no_smoking	некурящие
-	для некурящих
+action_phone	позвонить
+	звонить
+amn_atm	банкомат
+	atm
+action_stay	остановиться
+	пожить
+action_perceive	слушать
+	смотреть
+reviews	отзывы
+	отзывы туристов
+contacts_site	официальный сайт
+	сайт
+photo	фото
+	фотографии
+acm_gost	гостиница
+	г-ца
+action_rest	отдохнуть
+	отдыхать
+tour	туры
+	путевки
 arrangement	мероприятие
 	экскурсия
 rating	список
 	рейтинг
-action_phone	позвонить
-	звонить
+amn_no_smoking	некурящие
+	для некурящих
 acm_obj_part	комната
 	номер
-acm_minihotel	мини-отель
-	миниотель
-action_stay	остановиться
-	пожить
-contacts_site	официальный сайт
-	сайт
-action_rest	отдохнуть
-	отдыхать
-acm_gost	гостиница
-	г-ца
+amn_all_inclusive	всё включено
+	все включено
+map	карта
+	карта города
+detailed	подробный
+	подробно
 amn_newly_weds	новобрачные
 	молодожёны
 	молодожены
-action_reach	проехать
-	доехать
-	попасть
+acm_minihotel	мини-отель
+	мини отель
+	миниотель
 econom_class	эконом класс
 	эконом-класс
 	экономкласс
+amn_beach	пляж
+	собственный пляж
+	свой пляж
 acm_apart	апартотель
 	апартаменты
 	апарт отель
-date_year	2015
-	2016
-	2015г
-	2016г
+action_reach	проехать
+	доехать
+	попасть
+action_visit	съездить
+	сходить
+	посетить
+	погулять
+agregator_ostrovok	островок
+	островок.ру
+	ostrovok
+	ostrvok.ru
 amn_internet	интернет
 	вайфай
 	вай-фай
@@ -85,18 +105,28 @@ amn_view	панорамный вид
 	лучший вид
 	красивый вид
 	потрясающий вид
-agregator_ostrovok	островок
-	островок.ру
-	ostrovok
-	ostrvok.ru
+hot	горящие туры
+	горячие туры
+	горячие путёвки
+	горящие путевки
+time_season	лето
+	осень
+	зима
+	весна
 acm_ghouse	гостевой дом
 	гестхаус
 	гест-хаус
 	гест хаус
-action_visit	съездить
-	сходить
-	посетить
-	погулять
+location_line	первая линия
+	1 линия
+	1-я линия
+	1я линия
+stars_3	3*
+	3 *
+	три звезды
+	трехзвездочный
+	трёхзвёздочный
+	3 звезды
 price_cheap	недорого
 	недорогой
 	дешёвый
@@ -109,38 +139,31 @@ stars_2	2*
 	двухзвездочный
 	двухзвёздочный
 	2 звезды
-stars_4	4*
-	4 *
-	четыре звезды
-	четырехзвездочный
-	четырёхзвёздочный
-	4 звезды
-stars_3	3*
-	3 *
-	три звезды
-	трехзвездочный
-	трёхзвёздочный
-	3 звезды
+date_year	2015
+	2016
+	2015г
+	2016г
+	2015 год
+	2016 год
 amn_spa	спа процедуры
 	спа комплекс
 	спа салон
 	спа лечение
 	спа зона
 	спа
+stars_4	4*
+	4 *
+	четыре звезды
+	четырехзвездочный
+	четырёхзвёздочный
+	4 звезды
 acm_obj	спаотель
 	гостиничный комплекс
 	дом отдыха
 	пансионат
 	кофехостел
 	санаторий
-action2book	бронировать
-	забронировать
-	заказать
-	снять
-	арендовать
-	аренда
-	бронирование
-	бронь
+	база отдыха
 stars_5	5*
 	5 *
 	пять звезд
@@ -149,6 +172,14 @@ stars_5	5*
 	пятизвёздочный
 	5 звезд
 	5 звёзд
+action2book	бронировать
+	забронировать
+	заказать
+	снять
+	арендовать
+	аренда
+	бронирование
+	бронь
 date_month	январь
 	февраль
 	март
@@ -174,6 +205,24 @@ stopword	и
 	от
 	до
 	можно
+island	пхукет
+	корфу
+	самуи
+	канары
+	канарские острова
+	родос
+	острова кука
+	санторини
+	барбадос
+	бали
+	боракай
+	майорка
+	самуи
+	хайнань
+	мальдивы
+	крит
+	гран канария
+	гран-канария
 country	Камбоджа
 	Доминиканская Республика
 	Эль-Сальвадор
@@ -419,7 +468,19 @@ country	Камбоджа
 	Восточный Тимор
 	Южный Судан
 	Турция
-city	шарм эль шейх
+city	санкт петербург
+	шарм эль шейх
+	шармаль шейх
+	ростов на дону
+	спб
+	питер
+	комсомольск на амуре
+	йошкар ола
+	улан удэ
+	горно
+	южно сахалинск
+	рио де жанейро
+	сан франциско
 	шарм-эш-шейх
 	Террасса
 	Клаенг

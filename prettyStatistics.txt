@@ -1,4 +1,4 @@
-Queries processed: 15. For all parsed queries see file 'queries-tagged.csv', for fully parsed queries see file 'queries-good-tagged.csv' (separator - tabulation).
+Queries processed: 100514. For all parsed queries see file 'queries-tagged.csv', for fully parsed queries see file 'queries-good-tagged.csv' (separator - tabulation).
 
 Tags:
 
@@ -9,8 +9,8 @@ acm_gost - 3
 acm_hostel - 2
 acm_hotel - 2
 acm_minigost - 3
-acm_minihotel - 3
-acm_obj - 7
+acm_minihotel - 4
+acm_obj - 8
 acm_obj_part - 3
 action2book - 9
 action_buy - 2
@@ -31,11 +31,12 @@ action_use - 2
 action_visit - 5
 agregator_booking - 2
 agregator_ostrovok - 5
+amn_all_inclusive - 3
 amn_amn - 2
 amn_atm - 3
 amn_banya - 2
 amn_basin - 2
-amn_beach - 2
+amn_beach - 4
 amn_bowling - 2
 amn_breakfast - 2
 amn_internet - 5
@@ -51,167 +52,1183 @@ amn_smoking - 2
 amn_spa - 7
 amn_view - 5
 arrangement - 3
-city - 1741
+city - 1753
 contacts_phone - 2
 contacts_site - 3
 country - 246
 date_month - 13
-date_year - 5
+date_year - 7
+detailed - 3
 econom_class - 4
-map - 2
-photo - 2
+hot - 5
+island - 19
+lang_rus - 3
+location_line - 5
+map - 3
+peninsula - 2
+photo - 3
+price - 2
 price_cheap - 7
 rating - 3
-reviews - 2
+rest - 2
+reviews - 3
 stars_2 - 7
 stars_3 - 7
 stars_4 - 7
 stars_5 - 9
 stopword - 14
+time_season - 5
 tour - 3
+trip - 2
 wh_how - 2
 wh_what - 2
 wh_where - 2
 wh_where_direction - 2
 
-Total number of keywords: 2231. Full list of keywords see below
+Total number of keywords: 2303. Full list of keywords see below
 
 Tag sets statistics:
 
-0. total - 53.000%
-1. ['acm_gost', 'city', u'full'] - 33.000%, most popular query: гостиница дивеево
+0. total - 12.000%
+1. ['acm_gost', 'city', u'full'] - 3.000%, most popular query: гостиницы москвы
+, 163
+2. ['acm_hotel', 'city', u'full'] - 1.000%, most popular query: отели москвы
+, 34
+3. ['acm_gost', 'city', u'full', 'price_cheap'] - 1.000%, most popular query: недорогие гостиницы в москве
+, 40
+4. ['acm_hotel', 'acm_obj_part', 'amn_kitchen', 'city', u'full'] - 0.000%, most popular query: отель с кухней в номере москва
+, 1
+5. ['action_stay', 'city', u'full', 'price_cheap', 'wh_where'] - 0.000%, most popular query: где остановиться в казани недорого
+, 2
+6. ['acm_hotel', 'acm_obj', u'full', 'peninsula'] - 0.000%, most popular query: отели и санатории крыма
+, 1
+7. ['action_rest', 'city', 'date_month', u'full', 'wh_where'] - 0.000%, most popular query: сочи где отдохнуть в октябре
+, 1
+8. ['action_visit', 'city', 'date_month', u'full', 'wh_what'] - 0.000%, most popular query: что посетить в питере в сентябре
+, 1
+9. ['acm_gost', 'agregator_ostrovok', 'city', u'full'] - 0.000%, most popular query: гостиницы уфа островок
+, 1
+10. ['acm_ghouse', 'city', 'econom_class', u'full', 'price_cheap'] - 0.000%, most popular query: гостевые дома москвы эконом класса
+, 1
+11. ['action_visit', 'city', u'full', 'photo', 'wh_where_direction'] - 0.000%, most popular query: сочи фото куда сходить
+, 1
+12. ['action_see', 'city', 'date_month', 'date_year', u'full', 'wh_what'] - 0.000%, most popular query: что посмотреть в сочи в ноябре 2015
+, 2
+13. ['acm_gost', 'city', 'contacts_site', 'date_month', u'full'] - 0.000%, most popular query: гостиница апрель рязань официальный сайт
+, 1
+14. ['city', u'full', 'trip'] - 0.000%, most popular query: рыбинск поездка в иваново
+, 1
+15. ['acm_hotel', 'country', u'full', 'map'] - 0.000%, most popular query: отели египта на карте
+, 1
+16. ['country', 'date_year', u'full', 'photo'] - 0.000%, most popular query: гуам 2015 фото
+, 1
+17. ['acm_hotel', 'city', u'full', 'stars_4'] - 0.000%, most popular query: южный гоа отели 4*
+, 2
+18. ['acm_hotel', 'acm_obj', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: адлер отели санаторий бассейн
+, 1
+19. ['acm_hotel', u'full', 'map', 'peninsula'] - 0.000%, most popular query: карта отелей крыма
+, 1
+20. ['action_see', 'city', u'full'] - 0.000%, most popular query: посмотреть в адлере
+, 1
+21. ['action_overnight', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: переночевать в сочи дешево
+, 1
+22. ['acm_gost', 'country', u'full', 'map'] - 0.000%, most popular query: гостиницы украины на карте
+, 1
+23. ['action_rest', 'country', u'full', 'wh_where'] - 0.000%, most popular query: где отдохнуть в венгрия
+, 1
+24. ['acm_hotel', 'action2book', u'full', 'peninsula'] - 0.000%, most popular query: бронирование отелей в крыму
+, 1
+25. ['acm_hotel', 'amn_beach', 'city', u'full'] - 0.000%, most popular query: отели сочи с собственным пляжем
 , 4
-2. ['action_visit', 'city', 'date_month', u'full', 'wh_where_direction'] - 6.000%, most popular query: куда можно сходить в санкт-петербурге в октябре
+26. ['acm_gost', 'city', u'full', 'island', 'map'] - 0.000%, most popular query: гостиницы пхукета на карте
 , 1
-3. ['acm_hotel', 'city', u'full'] - 6.000%, most popular query: отели дюссельдорфа
+27. ['acm_hotel', 'acm_obj', 'city', u'full'] - 0.000%, most popular query: санатории и отели светлогорска
+, 2
+28. ['acm_gost', 'action2book', u'full', 'peninsula'] - 0.000%, most popular query: снять гостиницу в крыму
 , 1
-4. ['acm_gost', 'city', u'full', 'price_cheap'] - 6.000%, most popular query: гостиница екатеринбург дешево
+29. ['acm_gost', 'city', u'full', 'time_season'] - 0.000%, most popular query: гостиница весна адлер
+, 2
+30. ['acm_gost', u'full', 'map'] - 0.000%, most popular query: гостиницы на карте
+, 2
+31. ['acm_hotel', 'acm_obj_part', 'action2book', u'full'] - 0.000%, most popular query: снять номер в отеле
+, 1
+32. ['action_stay', 'city', u'full', 'trip', 'wh_where'] - 0.000%, most popular query: поездка в москву где остановиться
+, 1
+33. ['agregator_booking', u'full'] - 0.000%, most popular query: booking
+, 5
+34. ['action_see', u'full', 'wh_what'] - 0.000%, most popular query: что можно что можно посмотреть
+, 1
+35. ['city', u'full', 'island', 'map'] - 0.000%, most popular query: пхукет картах
+, 1
+36. ['country', 'date_month', 'date_year', u'full', 'rest'] - 0.000%, most popular query: отдых в египте в январе 2015
+, 1
+37. ['acm_gost', 'action2book', 'city', 'country', u'full'] - 0.000%, most popular query: забронировать гостиницу россия в санкт-петербурге
+, 1
+38. ['action_visit', 'city', u'full', 'wh_where_direction'] - 0.000%, most popular query: куда сходить в минске
+, 12
+39. ['acm_hotel', 'city', 'country', u'full', 'island', 'map'] - 0.000%, most popular query: таиланд пхукет карта отелей
+, 1
+40. ['acm_obj_part', 'amn_basin', 'city', u'full', 'rest'] - 0.000%, most popular query: отдых номер с бассейном питер
+, 1
+41. ['city', u'full', 'peninsula', 'trip'] - 0.000%, most popular query: крым поездка в бахчисарай
+, 1
+42. ['acm_gost', 'acm_obj_part', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: недорогие гостиницы номера в санкт-петербурге
+, 3
+43. ['action_buy', 'city', u'full', 'wh_what'] - 0.000%, most popular query: что купить в будапеште
+, 1
+44. ['acm_obj_part', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые номера в паттайе
+, 1
+45. ['acm_hotel', 'action2book', 'city', 'date_year', u'full', 'time_season'] - 0.000%, most popular query: забронировать отель в геленджике на лето 2016
+, 1
+46. ['acm_hotel', 'country', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые отели израиля
+, 1
+47. ['acm_obj', 'city', u'full', 'rest'] - 0.000%, most popular query: отдых в пансионате в питере
+, 1
+48. ['acm_hotel', 'acm_obj_part', 'action2book', 'city', u'full'] - 0.000%, most popular query: снять номер в отеле кракова
+, 1
+49. ['acm_gost', 'city', 'date_year', u'full'] - 0.000%, most popular query: гостиницы керчи 2015
+, 2
+50. ['city', u'full', 'island', 'trip'] - 0.000%, most popular query: поездка на пхукет
+, 1
+51. ['acm_gost', 'city', u'full', 'stars_5'] - 0.000%, most popular query: пятизвёздочные гостиницы домбая
+, 1
+52. ['acm_gost', 'acm_obj_part', 'amn_kitchen', 'city', u'full'] - 0.000%, most popular query: гостиница с кухней в номере москва
+, 2
+53. ['city', u'full', 'island'] - 0.000%, most popular query: пхукет
+, 3
+54. ['acm_obj_part', 'action2book', 'city', u'full'] - 0.000%, most popular query: снять номер в париже
+, 1
+55. ['acm_gost', 'action2book', 'city', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: забронировать гостиницу в сочи июль 2016
+, 1
+56. ['acm_gost', 'city', 'date_year', u'full', 'rest'] - 0.000%, most popular query: отдых в сукко 2016 гостиницы
+, 1
+57. ['acm_hotel', 'amn_beach', 'country', u'full'] - 0.000%, most popular query: отели вьетнама с собственным пляжем
+, 4
+58. ['acm_ghouse', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: гостевые дома в кисловодске недорого
+, 2
+59. ['acm_gost', 'acm_hotel', 'city', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: отели и гостиницы в лоо на октябрь 2015
+, 1
+60. ['acm_hotel', 'agregator_ostrovok', 'country', u'full'] - 0.000%, most popular query: островок отели в турции
+, 1
+61. ['acm_hotel', 'amn_kitchen', 'city', u'full'] - 0.000%, most popular query: отели с кухней москва
+, 1
+62. ['acm_gost', 'city', 'country', u'full', 'price_cheap'] - 0.000%, most popular query: гостиницы сербии белград дешево
+, 1
+63. ['acm_hotel', 'date_month', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые отели в майам
+, 1
+64. ['action_rest', 'country', 'date_month', u'full', 'price_cheap'] - 0.000%, most popular query: отдохнуть в египте в октябре недорого
+, 1
+65. ['acm_hotel', 'date_month', u'full', 'peninsula'] - 0.000%, most popular query: отели в крыму декабрь
+, 1
+66. ['acm_gost', 'city', u'full', 'peninsula'] - 0.000%, most popular query: гостиница  утес крым
+, 1
+67. ['acm_gost', 'amn_spa', 'city', u'full'] - 0.000%, most popular query: гостиницы сочи со спа
+, 1
+68. ['action_drive', 'city', u'full', 'island', 'wh_where_direction'] - 0.000%, most popular query: куда ехать на пхукет
+, 1
+69. ['acm_gost', 'acm_obj_part', 'action2book', 'city', 'country', u'full'] - 0.000%, most popular query: забронировать номер в гостинице украина в москве
+, 1
+70. ['action_rest', 'action_visit', 'country', 'date_month', u'full', 'wh_where_direction'] - 0.000%, most popular query: куда можно съездить отдохнуть в октябре по россии
+, 1
+71. ['acm_gost', u'full', 'peninsula', 'price_cheap'] - 0.000%, most popular query: дешево гостиница крым
+, 1
+72. ['acm_obj_part', 'action2book', u'full'] - 0.000%, most popular query: снять номер
+, 1
+73. ['acm_hotel', 'amn_spa', u'full'] - 0.000%, most popular query: спа отель
+, 2
+74. ['action_see', 'city', 'date_month', u'full'] - 0.000%, most popular query: дубай в ноябре посмотреть
+, 1
+75. ['acm_hotel', 'amn_breakfast', 'city', u'full'] - 0.000%, most popular query: отели санкт-петербурга с завтраком
+, 1
+76. ['acm_hotel', 'city', 'date_year', u'full', 'price_cheap'] - 0.000%, most popular query: ялта эконом отели 2015
+, 1
+77. ['acm_hotel', 'action2book', 'city', 'date_month', u'full'] - 0.000%, most popular query: отели в судаке в ноябре забронировать
+, 1
+78. ['acm_obj', 'city', u'full', 'map'] - 0.000%, most popular query: санаторий приморский евпатория на карте
+, 1
+79. ['acm_gost', 'contacts_site', u'full', 'peninsula'] - 0.000%, most popular query: гостиницы крыма официальные сайты
+, 1
+80. ['acm_hotel', 'city', 'date_year', u'full', 'peninsula'] - 0.000%, most popular query: отели новый свет крым 2015
+, 1
+81. ['city', 'date_year', u'full', 'photo'] - 0.000%, most popular query: фото паттайи 2015
+, 2
+82. ['city', u'full', 'rest'] - 0.000%, most popular query: отдых в бари
+, 1
+83. ['acm_gost', 'city', 'date_year', u'full', 'map'] - 0.000%, most popular query: гостиницы анапы на карте 2015
+, 2
+84. ['acm_obj', 'country', u'full'] - 0.000%, most popular query: санатории казахстана
+, 2
+85. ['acm_hotel', 'date_month', u'full'] - 0.000%, most popular query: отель апрель
+, 1
+86. ['amn_bowling', 'city', u'full'] - 0.000%, most popular query: боулинг в репино спб
+, 1
+87. ['acm_hotel', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: суздаль отели с бассейном
+, 6
+88. ['acm_gost', 'acm_hotel', 'acm_obj', 'city', u'full', 'rest'] - 0.000%, most popular query: отдых в адлере гостиницы отели пансионаты и санатории
+, 1
+89. ['action_visit', 'city', u'full', 'island', 'wh_where_direction'] - 0.000%, most popular query: пхукет куда съездить
+, 2
+90. ['acm_gost', 'acm_hotel', 'acm_obj', 'city', u'full'] - 0.000%, most popular query: зеленогорск отели гостиницы пансионаты
+, 5
+91. ['acm_ghouse', 'city', u'full', 'photo'] - 0.000%, most popular query: гостевые дома калининграда фото
+, 1
+92. ['acm_hotel', 'amn_basin', 'city', 'date_year', u'full'] - 0.000%, most popular query: отели в судаке 2015 с бассейном
+, 1
+93. ['acm_gost', 'acm_hotel', 'acm_obj', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: адлер недорогие гостиницы отели пансионаты
+, 1
+94. ['acm_gost', 'amn_restaurant', 'country', u'full'] - 0.000%, most popular query: гостиницы с рестораном в беларуси
+, 1
+95. ['date_month', u'full', 'rest'] - 0.000%, most popular query: отдых в октябре
+, 2
+96. ['acm_gost', 'acm_hotel', 'city', u'full', 'rating'] - 0.000%, most popular query: список отелей и гостиниц санкт-петербурга
+, 1
+97. ['acm_hotel', 'country', u'full', 'photo', 'rest'] - 0.000%, most popular query: отдых в египте фото отелей
+, 1
+98. ['acm_hotel', 'acm_obj', 'city', u'full', 'peninsula'] - 0.000%, most popular query: орджоникидзе крым отели пансионаты
+, 1
+99. ['agregator_ostrovok', 'city', u'full'] - 0.000%, most popular query: островок санкт-петербург
+, 2
+100. ['acm_hotel', 'city', u'full', 'location_line', 'map'] - 0.000%, most popular query: отели анапы 1 линия на карте
+, 2
+101. ['action_do', 'city', u'full', 'wh_what'] - 0.000%, most popular query: что делать в нижнем новгороде
+, 2
+102. ['acm_gost', 'date_year', u'full', 'peninsula'] - 0.000%, most popular query: гостиницы крым 2015
+, 1
+103. ['arrangement', 'city', 'date_month', u'full'] - 0.000%, most popular query: мюнхен мероприятия октябрь
+, 2
+104. ['acm_obj', 'city', 'contacts_site', u'full'] - 0.000%, most popular query: санаторий приморский евпатория официальный сайт
+, 2
+105. ['action_visit', 'city', u'full', 'wh_what'] - 0.000%, most popular query: что посетить в стамбуле
+, 1
+106. ['acm_hotel', 'city', u'full', 'peninsula', 'price_cheap'] - 0.000%, most popular query: отели в крыму евпатории недорого
+, 1
+107. ['acm_ghouse', 'city', 'contacts_site', u'full'] - 0.000%, most popular query: гостевые дома алушта официальный сайт
+, 1
+108. ['acm_hotel', 'action2book', 'agregator_ostrovok', u'full'] - 0.000%, most popular query: островок бронирование отелей
+, 48
+109. ['acm_gost', 'city', 'contacts_site', u'full', 'peninsula'] - 0.000%, most popular query: гостиница крым в севастополе официальный сайт
+, 3
+110. ['acm_hotel', 'city', 'country', u'full', 'stars_3'] - 0.000%, most popular query: отели 3* таиланд паттайя
+, 2
+111. ['acm_hotel', 'action2book', 'country', u'full', 'island'] - 0.000%, most popular query: бронировать отель на мальдивах
+, 1
+112. ['acm_hotel', 'action2book', u'full'] - 0.000%, most popular query: забронировать отель
+, 3
+113. ['acm_hotel', 'action2book', 'city', u'full'] - 0.000%, most popular query: забронировать отель в москве
+, 6
+114. ['acm_hotel', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые отели
+, 2
+115. ['acm_gost', 'city', 'contacts_site', 'country', u'full'] - 0.000%, most popular query: гостиница украина симферополь официальный сайт
+, 7
+116. ['acm_hotel', 'action_show', 'city', u'full', 'map'] - 0.000%, most popular query: отели в адлере на карте показать
+, 1
+117. ['action_buy', 'city', 'country', u'full', 'wh_what'] - 0.000%, most popular query: что купить в  порту португалия
+, 1
+118. ['acm_gost', 'city', 'date_month', u'full'] - 0.000%, most popular query: гостиницы севастополя  в ноябре
+, 1
+119. ['acm_minihotel', 'city', u'full', 'map'] - 0.000%, most popular query: миниотели ялты на карте
+, 1
+120. ['city', u'full', 'wh_where'] - 0.000%, most popular query: где можно в сочи
+, 1
+121. ['acm_gost', 'amn_banya', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: гостиницы в калуге с бассейном и баней
+, 1
+122. ['amn_beach', 'city', u'full', 'photo'] - 0.000%, most popular query: геленджик пляжи фото
+, 1
+123. ['acm_gost', 'acm_obj_part', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: гостиница с бассейном в номере москва
+, 1
+124. ['amn_beach', 'city', u'full'] - 0.000%, most popular query: пляжи нячанга
+, 1
+125. ['amn_basin', 'city', u'full'] - 0.000%, most popular query: анапа с бассейном
+, 1
+126. ['city', 'country', u'full', 'island'] - 0.000%, most popular query: барбадос хабаровск
+, 1
+127. ['acm_gost', 'city', 'country', u'full', 'map'] - 0.000%, most popular query: гостиница беларусь на карте минска
+, 2
+128. ['acm_hotel', 'city', u'full', 'location_line', 'map', 'stars_3'] - 0.000%, most popular query: отели 3* в лимассоле 1 линия на карте
+, 1
+129. ['acm_gost', 'city', u'full', 'price_cheap', 'rating'] - 0.000%, most popular query: гостиницы барнаула недорого список
+, 4
+130. ['acm_gost', 'amn_basin', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: гостиницы адлера недорого с бассейном
+, 1
+131. ['acm_hotel', 'action2book', 'agregator_ostrovok', 'contacts_site', u'full'] - 0.000%, most popular query: сайт островок бронирование отелей
+, 1
+132. ['acm_hotel', 'city', 'contacts_site', 'country', u'full'] - 0.000%, most popular query: отель россия великий новгород официальный сайт
+, 1
+133. ['acm_gost', 'acm_obj_part', 'city', u'full'] - 0.000%, most popular query: номера в гостиницах ялты
+, 2
+134. ['acm_hotel', 'city', u'full', 'photo'] - 0.000%, most popular query: фото отелей в дубае
+, 2
+135. ['acm_obj_part', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые номера
+, 1
+136. ['acm_gost', 'action_buy', u'full', 'peninsula'] - 0.000%, most popular query: гостиница крым купить
+, 1
+137. ['acm_hotel', 'action2book', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: забронировать отель в риме дешево
+, 2
+138. ['acm_ghouse', 'city', 'date_year', u'full', 'peninsula'] - 0.000%, most popular query: гостевые дома в николаевке крым 2015
+, 1
+139. ['city', 'country', u'full', 'island', 'photo'] - 0.000%, most popular query: таиланд пхукет фото
+, 1
+140. ['city', 'country', u'full'] - 0.000%, most popular query: египет шарм эль шейх
+, 188
+141. ['acm_hotel', 'action2book', 'city', 'country', u'full', 'price_cheap'] - 0.000%, most popular query: бронирование дешевые отели в турции стамбул
+, 1
+142. ['acm_gost', 'acm_hotel', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: гостиницы и отели алушты с бассейном
+, 1
+143. ['acm_gost', 'amn_parking', 'city', u'full'] - 0.000%, most popular query: гостиницы риги с парковками
+, 1
+144. ['acm_gost', 'action2book', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: забронировать гостиницу в минске недорого
+, 3
+145. ['acm_obj', 'city', 'contacts_site', 'country', u'full'] - 0.000%, most popular query: джермук армения санаторий официальный сайт
+, 18
+146. ['acm_hotel', 'amn_basin', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: недорогие отели в анапе с бассейном
+, 1
+147. ['acm_gost', 'action2book', 'country', u'full'] - 0.000%, most popular query: украина гостиница забронировать
+, 1
+148. ['acm_gost', 'acm_obj_part', 'action2book', 'amn_internet', u'full'] - 0.000%, most popular query: бронирование номеров в гостинице интернет
+, 1
+149. ['acm_hotel', 'acm_obj_part', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: отели с бассейном в номере в малаге
+, 1
+150. ['city', 'country', 'date_year', u'full', 'photo'] - 0.000%, most popular query: вьетнам нячанг фото 2015
+, 1
+151. ['acm_hotel', 'city', 'econom_class', u'full'] - 0.000%, most popular query: отели эконом-класса пятигорска
+, 1
+152. ['acm_minigost', 'action_buy', 'city', u'full'] - 0.000%, most popular query: купить минигостиницу в севастополе
+, 1
+153. ['acm_hotel', 'action_buy', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: купить отель в праге недорого
+, 1
+154. ['acm_obj', 'country', u'full', 'rating'] - 0.000%, most popular query: список санаторий казахстана
+, 1
+155. ['acm_gost', 'action_show', 'city', u'full', 'map'] - 0.000%, most popular query: чебоксары показать на карте гостиницы
+, 2
+156. ['acm_hotel', 'amn_spa', 'city', u'full'] - 0.000%, most popular query: спа отель в москве
+, 6
+157. ['action_stay', 'city', 'date_year', u'full', 'price_cheap', 'wh_where'] - 0.000%, most popular query: где остановиться в симферополе недорого в 2015 году
+, 1
+158. ['acm_hotel', 'action_buy', 'city', u'full'] - 0.000%, most popular query: купить отель в валенсии
+, 1
+159. ['acm_obj', 'acm_obj_part', 'city', u'full'] - 0.000%, most popular query: номер в пансионате в ялте
+, 1
+160. ['acm_ghouse', 'acm_gost', 'acm_hotel', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: отели гостевые дома гостиницы с бассейном ялта
+, 1
+161. ['acm_hotel', 'amn_basin', 'city', u'full', 'peninsula'] - 0.000%, most popular query: отели крыма с бассейном в евпатории
+, 1
+162. ['acm_hotel', 'city', u'full', 'map'] - 0.000%, most popular query: карта паттайи с отелями
+, 14
+163. ['action_visit', 'city', u'full', 'island', 'wh_what'] - 0.000%, most popular query: что посетить на пхукете
+, 1
+164. ['city', 'country', u'full', 'photo'] - 0.000%, most popular query: таиланд паттайя фото
+, 1
+165. ['acm_hotel', 'action2book', 'city', u'full', 'price_cheap', 'wh_how'] - 0.000%, most popular query: как дешевле забронировать отель в паттайе
+, 1
+166. ['acm_hotel', u'full'] - 0.000%, most popular query: отель
+, 2
+167. ['acm_hotel', 'agregator_ostrovok', 'city', u'full'] - 0.000%, most popular query: отели гаваны островок
+, 1
+168. ['acm_hotel', 'city', 'econom_class', u'full', 'price_cheap'] - 0.000%, most popular query: волгоград отели эконом класса
+, 2
+169. ['acm_gost', 'acm_hotel', 'city', 'date_year', u'full'] - 0.000%, most popular query: гостиницы и отели севастополя 2015
+, 1
+170. ['acm_gost', u'full', 'peninsula'] - 0.000%, most popular query: гостиницы крыма
+, 9
+171. ['acm_gost', 'acm_obj_part', 'city', u'full', 'photo'] - 0.000%, most popular query: гостиница москва фото номера
+, 1
+172. ['acm_obj', 'amn_beach', 'city', u'full'] - 0.000%, most popular query: пансионаты геленджика с собственным пляжем
+, 1
+173. ['action_stay', 'city', u'full'] - 0.000%, most popular query: остановиться в москве
+, 1
+174. ['acm_gost', 'city', 'contacts_site', 'date_year', u'full', 'peninsula'] - 0.000%, most popular query: гостиница крым севастополь официальный сайт 2015 год
+, 1
+175. ['acm_gost', 'acm_hotel', 'city', 'contacts_site', u'full'] - 0.000%, most popular query: отели и гостиницы сочи сайты
+, 1
+176. ['agregator_ostrovok', 'contacts_site', u'full'] - 0.000%, most popular query: островок официальный сайт
+, 3
+177. ['acm_obj_part', 'amn_kitchen', 'city', u'full'] - 0.000%, most popular query: номер с кухней в адлере
+, 1
+178. ['action_visit', 'arrangement', 'city', u'full', 'wh_where_direction'] - 0.000%, most popular query: куда можно сходить в минске на экскурсию
+, 1
+179. ['acm_hotel', 'amn_breakfast', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: отели москвы недорогие с завтраком
+, 2
+180. ['acm_hotel', 'amn_beach', 'city', u'full', 'island'] - 0.000%, most popular query: отели на пхукете с собственным пляжем
+, 1
+181. ['acm_hotel', 'acm_obj_part', 'action2book', 'amn_kitchen', 'city', u'full'] - 0.000%, most popular query: снять отель с кухней в номере париж
+, 2
+182. ['acm_gost', 'city', 'contacts_phone', u'full'] - 0.000%, most popular query: телефоны гостиниц кингисеппа
+, 2
+183. ['agregator_ostrovok', u'full'] - 0.000%, most popular query: островок
+, 87
+184. ['acm_minihotel', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: мини-отели в москве недорого
+, 18
+185. ['acm_gost', u'full', 'rating'] - 0.000%, most popular query: рейтинг гостиниц
+, 1
+186. ['acm_gost', 'acm_hotel', 'city', u'full'] - 0.000%, most popular query: мышкин отели и гостиницы
+, 5
+187. ['acm_obj_part', 'action2book', 'country', u'full', 'wh_how'] - 0.000%, most popular query: как забронировать номер в египте
+, 2
+188. ['acm_hotel', 'amn_beach', 'city', u'full', 'location_line'] - 0.000%, most popular query: отели анапы с собственным пляжем 1 линия
+, 1
+189. ['acm_gost', 'city', 'econom_class', u'full', 'price_cheap'] - 0.000%, most popular query: гостиницы выборга эконом класса
+, 5
+190. ['acm_gost', 'city', 'date_month', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые гостиницы симферополя на октябрь
+, 1
+191. ['acm_minihotel', u'full'] - 0.000%, most popular query: миниотель
+, 2
+192. ['acm_hotel', 'city', 'date_year', u'full', 'rating', 'stars_5'] - 0.000%, most popular query: рейтинг пятизвездочных отелей сочи 2015
+, 1
+193. ['acm_gost', 'acm_minigost', 'city', u'full'] - 0.000%, most popular query: магадан гостиницы минигостиницы
+, 1
+194. ['acm_hotel', 'action2book', 'city', 'country', u'full'] - 0.000%, most popular query: отели в тунисе забронировать
+, 1
+195. ['action_drive', 'city', u'full', 'wh_how'] - 0.000%, most popular query: как ехать до шереметьево
+, 1
+196. ['acm_hotel', 'city', u'full', 'island', 'price_cheap'] - 0.000%, most popular query: недорогие отели пхукета
+, 2
+197. ['acm_hotel', 'city', u'full', 'island', 'rating'] - 0.000%, most popular query: отели пхукета рейтинг
+, 1
+198. ['acm_obj_part', 'action2book', 'amn_view', u'full'] - 0.000%, most popular query: снять номер с панорамным видом
+, 1
+199. ['acm_hotel', 'city', 'country', u'full', 'island', 'photo'] - 0.000%, most popular query: таиланд пхукет отели фото
+, 1
+200. ['acm_hotel', 'city', u'full', 'island', 'map'] - 0.000%, most popular query: отели пхукета на карте
+, 17
+201. ['acm_obj_part', 'action2book', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: снять номер в москве недорого
+, 3
+202. ['acm_gost', 'city', 'date_year', u'full', 'price_cheap'] - 0.000%, most popular query: гостиницы ялты недорого 2015 год
+, 6
+203. ['acm_gost', 'acm_obj_part', 'action2book', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: снять номер в гостинице екатеринбурга недорого
+, 2
+204. ['acm_ghouse', 'action2book', 'city', u'full'] - 0.000%, most popular query: аренда гостевого дома петрозаводск
+, 1
+205. ['action_stay', 'city', u'full', 'wh_where'] - 0.000%, most popular query: где остановиться в сочи
+, 5
+206. ['acm_hotel', 'date_year', u'full', 'peninsula', 'price_cheap'] - 0.000%, most popular query: эконом отели в крыму 2015
+, 1
+207. ['acm_hotel', 'action2book', 'agregator_ostrovok', 'city', u'full'] - 0.000%, most popular query: островок бронирование отелей санкт-петербург
+, 1
+208. ['city', 'econom_class', u'full', 'price_cheap', 'rest'] - 0.000%, most popular query: отдых в батуми эконом класса
+, 1
+209. ['acm_hotel', 'action2book', 'city', u'full', 'wh_how'] - 0.000%, most popular query: как заказать отель в москве
+, 1
+210. ['date_month', u'full', 'island', 'rest'] - 0.000%, most popular query: отдых на крите в ноябре
+, 1
+211. ['amn_spa', 'city', u'full', 'island', 'rating'] - 0.000%, most popular query: рейтинг спа на пхукете
+, 1
+212. ['acm_hotel', 'city', u'full', 'stars_5'] - 0.000%, most popular query: пятизвездочные отели в хайфе
+, 1
+213. ['action_show', 'city', u'full', 'map'] - 0.000%, most popular query: карта москвы показать
+, 1
+214. ['country', u'full'] - 0.000%, most popular query: египет
+, 8
+215. ['acm_hotel', 'city', u'full', 'rating', 'stars_4'] - 0.000%, most popular query: список 4* отелей нячанга
+, 1
+216. ['action_rest', 'country', u'full'] - 0.000%, most popular query: отдыхать в египте
+, 1
+217. ['action_visit', 'city', u'full'] - 0.000%, most popular query: погулять в сочи
+, 1
+218. ['acm_gost', 'city', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: гостиницы в ялте ноябрь 2015
+, 1
+219. ['acm_gost', 'action_buy', 'city', u'full'] - 0.000%, most popular query: купить гостиницу в сочи
+, 1
+220. ['acm_minihotel', 'acm_obj_part', 'action2book', 'city', u'full'] - 0.000%, most popular query: снять номер в миниотеле в киеве
+, 1
+221. ['acm_hotel', 'acm_obj_part', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: номер в отеле дешево в ростове-на-дону
+, 1
+222. ['acm_hotel', 'amn_basin', 'country', u'full'] - 0.000%, most popular query: черногория отели с бассейном
+, 1
+223. ['acm_hotel', 'city', u'full', 'map', 'price_cheap'] - 0.000%, most popular query: недорогие отели в одессе на карте
+, 2
+224. ['acm_obj', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: санаторий с бассейном на домбае
+, 1
+225. ['acm_hotel', u'full', 'peninsula', 'price_cheap'] - 0.000%, most popular query: недорогие отели в крыму
+, 2
+226. [u'full'] - 0.000%, most popular query: 
+, 4
+227. ['acm_obj', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: пансионаты санкт-петербурга недорого
+, 2
+228. ['acm_gost', 'city', 'econom_class', u'full'] - 0.000%, most popular query: гостиницы львова эконом-класса
+, 4
+229. ['acm_gost', 'action2book', 'city', u'full', 'wh_how'] - 0.000%, most popular query: как бронировать гостиницу в баку
+, 1
+230. ['acm_hotel', 'city', u'full', 'rating', 'stars_5'] - 0.000%, most popular query: рейтинг пятизвездочных отелей москвы
+, 1
+231. ['acm_hotel', 'city', u'full', 'map', 'stars_4'] - 0.000%, most popular query: карта отелей шарм эль шейха 4 *
+, 1
+232. ['acm_hotel', 'city', 'contacts_site', u'full', 'island', 'map'] - 0.000%, most popular query: сайт карта отелей пхукета
+, 1
+233. ['acm_gost', 'city', 'contacts_site', 'country', u'full', 'photo'] - 0.000%, most popular query: гостиница россия в санкт-петербурге официальный сайт фото
+, 2
+234. ['action_rest', 'date_month', 'date_year', u'full', 'wh_how'] - 0.000%, most popular query: как отдыхаем в ноябре 2015 года
+, 2
+235. ['amn_restaurant', 'amn_view', 'city', u'full'] - 0.000%, most popular query: рестораны с панорамным видом в будапеште
+, 1
+236. ['action_rest', 'country', 'date_month', 'date_year', u'full', 'price_cheap', 'wh_where'] - 0.000%, most popular query: где можно отдохнуть в ноябре в россии недорого 2015
+, 1
+237. ['action_buy', 'country', u'full', 'wh_what'] - 0.000%, most popular query: что купить в германии
+, 4
+238. ['action_stay', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: остановиться в санкт-петербурге недорого
+, 1
+239. ['action_rest', 'country', u'full', 'price_cheap', 'wh_how'] - 0.000%, most popular query: как недорого отдохнуть в египте
+, 1
+240. ['acm_hotel', 'acm_obj_part', 'action2book', 'city', u'full', 'island'] - 0.000%, most popular query: забронировать номер в отеле на пхукете
+, 1
+241. ['acm_hotel', 'amn_basin', 'amn_beach', u'full', 'peninsula'] - 0.000%, most popular query: отели крыма с бассейном и собственным пляжем
+, 1
+242. ['acm_ghouse', 'city', 'date_year', u'full', 'rest'] - 0.000%, most popular query: отдых в алуште 2015 год гостевые дома
+, 2
+243. ['acm_ghouse', u'full', 'peninsula'] - 0.000%, most popular query: гостевые дома крыма
+, 2
+244. ['action_reach', 'city', u'full', 'wh_how'] - 0.000%, most popular query: как доехать от симферополя до ялты
+, 2
+245. [u'full', 'island', 'rest'] - 0.000%, most popular query: отдых на крите
+, 2
+246. ['city', 'date_month', u'full'] - 0.000%, most popular query: хельсинки в декабре
+, 2
+247. ['acm_gost', 'city', u'full', 'stars_4'] - 0.000%, most popular query: гостиницы саратов 4*
+, 1
+248. ['action_see', 'city', u'full', 'wh_what'] - 0.000%, most popular query: что посмотреть в калининграде
+, 8
+249. ['action_rest', 'city', 'date_month', 'date_year', u'full', 'wh_where'] - 0.000%, most popular query: где отдохнуть в шарм эль шейхе в октябре 2015
+, 1
+250. ['amn_spa', 'city', u'full'] - 0.000%, most popular query: спа евпатория
+, 2
+251. ['acm_gost', 'action2book', u'full'] - 0.000%, most popular query: забронировать гостиницу
+, 2
+252. ['acm_gost', 'city', 'country', u'full'] - 0.000%, most popular query: гостиница россия санкт-петербург
+, 28
+253. ['acm_hotel', 'amn_view', u'full'] - 0.000%, most popular query: отель с панорамным видом
+, 1
+254. ['acm_gost', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые гостиницы
+, 11
+255. ['acm_hotel', 'city', 'date_month', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые отели на гоа январь
+, 1
+256. ['acm_gost', 'acm_hotel', 'city', u'full', 'map'] - 0.000%, most popular query: карта отели гостиницы в геленджике
+, 1
+257. ['acm_gost', 'acm_hotel', u'full'] - 0.000%, most popular query: гостиницы и отели
+, 4
+258. ['acm_hotel', 'amn_basin', 'amn_spa', 'city', u'full'] - 0.000%, most popular query: спа отель в петергофе с бассейном
+, 3
+259. ['acm_hotel', 'amn_spa', u'full', 'peninsula', 'price_cheap'] - 0.000%, most popular query: недорогие спа отели крыма
+, 1
+260. ['amn_beach', u'full', 'map', 'wh_where_direction'] - 0.000%, most popular query: пляжи ко куда на карте
+, 1
+261. ['acm_minihotel', 'city', 'date_month', u'full'] - 0.000%, most popular query: миниотели в адлере в ноябре
+, 1
+262. ['acm_minigost', u'full', 'peninsula'] - 0.000%, most popular query: минигостиницы в крыму
+, 2
+263. ['acm_gost', 'city', u'full', 'photo'] - 0.000%, most popular query: гостиница санкт-петербург фото
+, 2
+264. ['acm_hotel', 'amn_spa', 'country', u'full'] - 0.000%, most popular query: турция отели со спа
+, 1
+265. ['acm_hotel', 'action2book', 'amn_internet', 'city', u'full', 'wh_how'] - 0.000%, most popular query: как заказать отель в москве по интернету
+, 1
+266. ['action_see', 'city', 'date_month', u'full', 'rest', 'wh_what'] - 0.000%, most popular query: сочи отдых в октябре что посмотреть
+, 1
+267. ['acm_hotel', 'amn_basin', 'amn_beach', 'city', u'full'] - 0.000%, most popular query: отели алушты с собственным пляжем и бассейном
+, 2
+268. ['action_reach', 'city', u'full'] - 0.000%, most popular query: доехать с домодедово до москвы
+, 7
+269. ['city', 'date_month', u'full', 'rest'] - 0.000%, most popular query: отдых в сочи в октябре
+, 2
+270. ['acm_gost', 'acm_obj', 'city', u'full'] - 0.000%, most popular query: адлер гостиницы и пансионаты
+, 1
+271. ['acm_minihotel', 'city', 'contacts_site', u'full'] - 0.000%, most popular query: мини-отель гавана москва официальный сайт
+, 1
+272. ['action_see', 'city', u'full', 'photo', 'wh_what'] - 0.000%, most popular query: мадрид что посмотреть фото
+, 1
+273. ['acm_gost', 'agregator_ostrovok', u'full'] - 0.000%, most popular query: гостиница островок
+, 1
+274. ['acm_hotel', u'full', 'map'] - 0.000%, most popular query: отель карта
+, 1
+275. ['amn_banya', 'city', u'full'] - 0.000%, most popular query: баня в дагомысе
+, 1
+276. ['country', u'full', 'rest'] - 0.000%, most popular query: отдых в египте
+, 37
+277. ['city', 'country', 'date_year', u'full'] - 0.000%, most popular query: таиланд паттайя 2015
+, 3
+278. ['acm_ghouse', 'city', u'full', 'rest'] - 0.000%, most popular query: отдых в калуге гостевые дома
+, 1
+279. ['action_visit', 'city', u'full', 'map', 'wh_what'] - 0.000%, most popular query: что посетить в екатеринбурге карта
+, 1
+280. ['action_visit', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: дешево сходить в москве
+, 1
+281. ['city', 'date_month', u'full', 'wh_what'] - 0.000%, most popular query: что в октябре в дубае
+, 1
+282. ['acm_hotel', u'full', 'peninsula', 'stars_5'] - 0.000%, most popular query: пятизвездочные отели в крыму
+, 1
+283. ['action_visit', 'city', u'full', 'wh_where'] - 0.000%, most popular query: где можно погулять в нижнем новгороде
+, 2
+284. ['acm_gost', 'amn_bowling', 'city', u'full'] - 0.000%, most popular query: гостиница к боулинг в нижнем новгороде
+, 1
+285. ['acm_gost', 'city', 'contacts_site', u'full', 'photo'] - 0.000%, most popular query: гостиница санкт-петербург в санкт-петербурге официальный сайт фото
+, 19
+286. ['action_overnight', 'city', u'full'] - 0.000%, most popular query: переночевать в твери
+, 2
+287. ['acm_hotel', 'city', 'date_year', u'full', 'rating'] - 0.000%, most popular query: рейтинг отелей шарм эль шейха 2015
+, 2
+288. ['action2book', 'agregator_ostrovok', u'full'] - 0.000%, most popular query: островок бронирование
+, 2
+289. ['acm_hotel', 'acm_obj', u'full', 'map', 'peninsula'] - 0.000%, most popular query: карта крыма с отелями и пансионатами
+, 1
+290. ['city', u'full', 'time_season'] - 0.000%, most popular query: весна сочи
+, 1
+291. ['acm_hotel', 'amn_basin', u'full', 'peninsula'] - 0.000%, most popular query: крым отели с бассейном
+, 1
+292. ['acm_gost', 'action2book', 'city', u'full'] - 0.000%, most popular query: снять гостиницу в санкт-петербурге
+, 6
+293. [u'full', 'stars_3'] - 0.000%, most popular query: 3*
+, 1
+294. ['acm_hotel', u'full', 'photo'] - 0.000%, most popular query: отели фото
+, 1
+295. ['acm_gost', u'full'] - 0.000%, most popular query: гостиница
+, 37
+296. ['acm_hotel', 'city', u'full', 'peninsula'] - 0.000%, most popular query: отели балаклава крым
+, 2
+297. ['acm_hotel', 'acm_obj', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые отели пансионаты в сочи и адлере
+, 1
+298. ['action_drive', 'action_rest', 'date_month', u'full', 'wh_where_direction'] - 0.000%, most popular query: куда ехать отдохнуть в ноябре
+, 1
+299. ['acm_obj_part', 'amn_view', 'city', u'full'] - 0.000%, most popular query: номер с панорамным видом спб
+, 2
+300. ['acm_hotel', 'country', u'full', 'island'] - 0.000%, most popular query: отели греции крит
+, 1
+301. ['acm_hotel', 'action2book', 'country', u'full', 'wh_how'] - 0.000%, most popular query: как забронировать отель в германии
+, 1
+302. ['acm_hotel', 'city', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: отели в пскове в январе 2016
+, 1
+303. ['acm_gost', 'amn_basin', u'full'] - 0.000%, most popular query: гостиница с бассейном
+, 1
+304. ['arrangement', 'city', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: мероприятия в риме в ноябре 2015
+, 1
+305. ['city', 'date_month', u'full', 'photo'] - 0.000%, most popular query: минск в ноябре фото
+, 1
+306. ['acm_hotel', 'acm_obj_part', 'action2book', 'city', 'econom_class', u'full'] - 0.000%, most popular query: номер в отеле экономкласса в риге снять
+, 1
+307. ['acm_gost', 'city', 'contacts_phone', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые гостиницы в серпухове с телефонами
+, 1
+308. ['acm_gost', 'acm_obj_part', u'full', 'price_cheap'] - 0.000%, most popular query: дешевый номер в гостинице
+, 1
+309. ['acm_hotel', 'agregator_ostrovok', 'city', u'full', 'island'] - 0.000%, most popular query: отели пхукета на островке
+, 1
+310. ['acm_hotel', 'arrangement', 'city', u'full'] - 0.000%, most popular query: экскурсия и отели черновцы
+, 1
+311. ['acm_ghouse', 'city', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: евпатория гостевые дома 2015  сентябрь
+, 1
+312. ['acm_gost', 'amn_banya', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: недорогие бани в ижевске с гостиницами
+, 1
+313. ['acm_hotel', 'city', 'contacts_site', u'full', 'photo'] - 0.000%, most popular query: отель санкт-петербург в санкт-петербурге официальный сайт фото
+, 6
+314. ['acm_gost', 'amn_view', 'city', u'full'] - 0.000%, most popular query: гостиницы с красивым видом москва
+, 1
+315. ['amn_spa', 'country', u'full'] - 0.000%, most popular query: спа в армении
+, 1
+316. ['acm_minigost', 'acm_obj', u'full', 'peninsula'] - 0.000%, most popular query: минигостиницы и пансионаты в крыму
+, 1
+317. ['acm_hotel', 'city', 'detailed', u'full', 'map'] - 0.000%, most popular query: карта шарм-эль-шейх с отелями подробная
+, 2
+318. ['acm_hotel', 'amn_parking', 'city', u'full'] - 0.000%, most popular query: отели в спб с парковкой
+, 2
+319. ['acm_hotel', 'city', 'country', u'full', 'map'] - 0.000%, most popular query: карта отелей египет шарм эль шейх
+, 2
+320. ['acm_gost', 'city', 'contacts_phone', u'full', 'rating'] - 0.000%, most popular query: список гостиниц москвы с телефонами
+, 1
+321. ['acm_gost', 'country', u'full'] - 0.000%, most popular query: гостиницы в италии
+, 1
+322. ['acm_gost', 'city', u'full', 'map', 'price_cheap'] - 0.000%, most popular query: гостиницы оренбурга недорогие на карте
+, 2
+323. ['acm_obj_part', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: номер с бассейном в краснодаре
+, 1
+324. ['acm_ghouse', 'action2book', 'city', u'full', 'wh_where'] - 0.000%, most popular query: где забронировать гостевые дома в сочи
+, 1
+325. ['acm_gost', 'city', 'contacts_site', u'full', 'price_cheap'] - 0.000%, most popular query: гостиница дешевые в москва официальный сайт
+, 1
+326. ['acm_gost', 'acm_hotel', 'action2book', 'city', u'full'] - 0.000%, most popular query: забронировать отель гостиницу в перми
+, 1
+327. ['acm_obj_part', 'action2book', 'city', u'full', 'price_cheap', 'wh_where'] - 0.000%, most popular query: где можно снять недорогой номер в краснодаре
+, 1
+328. ['action_overnight', 'city', u'full', 'price_cheap', 'wh_where'] - 0.000%, most popular query: где можно переночевать в москве недорого
+, 1
+329. ['action_rest', 'action_visit', 'city', u'full', 'wh_where_direction'] - 0.000%, most popular query: куда сходить отдохнуть в минске
+, 1
+330. ['acm_minihotel', 'city', u'full'] - 0.000%, most popular query: миниотели в москве
+, 8
+331. ['action_see', 'city', u'full', 'time_season', 'wh_what'] - 0.000%, most popular query: что посмотреть в адлере осенью
+, 3
+332. ['city', u'full'] - 0.000%, most popular query: екатеринбург
+, 9
+333. ['acm_ghouse', 'city', u'full', 'map'] - 0.000%, most popular query: гостевые дома адлера на карте
+, 1
+334. ['acm_gost', 'action_select', 'city', u'full'] - 0.000%, most popular query: подобрать гостиницу в москве
+, 1
+335. ['city', 'date_year', u'full'] - 0.000%, most popular query: москва ханой 2015
+, 1
+336. ['acm_hotel', 'amn_basin', 'country', u'full', 'photo'] - 0.000%, most popular query: отели во вьетнаме с бассейном фото
+, 1
+337. ['acm_gost', 'city', u'full', 'map'] - 0.000%, most popular query: гостиницы москвы на карте
+, 9
+338. ['acm_gost', 'acm_obj_part', 'city', 'contacts_phone', u'full'] - 0.000%, most popular query: номера телефонов гостиницы можайска
+, 1
+339. ['acm_hotel', 'country', u'full'] - 0.000%, most popular query: отели египта
+, 3
+340. ['acm_hotel', 'acm_obj_part', 'city', u'full', 'photo'] - 0.000%, most popular query: отели в сочи фото номеров
+, 2
+341. ['arrangement', 'city', 'date_year', u'full'] - 0.000%, most popular query: экскурсии в паттайе 2015
+, 3
+342. ['acm_obj', 'city', u'full'] - 0.000%, most popular query: репино пансионат
+, 4
+343. ['acm_hotel', 'amn_basin', 'date_month', 'date_year', u'full', 'peninsula'] - 0.000%, most popular query: отели в крыму в ноябре 2015 с бассейном
+, 1
+344. ['amn_beach', 'city', u'full', 'island'] - 0.000%, most popular query: пляжи пхукета
+, 1
+345. ['acm_gost', 'acm_hotel', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: недорогие гостиницы и отели в москве
+, 2
+346. ['acm_hotel', 'amn_spa', 'city', 'contacts_site', u'full'] - 0.000%, most popular query: спа отель зеленоградск официальный сайт
+, 4
+347. ['acm_gost', 'city', 'date_month', u'full', 'peninsula'] - 0.000%, most popular query: гостиница крым алушта на октябрь
+, 2
+348. ['acm_hotel', 'acm_obj_part', u'full'] - 0.000%, most popular query: номер в отеле
+, 3
+349. ['acm_minigost', 'city', u'full'] - 0.000%, most popular query: минигостиницы севастополя
+, 4
+350. ['acm_hotel', 'city', 'contacts_site', u'full', 'time_season'] - 0.000%, most popular query: отель весна адлер официальный сайт
+, 3
+351. ['arrangement', 'city', u'full'] - 0.000%, most popular query: мероприятия в гданьске
+, 1
+352. ['acm_hotel', 'amn_view', 'city', u'full'] - 0.000%, most popular query: отели с панорамным видом москва
+, 4
+353. ['acm_gost', 'amn_beach', 'city', u'full'] - 0.000%, most popular query: гостиницы адлера с собственным пляжем
+, 2
+354. ['acm_ghouse', 'city', u'full'] - 0.000%, most popular query: гостевые дома в калининграде
+, 7
+355. ['acm_gost', 'city', u'full', 'photo', 'price_cheap'] - 0.000%, most popular query: гостиница в томске недорого с фото
+, 1
+356. ['acm_hotel', 'city', u'full', 'map', 'peninsula'] - 0.000%, most popular query: карта новый свет крым с отелями
+, 1
+357. ['acm_obj', 'city', 'date_year', u'full', 'photo'] - 0.000%, most popular query: пансионат кассандра 2015 фото
+, 1
+358. ['acm_hotel', 'action2book', 'city', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: забронировать отель в адлере на ноябрь 2015
+, 1
+359. ['acm_hotel', 'action2book', 'country', u'full'] - 0.000%, most popular query: отель в египте забронировать
+, 2
+360. ['acm_hotel', 'city', 'country', u'full', 'rating'] - 0.000%, most popular query: рейтинг отелей египта шарм эль шейх
+, 1
+361. ['acm_hotel', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: дешёвые отели в москве
+, 12
+362. ['acm_obj_part', 'city', u'full'] - 0.000%, most popular query: номера в сочи
+, 1
+363. ['acm_gost', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: гостиница с бассейном в краснодаре
+, 3
+364. ['acm_hotel', 'city', u'full', 'rest'] - 0.000%, most popular query: отдых в орле отели
+, 1
+365. ['acm_hotel', 'city', u'full', 'time_season'] - 0.000%, most popular query: отель весна адлер
+, 3
+366. ['acm_obj_part', 'amn_kitchen', 'city', 'date_year', u'full'] - 0.000%, most popular query: адлер кухня в номере 2015
+, 1
+367. ['acm_ghouse', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: гостевые дома в лоо с бассейном
+, 2
+368. ['acm_gost', 'econom_class', u'full', 'price_cheap'] - 0.000%, most popular query: гостиница эконом класса
+, 2
+369. ['acm_hotel', 'city', u'full', 'stars_3'] - 0.000%, most popular query: отели паттайи 3*
+, 2
+370. ['acm_gost', 'acm_obj', 'acm_obj_part', u'full', 'peninsula'] - 0.000%, most popular query: гостиницы санатории крыма номера
+, 1
+371. ['acm_gost', 'acm_hotel', 'city', u'full', 'peninsula'] - 0.000%, most popular query: крым коктебель отели и гостиницы
+, 1
+372. ['acm_gost', 'amn_banya', 'city', u'full'] - 0.000%, most popular query: санкт петербург гостиница с баней
+, 1
+373. ['acm_hotel', 'amn_basin', 'city', 'contacts_site', u'full'] - 0.000%, most popular query: отели с бассейнами в адлере официальный сайт
+, 1
+374. ['action_rest', 'date_month', u'full', 'wh_where'] - 0.000%, most popular query: где отдохнуть в ноябре
+, 1
+375. ['acm_gost', 'amn_spa', u'full'] - 0.000%, most popular query: гостиница и спа
+, 1
+376. ['country', u'full', 'trip'] - 0.000%, most popular query: поездки в египет
+, 3
+377. ['acm_obj_part', 'city', u'full', 'photo'] - 0.000%, most popular query: дубаи фото в номере
+, 1
+378. ['acm_hotel', 'city', u'full', 'peninsula', 'photo'] - 0.000%, most popular query: крым коктебель отель приморье фото
+, 1
+379. ['acm_hotel', 'city', 'country', u'full'] - 0.000%, most popular query: отель россия санкт петербург
+, 3
+380. ['city', u'full', 'island', 'rest'] - 0.000%, most popular query: отдых на родосе
+, 1
+381. ['acm_hotel', 'city', 'date_year', u'full', 'map'] - 0.000%, most popular query: отели судака на карте 2015
+, 1
+382. ['action_visit', 'city', 'date_year', u'full', 'wh_where_direction'] - 0.000%, most popular query: куда сходить в адлере 2015
+, 1
+383. ['acm_gost', 'amn_parking', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: гостиницы казани недорого с парковкой
+, 1
+384. ['acm_hotel', 'city', 'date_year', u'full'] - 0.000%, most popular query: отели домбая 2015
+, 3
+385. ['acm_gost', 'city', u'full', 'price_cheap', 'wh_where'] - 0.000%, most popular query: где в перми дешевые гостиницы
+, 1
+386. ['acm_hotel', 'city', 'contacts_site', u'full', 'map'] - 0.000%, most popular query: отели ярославля на карте официальный сайт
+, 1
+387. ['acm_hotel', 'amn_basin', 'city', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: ялта октябрь 2015 отели с бассейном
+, 1
+388. ['city', u'full', 'map'] - 0.000%, most popular query: карта нячанга
+, 4
+389. ['acm_apart', 'city', u'full'] - 0.000%, most popular query: апартотели баку
+, 2
+390. ['acm_hotel', 'city', u'full', 'photo', 'rating'] - 0.000%, most popular query: рейтинг отелей волгограда фото
+, 1
+391. ['acm_ghouse', 'acm_hotel', 'city', u'full'] - 0.000%, most popular query: отели и гостевые дома в судаке
+, 1
+392. ['acm_gost', 'city', 'contacts_site', u'full'] - 0.000%, most popular query: гостиницы мурома официальный сайт
+, 13
+393. ['acm_hotel', 'country', u'full', 'photo'] - 0.000%, most popular query: отели в египте фото
+, 1
+394. ['action_do', 'city', 'date_month', u'full', 'wh_what'] - 0.000%, most popular query: что делать в минске в ноябре
+, 1
+395. ['acm_gost', 'amn_breakfast', 'city', u'full'] - 0.000%, most popular query: гостиницы ярославля с завтраком
+, 2
+396. ['city', u'full', 'photo'] - 0.000%, most popular query: тирасполь фото
+, 1
+397. ['action_visit', 'city', 'date_month', 'date_year', u'full', 'wh_where_direction'] - 0.000%, most popular query: куда сходить в сочи в октябре 2015
+, 6
+398. ['acm_gost', 'city', u'full', 'stars_2'] - 0.000%, most popular query: гостиницы 2* краснодар
+, 1
+399. ['acm_hotel', u'full', 'wh_where_direction'] - 0.000%, most popular query: отели на ко куде
+, 1
+400. ['acm_gost', 'acm_obj', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: недорогие гостиницы и пансионаты кисловодска
+, 2
+401. ['acm_ghouse', 'city', u'full', 'peninsula'] - 0.000%, most popular query: крым алушта гостевые дома
+, 1
+402. ['acm_hotel', 'acm_obj_part', 'city', u'full'] - 0.000%, most popular query: номер в отеле в минске
+, 1
+403. ['acm_gost', 'city', 'detailed', u'full', 'map'] - 0.000%, most popular query: карта севастополя с гостиницами подробная
+, 1
+404. ['acm_minigost', 'action2book', 'city', u'full'] - 0.000%, most popular query: аренда минигостиницы в анапе
+, 1
+405. ['acm_gost', 'city', u'full', 'rest'] - 0.000%, most popular query: отдых в санкт-петербурге гостиницы
+, 1
+406. ['acm_gost', 'action_stay', 'city', u'full', 'price_cheap', 'wh_where'] - 0.000%, most popular query: дивеево где остановиться гостиницы недорого
+, 1
+407. ['agregator_ostrovok', 'city', 'contacts_site', u'full'] - 0.000%, most popular query: сайт островок санкт-петербург официальный сайт
+, 2
+408. ['acm_hotel', 'city', 'country', u'full', 'price_cheap'] - 0.000%, most popular query: армения отели в ереване недорого
+, 1
+409. ['acm_gost', 'amn_kitchen', 'city', u'full'] - 0.000%, most popular query: гостиница кухня москва
+, 2
+410. ['acm_obj', 'city', 'country', u'full'] - 0.000%, most popular query: джермук армения санаторий
+, 2
+411. ['city', 'country', u'full', 'rest'] - 0.000%, most popular query: отдых в египте в шарм эль шейхе
+, 1
+412. ['acm_hotel', 'action2book', 'country', u'full', 'rest'] - 0.000%, most popular query: отдых в египте бронирование отелей
+, 1
+413. ['action_visit', 'city', u'full', 'time_season', 'wh_where_direction'] - 0.000%, most popular query: куда сходить осенью в спб
+, 2
+414. ['action_rest', 'country', u'full', 'price_cheap'] - 0.000%, most popular query: дёшево отдохнуть в египте
+, 1
+415. ['acm_obj_part', 'action2book', 'amn_kitchen', 'city', u'full'] - 0.000%, most popular query: снять номер в москве с кухней
+, 1
+416. ['city', 'country', 'date_month', u'full'] - 0.000%, most popular query: египет шарм эль шейх   на февраль
+, 1
+417. ['acm_gost', 'acm_hotel', 'city', 'econom_class', u'full', 'price_cheap'] - 0.000%, most popular query: отели и гостиницы эконом класса  в анапе
+, 2
+418. ['acm_hotel', 'action_rest', 'city', u'full', 'island', 'wh_where'] - 0.000%, most popular query: где отдохнуть в пхукете отель
+, 1
+419. ['action_rest', 'city', u'full', 'wh_where'] - 0.000%, most popular query: где отдохнуть в казани
+, 2
+420. ['acm_hotel', 'amn_beach', 'city', u'full', 'map'] - 0.000%, most popular query: карта пляжа кандолим с отелями
+, 1
+421. ['acm_ghouse', u'full'] - 0.000%, most popular query: гостевые дома
+, 3
+422. ['acm_gost', 'acm_hotel', 'city', 'date_year', u'full', 'rest'] - 0.000%, most popular query: отдых в ялте 2015 отели и гостиницы
+, 1
+423. ['acm_hotel', 'amn_banya', 'city', u'full'] - 0.000%, most popular query: санкт-петербург отель с баней
+, 1
+424. ['acm_hotel', 'action2book', 'city', u'full', 'island'] - 0.000%, most popular query: заказать отель в пхукете
+, 2
+425. ['city', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: паттайя в январе 2016
+, 1
+426. ['acm_hotel', 'acm_obj', 'city', u'full', 'map'] - 0.000%, most popular query: карта ялты с отелями и пансионатами
+, 2
+427. ['country', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: египет в декабрь 2015
+, 1
+428. ['action_see', 'city', 'date_month', u'full', 'wh_what'] - 0.000%, most popular query: что посмотреть в сочи в ноябре
+, 6
+429. ['acm_gost', 'city', 'country', u'full', 'photo'] - 0.000%, most popular query: гостиница россия москва фото
+, 1
+430. ['acm_hotel', 'city', 'country', u'full', 'photo'] - 0.000%, most popular query: турция измир фото отели
+, 1
+431. ['country', u'full', 'map'] - 0.000%, most popular query: карта россии
+, 1
+432. ['acm_gost', 'acm_hotel', u'full', 'peninsula'] - 0.000%, most popular query: гостиницы отели в крыму
+, 1
+433. ['acm_hotel', u'full', 'peninsula'] - 0.000%, most popular query: отели крыма
+, 16
+434. ['acm_obj_part', u'full'] - 0.000%, most popular query: номер в
+, 1
+435. ['city', 'date_month', 'date_year', u'full', 'island', 'rest'] - 0.000%, most popular query: отдых на пхукете в январе 2016
+, 1
+436. ['acm_gost', 'city', u'full', 'rating'] - 0.000%, most popular query: гостиницы челябинска список
+, 22
+437. ['acm_gost', 'city', 'contacts_phone', 'contacts_site', u'full', 'peninsula'] - 0.000%, most popular query: гостиница крым севастополь официальный сайт телефон
+, 1
+438. ['city', u'full', 'island', 'photo'] - 0.000%, most popular query: пхукет фото
+, 6
+439. ['acm_gost', 'amn_basin', 'city', 'date_year', u'full'] - 0.000%, most popular query: гостиницы судака с бассейном 2015
+, 1
+440. ['acm_obj_part', 'action2book', u'full', 'peninsula'] - 0.000%, most popular query: забронировать к крыму номер
+, 1
+441. ['acm_gost', 'acm_obj_part', 'action2book', u'full'] - 0.000%, most popular query: снять номер в гостинице
+, 3
+442. ['acm_hotel', 'city', u'full', 'stars_2'] - 0.000%, most popular query: отели в нячанге 2*
+, 2
+443. ['acm_hotel', 'action2book', 'city', u'full', 'map'] - 0.000%, most popular query: отели адлера на карте бронировать
+, 1
+444. ['acm_hotel', 'city', u'full', 'rating'] - 0.000%, most popular query: рейтинг отелей шарм эль шейха
+, 4
+445. ['acm_hotel', 'action2book', 'city', 'date_year', u'full'] - 0.000%, most popular query: забронировать отель в пскове на 2015 год
+, 1
+446. ['acm_hotel', 'city', 'contacts_site', u'full'] - 0.000%, most popular query: отель белград москва официальный сайт
+, 4
+447. ['city', u'full', 'price_cheap'] - 0.000%, most popular query: недорого  на байкале
+, 1
+448. ['acm_hotel', 'action2book', 'date_year', u'full', 'peninsula'] - 0.000%, most popular query: бронирование отелей в крыму на 2016 год
+, 1
+449. ['acm_hotel', 'acm_obj_part', 'action2book', u'full', 'peninsula'] - 0.000%, most popular query: снять номер в отеле крыма
+, 1
+450. ['acm_ghouse', 'acm_obj_part', 'amn_kitchen', 'city', u'full'] - 0.000%, most popular query: гостевые дома с кухней в номере в адлере
+, 1
+451. ['action_rest', 'action_visit', 'date_month', u'full', 'wh_where_direction'] - 0.000%, most popular query: куда съездить отдохнуть в январе
+, 1
+452. ['acm_obj', 'acm_obj_part', 'action2book', 'city', u'full'] - 0.000%, most popular query: пансионат репино забронировать номер
+, 1
+453. ['acm_minigost', 'action2book', u'full', 'peninsula'] - 0.000%, most popular query: снять минигостиницу в крыму
+, 1
+454. ['acm_hotel', 'city', u'full', 'price_cheap', 'rating'] - 0.000%, most popular query: список эконом отелей в париже
+, 1
+455. ['country', 'date_month', u'full'] - 0.000%, most popular query: египет в декабре
+, 8
+456. ['acm_hotel', 'city', u'full', 'photo', 'stars_5'] - 0.000%, most popular query: пятизвездочный отель в москве  фото
+, 1
+457. ['acm_gost', 'action2book', 'city', 'date_year', u'full'] - 0.000%, most popular query: аренда гостиницы на 2016 в анапе
+, 1
+458. ['acm_hotel', 'amn_basin', 'amn_spa', 'country', u'full'] - 0.000%, most popular query: спа отели в россии с бассейном
+, 1
+459. ['action_visit', 'city', u'full', 'price_cheap', 'wh_where_direction'] - 0.000%, most popular query: куда сходить в москве дешево
+, 1
+460. ['acm_hotel', 'amn_beach', 'city', u'full', 'peninsula'] - 0.000%, most popular query: отели судак крым с собственным пляжем
+, 1
+461. ['acm_gost', 'acm_obj_part', 'amn_view', 'city', u'full'] - 0.000%, most popular query: гостиницы москвы с панорамным видом в номере
+, 1
+462. ['acm_gost', 'country', u'full', 'price_cheap'] - 0.000%, most popular query: гостиницы дешевые россия
+, 1
+463. ['action_stay', 'city', 'date_month', u'full', 'wh_where'] - 0.000%, most popular query: где остановиться в сочи в октябре
+, 1
+464. [u'full', 'island'] - 0.000%, most popular query: бали
+, 1
+465. ['action_visit', 'city', u'full', 'rating', 'wh_what'] - 0.000%, most popular query: что посетить в москве список
+, 1
+466. ['acm_obj_part', 'action2book', 'amn_basin', 'city', u'full'] - 0.000%, most popular query: снять номер с бассейном новосибирск
+, 1
+467. ['acm_gost', 'acm_obj', u'full', 'peninsula'] - 0.000%, most popular query: гостиницы санатории крыма
+, 1
+468. ['city', 'date_year', u'full', 'island'] - 0.000%, most popular query: пхукет 2015
+, 2
+469. ['acm_ghouse', 'city', 'date_year', u'full'] - 0.000%, most popular query: гостевые дома коктебель 2015
+, 2
+470. ['acm_gost', 'action2book', 'amn_restaurant', 'city', u'full'] - 0.000%, most popular query: заказать гостиницу в москве и ресторан
+, 1
+471. ['acm_hotel', 'city', 'contacts_phone', u'full', 'rating'] - 0.000%, most popular query: список отелей москвы с телефонами
+, 4
+472. ['acm_gost', 'acm_obj', 'city', u'full', 'rating'] - 0.000%, most popular query: санатории и гостиницы сочи список
+, 1
+473. ['acm_gost', 'city', u'full', 'stars_3'] - 0.000%, most popular query: гостиницы москвы 3*
+, 1
+474. ['acm_hotel', 'action_stay', 'city', u'full'] - 0.000%, most popular query: остановиться в отеле москвы
+, 1
+475. ['amn_basin', 'city', u'full', 'rest'] - 0.000%, most popular query: отдых в новом свете с бассейном
+, 1
+476. ['city', 'country', 'date_month', 'date_year', u'full'] - 0.000%, most popular query: египет шарм эль шейх ноябрь 2015
+, 1
+477. ['acm_gost', 'acm_obj_part', 'action2book', 'city', u'full'] - 0.000%, most popular query: снять номер в гостиницы балаклавы
+, 3
+478. ['acm_gost', 'amn_breakfast', 'city', u'full', 'price_cheap'] - 0.000%, most popular query: недорогие гостиницы минска с завтраками
+, 1
+479. ['amn_restaurant', 'city', u'full', 'photo'] - 0.000%, most popular query: ресторан пекин москва фото
+, 1
+480. ['acm_hotel', 'city', u'full', 'island'] - 0.000%, most popular query: отель на пхукете
+, 2
+481. ['action_visit', 'city', 'date_month', u'full', 'wh_where_direction'] - 0.000%, most popular query: куда сходить в сочи в октябре
+, 4
+482. ['acm_hotel', 'city', 'date_month', u'full'] - 0.000%, most popular query: отели в керчи в октябре
+, 1
+483. ['country', 'date_month', u'full', 'rest'] - 0.000%, most popular query: отдых в египте в декабре
+, 2
+484. ['city', 'date_month', 'date_year', u'full', 'island'] - 0.000%, most popular query: пхукет на декабрь 2015
+, 1
+485. ['acm_gost', 'action_see', 'city', 'contacts_site', u'full', 'map'] - 0.000%, most popular query: гостиницы владимира официальный сайт посмотреть на карте
+, 1
+486. ['acm_hotel', 'city', 'contacts_site', u'full', 'price_cheap'] - 0.000%, most popular query: отели санкт-петербург официальный сайт недорого
+, 1
+487. ['acm_gost', 'action2book', 'agregator_ostrovok', 'city', u'full'] - 0.000%, most popular query: бронирование гостиниц в пекине островок
+, 1
+488. ['acm_hotel', 'city', u'full', 'location_line', 'stars_2'] - 0.000%, most popular query: отель в лимассоле 2* на 1 линии
+, 1
+489. ['city', u'full', 'price_cheap', 'rest'] - 0.000%, most popular query: отдых в суздале недорого
+, 2
+490. ['acm_gost', 'amn_restaurant', 'city', u'full'] - 0.000%, most popular query: рестораны гостиниц санкт-петербурга
+, 1
+491. ['city', 'country', u'full', 'map'] - 0.000%, most popular query: карта вьетнама нячанг
+, 2
+492. ['acm_gost', 'acm_hotel', u'full', 'price_cheap'] - 0.000%, most popular query: дешевые отели и гостиницы
+, 1
+493. ['acm_hotel', 'acm_obj_part', 'amn_kitchen', 'city', u'full', 'island'] - 0.000%, most popular query: отели на пхукете с кухней в номере
 , 1
 
 List of keywords (sorted by length):
 
-action_see
-	посмотреть
+rest
+	отдых
 
 action_buy
 	купить
 
-wh_how
-	как
-
-wh_where_direction
-	куда
-
-amn_breakfast
-	завтрак
-
-acm_hostel
-	хостел
-
-amn_beach
-	пляж
-
-action_select
-	подобрать
-
-action_overnight
-	переночевать
-
-amn_safe
-	сейф
-
-amn_amn
-	удобства
-
-agregator_booking
-	booking
-
-photo
-	фото
-
-wh_where
-	где
-
-action_drive
-	ехать
-
-map
-	карта
-
-action_show
-	показать
-
-amn_kitchen
-	кухня
-
-amn_basin
-	бассейн
-
-action_fly
-	лететь
-
-reviews
-	отзывы
-
-amn_banya
-	баня
-
-amn_laundry
-	прачечная
-
-action_do
-	делать
-
-action_save
-	сэкономить
-
-contacts_phone
-	телефон
-
-amn_smoking
-	курящие
-
-amn_restaurant
-	ресторан
-
-action_use
-	использовать
-
-amn_bowling
-	боулинг
+wh_what
+	что
 
 acm_hotel
 	отель
 
+amn_amn
+	удобства
+
+amn_basin
+	бассейн
+
+amn_breakfast
+	завтрак
+
+action_do
+	делать
+
+amn_smoking
+	курящие
+
 amn_jacuzzi
 	джакузи
 
-wh_what
-	что
+action_use
+	использовать
+
+trip
+	поездка
+
+action_select
+	подобрать
+
+amn_bowling
+	боулинг
+
+action_drive
+	ехать
+
+amn_banya
+	баня
+
+wh_where_direction
+	куда
+
+action_show
+	показать
+
+wh_where
+	где
+
+action_overnight
+	переночевать
+
+amn_laundry
+	прачечная
+
+contacts_phone
+	телефон
+
+amn_safe
+	сейф
+
+amn_kitchen
+	кухня
+
+action_save
+	сэкономить
+
+wh_how
+	как
+
+action_fly
+	лететь
+
+peninsula
+	крым
+
+agregator_booking
+	booking
+
+acm_hostel
+	хостел
+
+action_see
+	посмотреть
+
+price
+	цены
+
+amn_restaurant
+	ресторан
 
 acm_minigost
 	минги-гостиница
 	минигостиница
 
-action_perceive
-	слушать
-	смотреть
-
-amn_atm
-	банкомат
-	atm
-
-tour
-	туры
-	путевки
+lang_rus
+	на русском
+	на русском языке
 
 amn_parking
 	парковка
 	паркинг
 
-amn_no_smoking
-	некурящие
-	для некурящих
+action_phone
+	позвонить
+	звонить
+
+amn_atm
+	банкомат
+	atm
+
+action_stay
+	остановиться
+	пожить
+
+action_perceive
+	слушать
+	смотреть
+
+reviews
+	отзывы
+	отзывы туристов
+
+contacts_site
+	официальный сайт
+	сайт
+
+photo
+	фото
+	фотографии
+
+acm_gost
+	гостиница
+	г-ца
+
+action_rest
+	отдохнуть
+	отдыхать
+
+tour
+	туры
+	путевки
 
 arrangement
 	мероприятие
@@ -221,59 +1238,67 @@ rating
 	список
 	рейтинг
 
-action_phone
-	позвонить
-	звонить
+amn_no_smoking
+	некурящие
+	для некурящих
 
 acm_obj_part
 	комната
 	номер
 
-acm_minihotel
-	мини-отель
-	миниотель
+amn_all_inclusive
+	всё включено
+	все включено
 
-action_stay
-	остановиться
-	пожить
+map
+	карта
+	карта города
 
-contacts_site
-	официальный сайт
-	сайт
-
-action_rest
-	отдохнуть
-	отдыхать
-
-acm_gost
-	гостиница
-	г-ца
+detailed
+	подробный
+	подробно
 
 amn_newly_weds
 	новобрачные
 	молодожёны
 	молодожены
 
-action_reach
-	проехать
-	доехать
-	попасть
+acm_minihotel
+	мини-отель
+	мини отель
+	миниотель
 
 econom_class
 	эконом класс
 	эконом-класс
 	экономкласс
 
+amn_beach
+	пляж
+	собственный пляж
+	свой пляж
+
 acm_apart
 	апартотель
 	апартаменты
 	апарт отель
 
-date_year
-	2015
-	2016
-	2015г
-	2016г
+action_reach
+	проехать
+	доехать
+	попасть
+
+action_visit
+	съездить
+	сходить
+	посетить
+	погулять
+
+agregator_ostrovok
+	островок
+	островок.ру
+	ostrovok
+	ostrvok.ru
 
 amn_internet
 	интернет
@@ -287,11 +1312,17 @@ amn_view
 	красивый вид
 	потрясающий вид
 
-agregator_ostrovok
-	островок
-	островок.ру
-	ostrovok
-	ostrvok.ru
+hot
+	горящие туры
+	горячие туры
+	горячие путёвки
+	горящие путевки
+
+time_season
+	лето
+	осень
+	зима
+	весна
 
 acm_ghouse
 	гостевой дом
@@ -299,11 +1330,19 @@ acm_ghouse
 	гест-хаус
 	гест хаус
 
-action_visit
-	съездить
-	сходить
-	посетить
-	погулять
+location_line
+	первая линия
+	1 линия
+	1-я линия
+	1я линия
+
+stars_3
+	3*
+	3 *
+	три звезды
+	трехзвездочный
+	трёхзвёздочный
+	3 звезды
 
 price_cheap
 	недорого
@@ -321,21 +1360,13 @@ stars_2
 	двухзвёздочный
 	2 звезды
 
-stars_4
-	4*
-	4 *
-	четыре звезды
-	четырехзвездочный
-	четырёхзвёздочный
-	4 звезды
-
-stars_3
-	3*
-	3 *
-	три звезды
-	трехзвездочный
-	трёхзвёздочный
-	3 звезды
+date_year
+	2015
+	2016
+	2015г
+	2016г
+	2015 год
+	2016 год
 
 amn_spa
 	спа процедуры
@@ -345,6 +1376,14 @@ amn_spa
 	спа зона
 	спа
 
+stars_4
+	4*
+	4 *
+	четыре звезды
+	четырехзвездочный
+	четырёхзвёздочный
+	4 звезды
+
 acm_obj
 	спаотель
 	гостиничный комплекс
@@ -352,16 +1391,7 @@ acm_obj
 	пансионат
 	кофехостел
 	санаторий
-
-action2book
-	бронировать
-	забронировать
-	заказать
-	снять
-	арендовать
-	аренда
-	бронирование
-	бронь
+	база отдыха
 
 stars_5
 	5*
@@ -372,6 +1402,16 @@ stars_5
 	пятизвёздочный
 	5 звезд
 	5 звёзд
+
+action2book
+	бронировать
+	забронировать
+	заказать
+	снять
+	арендовать
+	аренда
+	бронирование
+	бронь
 
 date_month
 	январь
@@ -401,6 +1441,26 @@ stopword
 	от
 	до
 	можно
+
+island
+	пхукет
+	корфу
+	самуи
+	канары
+	канарские острова
+	родос
+	острова кука
+	санторини
+	барбадос
+	бали
+	боракай
+	майорка
+	самуи
+	хайнань
+	мальдивы
+	крит
+	гран канария
+	гран-канария
 
 country
 	Камбоджа
@@ -650,7 +1710,19 @@ country
 	Турция
 
 city
+	санкт петербург
 	шарм эль шейх
+	шармаль шейх
+	ростов на дону
+	спб
+	питер
+	комсомольск на амуре
+	йошкар ола
+	улан удэ
+	горно
+	южно сахалинск
+	рио де жанейро
+	сан франциско
 	шарм-эш-шейх
 	Террасса
 	Клаенг
