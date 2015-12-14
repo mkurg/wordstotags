@@ -14,21 +14,13 @@ timestamps = []
 timestamps.append(datetime.datetime.now())
     
 
-<<<<<<< HEAD
-with open('test2-cleaned.txt', 'r') as f:
-=======
-with open('test.txt', 'r') as f:
->>>>>>> 6e4b0cb71449afc3b1f358b1ca9f7783faead105
+with open('test1001.txt', 'r') as f:
     queriesRaw = f.readlines()
 for query in queriesRaw:
     query = query.strip('\n')
     query = re.sub('\n', '', query)
 
-<<<<<<< HEAD
-inFile = 'test2-cleaned.txt'
-=======
-inFile = 'test.txt'
->>>>>>> 6e4b0cb71449afc3b1f358b1ca9f7783faead105
+inFile = 'test1001.txt'
 
 pp = pprint.PrettyPrinter(depth=6)
 
@@ -69,11 +61,7 @@ def normalizer(queries):
         for token in query:
             query_normal_form.append(morph.parse(token.decode('utf-8')).normal_form)
         result_queries.append(query_normal_form)
-<<<<<<< HEAD
     #print result_queries
-=======
-    print result_queries
->>>>>>> 6e4b0cb71449afc3b1f358b1ca9f7783faead105
     return result_queries
 
 def ProcessFile(inFile):
@@ -126,11 +114,7 @@ for tagFile in tagFiles:
 
 # превращаем список слов запроса в список (пригодится для обратной задачи) тегов
 def Tagger(query): # сравниваем лишь нормалиованные формы, без числа и падежа
-<<<<<<< HEAD
     """Логика работы: берём нормализованные формы токенов запроса по порядку и
-=======
-"""Логика работы: берём нормализованные формы токенов запроса по порядку и
->>>>>>> 6e4b0cb71449afc3b1f358b1ca9f7783faead105
     сравниваем со всеми первыми токенами элементов словаря. Если каждый
     следующий токен, присутствующий в единице словаря, есть и в запросе,
     приписывай соответствующий тег."""
@@ -164,19 +148,11 @@ def Tagger(query): # сравниваем лишь нормалиованные 
                             ifCounted[j] = True
                          #print(numbersOfMatched)
                          #print('\n')
-<<<<<<< HEAD
     #print(ifCounted)
     #if matched == len(query): # проверяем, все ли токены "ушли" на теги
     if not False in ifCounted:
         queryTokens.append(u'full')
     #print(set(queryTokens))
-=======
-    print(ifCounted)
-    #if matched == len(query): # проверяем, все ли токены "ушли" на теги
-    if not False in ifCounted:
-        queryTokens.append(u'full')
-    print(set(queryTokens))
->>>>>>> 6e4b0cb71449afc3b1f358b1ca9f7783faead105
     return(set(queryTokens))
 
 
@@ -188,11 +164,7 @@ queryCache = {}
 outTableAll = open('queries-tagged.csv', 'w')
 outTableFull = open('queries-good-tagged.csv', 'w')
 for query in queriesParsed:
-<<<<<<< HEAD
     #print "this is query: %s" % query
-=======
-    print "this is query: %s" % query
->>>>>>> 6e4b0cb71449afc3b1f358b1ca9f7783faead105
     if processed % 100 == 0:
         print('processing query %d' % processed)
 #   print(query)
