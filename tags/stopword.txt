@@ -11,3 +11,12 @@
 от
 до
 можно
+the
+a
+an
+from
+to
+in
+about
+and
+on

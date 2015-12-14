@@ -3,3 +3,4 @@ dubai
 patayya
 hurghada
 istanbul
+moscow

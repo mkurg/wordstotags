@@ -1,494 +1,101 @@
-0	total	12.000%
-1	['acm_gost', 'city', u'full']	3.000%	гостиницы москвы	163
-2	['acm_hotel', 'city', u'full']	1.000%	отели москвы	34
-3	['acm_gost', 'city', u'full', 'price_cheap']	1.000%	недорогие гостиницы в москве	40
-4	['acm_hotel', 'acm_obj_part', 'amn_kitchen', 'city', u'full']	0.000%	отель с кухней в номере москва	1
-5	['action_stay', 'city', u'full', 'price_cheap', 'wh_where']	0.000%	где остановиться в казани недорого	2
-6	['acm_hotel', 'acm_obj', u'full', 'peninsula']	0.000%	отели и санатории крыма	1
-7	['action_rest', 'city', 'date_month', u'full', 'wh_where']	0.000%	сочи где отдохнуть в октябре	1
-8	['action_visit', 'city', 'date_month', u'full', 'wh_what']	0.000%	что посетить в питере в сентябре	1
-9	['acm_gost', 'agregator_ostrovok', 'city', u'full']	0.000%	гостиницы уфа островок	1
-10	['acm_ghouse', 'city', 'econom_class', u'full', 'price_cheap']	0.000%	гостевые дома москвы эконом класса	1
-11	['action_visit', 'city', u'full', 'photo', 'wh_where_direction']	0.000%	сочи фото куда сходить	1
-12	['action_see', 'city', 'date_month', 'date_year', u'full', 'wh_what']	0.000%	что посмотреть в сочи в ноябре 2015	2
-13	['acm_gost', 'city', 'contacts_site', 'date_month', u'full']	0.000%	гостиница апрель рязань официальный сайт	1
-14	['city', u'full', 'trip']	0.000%	рыбинск поездка в иваново	1
-15	['acm_hotel', 'country', u'full', 'map']	0.000%	отели египта на карте	1
-16	['country', 'date_year', u'full', 'photo']	0.000%	гуам 2015 фото	1
-17	['acm_hotel', 'city', u'full', 'stars_4']	0.000%	южный гоа отели 4*	2
-18	['acm_hotel', 'acm_obj', 'amn_basin', 'city', u'full']	0.000%	адлер отели санаторий бассейн	1
-19	['acm_hotel', u'full', 'map', 'peninsula']	0.000%	карта отелей крыма	1
-20	['action_see', 'city', u'full']	0.000%	посмотреть в адлере	1
-21	['action_overnight', 'city', u'full', 'price_cheap']	0.000%	переночевать в сочи дешево	1
-22	['acm_gost', 'country', u'full', 'map']	0.000%	гостиницы украины на карте	1
-23	['action_rest', 'country', u'full', 'wh_where']	0.000%	где отдохнуть в венгрия	1
-24	['acm_hotel', 'action2book', u'full', 'peninsula']	0.000%	бронирование отелей в крыму	1
-25	['acm_hotel', 'amn_beach', 'city', u'full']	0.000%	отели сочи с собственным пляжем	4
-26	['acm_gost', 'city', u'full', 'island', 'map']	0.000%	гостиницы пхукета на карте	1
-27	['acm_hotel', 'acm_obj', 'city', u'full']	0.000%	санатории и отели светлогорска	2
-28	['acm_gost', 'action2book', u'full', 'peninsula']	0.000%	снять гостиницу в крыму	1
-29	['acm_gost', 'city', u'full', 'time_season']	0.000%	гостиница весна адлер	2
-30	['acm_gost', u'full', 'map']	0.000%	гостиницы на карте	2
-31	['acm_hotel', 'acm_obj_part', 'action2book', u'full']	0.000%	снять номер в отеле	1
-32	['action_stay', 'city', u'full', 'trip', 'wh_where']	0.000%	поездка в москву где остановиться	1
-33	['agregator_booking', u'full']	0.000%	booking	5
-34	['action_see', u'full', 'wh_what']	0.000%	что можно что можно посмотреть	1
-35	['city', u'full', 'island', 'map']	0.000%	пхукет картах	1
-36	['country', 'date_month', 'date_year', u'full', 'rest']	0.000%	отдых в египте в январе 2015	1
-37	['acm_gost', 'action2book', 'city', 'country', u'full']	0.000%	забронировать гостиницу россия в санкт-петербурге	1
-38	['action_visit', 'city', u'full', 'wh_where_direction']	0.000%	куда сходить в минске	12
-39	['acm_hotel', 'city', 'country', u'full', 'island', 'map']	0.000%	таиланд пхукет карта отелей	1
-40	['acm_obj_part', 'amn_basin', 'city', u'full', 'rest']	0.000%	отдых номер с бассейном питер	1
-41	['city', u'full', 'peninsula', 'trip']	0.000%	крым поездка в бахчисарай	1
-42	['acm_gost', 'acm_obj_part', 'city', u'full', 'price_cheap']	0.000%	недорогие гостиницы номера в санкт-петербурге	3
-43	['action_buy', 'city', u'full', 'wh_what']	0.000%	что купить в будапеште	1
-44	['acm_obj_part', 'city', u'full', 'price_cheap']	0.000%	дешевые номера в паттайе	1
-45	['acm_hotel', 'action2book', 'city', 'date_year', u'full', 'time_season']	0.000%	забронировать отель в геленджике на лето 2016	1
-46	['acm_hotel', 'country', u'full', 'price_cheap']	0.000%	дешевые отели израиля	1
-47	['acm_obj', 'city', u'full', 'rest']	0.000%	отдых в пансионате в питере	1
-48	['acm_hotel', 'acm_obj_part', 'action2book', 'city', u'full']	0.000%	снять номер в отеле кракова	1
-49	['acm_gost', 'city', 'date_year', u'full']	0.000%	гостиницы керчи 2015	2
-50	['city', u'full', 'island', 'trip']	0.000%	поездка на пхукет	1
-51	['acm_gost', 'city', u'full', 'stars_5']	0.000%	пятизвёздочные гостиницы домбая	1
-52	['acm_gost', 'acm_obj_part', 'amn_kitchen', 'city', u'full']	0.000%	гостиница с кухней в номере москва	2
-53	['city', u'full', 'island']	0.000%	пхукет	3
-54	['acm_obj_part', 'action2book', 'city', u'full']	0.000%	снять номер в париже	1
-55	['acm_gost', 'action2book', 'city', 'date_month', 'date_year', u'full']	0.000%	забронировать гостиницу в сочи июль 2016	1
-56	['acm_gost', 'city', 'date_year', u'full', 'rest']	0.000%	отдых в сукко 2016 гостиницы	1
-57	['acm_hotel', 'amn_beach', 'country', u'full']	0.000%	отели вьетнама с собственным пляжем	4
-58	['acm_ghouse', 'city', u'full', 'price_cheap']	0.000%	гостевые дома в кисловодске недорого	2
-59	['acm_gost', 'acm_hotel', 'city', 'date_month', 'date_year', u'full']	0.000%	отели и гостиницы в лоо на октябрь 2015	1
-60	['acm_hotel', 'agregator_ostrovok', 'country', u'full']	0.000%	островок отели в турции	1
-61	['acm_hotel', 'amn_kitchen', 'city', u'full']	0.000%	отели с кухней москва	1
-62	['acm_gost', 'city', 'country', u'full', 'price_cheap']	0.000%	гостиницы сербии белград дешево	1
-63	['acm_hotel', 'date_month', u'full', 'price_cheap']	0.000%	дешевые отели в майам	1
-64	['action_rest', 'country', 'date_month', u'full', 'price_cheap']	0.000%	отдохнуть в египте в октябре недорого	1
-65	['acm_hotel', 'date_month', u'full', 'peninsula']	0.000%	отели в крыму декабрь	1
-66	['acm_gost', 'city', u'full', 'peninsula']	0.000%	гостиница  утес крым	1
-67	['acm_gost', 'amn_spa', 'city', u'full']	0.000%	гостиницы сочи со спа	1
-68	['action_drive', 'city', u'full', 'island', 'wh_where_direction']	0.000%	куда ехать на пхукет	1
-69	['acm_gost', 'acm_obj_part', 'action2book', 'city', 'country', u'full']	0.000%	забронировать номер в гостинице украина в москве	1
-70	['action_rest', 'action_visit', 'country', 'date_month', u'full', 'wh_where_direction']	0.000%	куда можно съездить отдохнуть в октябре по россии	1
-71	['acm_gost', u'full', 'peninsula', 'price_cheap']	0.000%	дешево гостиница крым	1
-72	['acm_obj_part', 'action2book', u'full']	0.000%	снять номер	1
-73	['acm_hotel', 'amn_spa', u'full']	0.000%	спа отель	2
-74	['action_see', 'city', 'date_month', u'full']	0.000%	дубай в ноябре посмотреть	1
-75	['acm_hotel', 'amn_breakfast', 'city', u'full']	0.000%	отели санкт-петербурга с завтраком	1
-76	['acm_hotel', 'city', 'date_year', u'full', 'price_cheap']	0.000%	ялта эконом отели 2015	1
-77	['acm_hotel', 'action2book', 'city', 'date_month', u'full']	0.000%	отели в судаке в ноябре забронировать	1
-78	['acm_obj', 'city', u'full', 'map']	0.000%	санаторий приморский евпатория на карте	1
-79	['acm_gost', 'contacts_site', u'full', 'peninsula']	0.000%	гостиницы крыма официальные сайты	1
-80	['acm_hotel', 'city', 'date_year', u'full', 'peninsula']	0.000%	отели новый свет крым 2015	1
-81	['city', 'date_year', u'full', 'photo']	0.000%	фото паттайи 2015	2
-82	['city', u'full', 'rest']	0.000%	отдых в бари	1
-83	['acm_gost', 'city', 'date_year', u'full', 'map']	0.000%	гостиницы анапы на карте 2015	2
-84	['acm_obj', 'country', u'full']	0.000%	санатории казахстана	2
-85	['acm_hotel', 'date_month', u'full']	0.000%	отель апрель	1
-86	['amn_bowling', 'city', u'full']	0.000%	боулинг в репино спб	1
-87	['acm_hotel', 'amn_basin', 'city', u'full']	0.000%	суздаль отели с бассейном	6
-88	['acm_gost', 'acm_hotel', 'acm_obj', 'city', u'full', 'rest']	0.000%	отдых в адлере гостиницы отели пансионаты и санатории	1
-89	['action_visit', 'city', u'full', 'island', 'wh_where_direction']	0.000%	пхукет куда съездить	2
-90	['acm_gost', 'acm_hotel', 'acm_obj', 'city', u'full']	0.000%	зеленогорск отели гостиницы пансионаты	5
-91	['acm_ghouse', 'city', u'full', 'photo']	0.000%	гостевые дома калининграда фото	1
-92	['acm_hotel', 'amn_basin', 'city', 'date_year', u'full']	0.000%	отели в судаке 2015 с бассейном	1
-93	['acm_gost', 'acm_hotel', 'acm_obj', 'city', u'full', 'price_cheap']	0.000%	адлер недорогие гостиницы отели пансионаты	1
-94	['acm_gost', 'amn_restaurant', 'country', u'full']	0.000%	гостиницы с рестораном в беларуси	1
-95	['date_month', u'full', 'rest']	0.000%	отдых в октябре	2
-96	['acm_gost', 'acm_hotel', 'city', u'full', 'rating']	0.000%	список отелей и гостиниц санкт-петербурга	1
-97	['acm_hotel', 'country', u'full', 'photo', 'rest']	0.000%	отдых в египте фото отелей	1
-98	['acm_hotel', 'acm_obj', 'city', u'full', 'peninsula']	0.000%	орджоникидзе крым отели пансионаты	1
-99	['agregator_ostrovok', 'city', u'full']	0.000%	островок санкт-петербург	2
-100	['acm_hotel', 'city', u'full', 'location_line', 'map']	0.000%	отели анапы 1 линия на карте	2
-101	['action_do', 'city', u'full', 'wh_what']	0.000%	что делать в нижнем новгороде	2
-102	['acm_gost', 'date_year', u'full', 'peninsula']	0.000%	гостиницы крым 2015	1
-103	['arrangement', 'city', 'date_month', u'full']	0.000%	мюнхен мероприятия октябрь	2
-104	['acm_obj', 'city', 'contacts_site', u'full']	0.000%	санаторий приморский евпатория официальный сайт	2
-105	['action_visit', 'city', u'full', 'wh_what']	0.000%	что посетить в стамбуле	1
-106	['acm_hotel', 'city', u'full', 'peninsula', 'price_cheap']	0.000%	отели в крыму евпатории недорого	1
-107	['acm_ghouse', 'city', 'contacts_site', u'full']	0.000%	гостевые дома алушта официальный сайт	1
-108	['acm_hotel', 'action2book', 'agregator_ostrovok', u'full']	0.000%	островок бронирование отелей	48
-109	['acm_gost', 'city', 'contacts_site', u'full', 'peninsula']	0.000%	гостиница крым в севастополе официальный сайт	3
-110	['acm_hotel', 'city', 'country', u'full', 'stars_3']	0.000%	отели 3* таиланд паттайя	2
-111	['acm_hotel', 'action2book', 'country', u'full', 'island']	0.000%	бронировать отель на мальдивах	1
-112	['acm_hotel', 'action2book', u'full']	0.000%	забронировать отель	3
-113	['acm_hotel', 'action2book', 'city', u'full']	0.000%	забронировать отель в москве	6
-114	['acm_hotel', u'full', 'price_cheap']	0.000%	дешевые отели	2
-115	['acm_gost', 'city', 'contacts_site', 'country', u'full']	0.000%	гостиница украина симферополь официальный сайт	7
-116	['acm_hotel', 'action_show', 'city', u'full', 'map']	0.000%	отели в адлере на карте показать	1
-117	['action_buy', 'city', 'country', u'full', 'wh_what']	0.000%	что купить в  порту португалия	1
-118	['acm_gost', 'city', 'date_month', u'full']	0.000%	гостиницы севастополя  в ноябре	1
-119	['acm_minihotel', 'city', u'full', 'map']	0.000%	миниотели ялты на карте	1
-120	['city', u'full', 'wh_where']	0.000%	где можно в сочи	1
-121	['acm_gost', 'amn_banya', 'amn_basin', 'city', u'full']	0.000%	гостиницы в калуге с бассейном и баней	1
-122	['amn_beach', 'city', u'full', 'photo']	0.000%	геленджик пляжи фото	1
-123	['acm_gost', 'acm_obj_part', 'amn_basin', 'city', u'full']	0.000%	гостиница с бассейном в номере москва	1
-124	['amn_beach', 'city', u'full']	0.000%	пляжи нячанга	1
-125	['amn_basin', 'city', u'full']	0.000%	анапа с бассейном	1
-126	['city', 'country', u'full', 'island']	0.000%	барбадос хабаровск	1
-127	['acm_gost', 'city', 'country', u'full', 'map']	0.000%	гостиница беларусь на карте минска	2
-128	['acm_hotel', 'city', u'full', 'location_line', 'map', 'stars_3']	0.000%	отели 3* в лимассоле 1 линия на карте	1
-129	['acm_gost', 'city', u'full', 'price_cheap', 'rating']	0.000%	гостиницы барнаула недорого список	4
-130	['acm_gost', 'amn_basin', 'city', u'full', 'price_cheap']	0.000%	гостиницы адлера недорого с бассейном	1
-131	['acm_hotel', 'action2book', 'agregator_ostrovok', 'contacts_site', u'full']	0.000%	сайт островок бронирование отелей	1
-132	['acm_hotel', 'city', 'contacts_site', 'country', u'full']	0.000%	отель россия великий новгород официальный сайт	1
-133	['acm_gost', 'acm_obj_part', 'city', u'full']	0.000%	номера в гостиницах ялты	2
-134	['acm_hotel', 'city', u'full', 'photo']	0.000%	фото отелей в дубае	2
-135	['acm_obj_part', u'full', 'price_cheap']	0.000%	дешевые номера	1
-136	['acm_gost', 'action_buy', u'full', 'peninsula']	0.000%	гостиница крым купить	1
-137	['acm_hotel', 'action2book', 'city', u'full', 'price_cheap']	0.000%	забронировать отель в риме дешево	2
-138	['acm_ghouse', 'city', 'date_year', u'full', 'peninsula']	0.000%	гостевые дома в николаевке крым 2015	1
-139	['city', 'country', u'full', 'island', 'photo']	0.000%	таиланд пхукет фото	1
-140	['city', 'country', u'full']	0.000%	египет шарм эль шейх	188
-141	['acm_hotel', 'action2book', 'city', 'country', u'full', 'price_cheap']	0.000%	бронирование дешевые отели в турции стамбул	1
-142	['acm_gost', 'acm_hotel', 'amn_basin', 'city', u'full']	0.000%	гостиницы и отели алушты с бассейном	1
-143	['acm_gost', 'amn_parking', 'city', u'full']	0.000%	гостиницы риги с парковками	1
-144	['acm_gost', 'action2book', 'city', u'full', 'price_cheap']	0.000%	забронировать гостиницу в минске недорого	3
-145	['acm_obj', 'city', 'contacts_site', 'country', u'full']	0.000%	джермук армения санаторий официальный сайт	18
-146	['acm_hotel', 'amn_basin', 'city', u'full', 'price_cheap']	0.000%	недорогие отели в анапе с бассейном	1
-147	['acm_gost', 'action2book', 'country', u'full']	0.000%	украина гостиница забронировать	1
-148	['acm_gost', 'acm_obj_part', 'action2book', 'amn_internet', u'full']	0.000%	бронирование номеров в гостинице интернет	1
-149	['acm_hotel', 'acm_obj_part', 'amn_basin', 'city', u'full']	0.000%	отели с бассейном в номере в малаге	1
-150	['city', 'country', 'date_year', u'full', 'photo']	0.000%	вьетнам нячанг фото 2015	1
-151	['acm_hotel', 'city', 'econom_class', u'full']	0.000%	отели эконом-класса пятигорска	1
-152	['acm_minigost', 'action_buy', 'city', u'full']	0.000%	купить минигостиницу в севастополе	1
-153	['acm_hotel', 'action_buy', 'city', u'full', 'price_cheap']	0.000%	купить отель в праге недорого	1
-154	['acm_obj', 'country', u'full', 'rating']	0.000%	список санаторий казахстана	1
-155	['acm_gost', 'action_show', 'city', u'full', 'map']	0.000%	чебоксары показать на карте гостиницы	2
-156	['acm_hotel', 'amn_spa', 'city', u'full']	0.000%	спа отель в москве	6
-157	['action_stay', 'city', 'date_year', u'full', 'price_cheap', 'wh_where']	0.000%	где остановиться в симферополе недорого в 2015 году	1
-158	['acm_hotel', 'action_buy', 'city', u'full']	0.000%	купить отель в валенсии	1
-159	['acm_obj', 'acm_obj_part', 'city', u'full']	0.000%	номер в пансионате в ялте	1
-160	['acm_ghouse', 'acm_gost', 'acm_hotel', 'amn_basin', 'city', u'full']	0.000%	отели гостевые дома гостиницы с бассейном ялта	1
-161	['acm_hotel', 'amn_basin', 'city', u'full', 'peninsula']	0.000%	отели крыма с бассейном в евпатории	1
-162	['acm_hotel', 'city', u'full', 'map']	0.000%	карта паттайи с отелями	14
-163	['action_visit', 'city', u'full', 'island', 'wh_what']	0.000%	что посетить на пхукете	1
-164	['city', 'country', u'full', 'photo']	0.000%	таиланд паттайя фото	1
-165	['acm_hotel', 'action2book', 'city', u'full', 'price_cheap', 'wh_how']	0.000%	как дешевле забронировать отель в паттайе	1
-166	['acm_hotel', u'full']	0.000%	отель	2
-167	['acm_hotel', 'agregator_ostrovok', 'city', u'full']	0.000%	отели гаваны островок	1
-168	['acm_hotel', 'city', 'econom_class', u'full', 'price_cheap']	0.000%	волгоград отели эконом класса	2
-169	['acm_gost', 'acm_hotel', 'city', 'date_year', u'full']	0.000%	гостиницы и отели севастополя 2015	1
-170	['acm_gost', u'full', 'peninsula']	0.000%	гостиницы крыма	9
-171	['acm_gost', 'acm_obj_part', 'city', u'full', 'photo']	0.000%	гостиница москва фото номера	1
-172	['acm_obj', 'amn_beach', 'city', u'full']	0.000%	пансионаты геленджика с собственным пляжем	1
-173	['action_stay', 'city', u'full']	0.000%	остановиться в москве	1
-174	['acm_gost', 'city', 'contacts_site', 'date_year', u'full', 'peninsula']	0.000%	гостиница крым севастополь официальный сайт 2015 год	1
-175	['acm_gost', 'acm_hotel', 'city', 'contacts_site', u'full']	0.000%	отели и гостиницы сочи сайты	1
-176	['agregator_ostrovok', 'contacts_site', u'full']	0.000%	островок официальный сайт	3
-177	['acm_obj_part', 'amn_kitchen', 'city', u'full']	0.000%	номер с кухней в адлере	1
-178	['action_visit', 'arrangement', 'city', u'full', 'wh_where_direction']	0.000%	куда можно сходить в минске на экскурсию	1
-179	['acm_hotel', 'amn_breakfast', 'city', u'full', 'price_cheap']	0.000%	отели москвы недорогие с завтраком	2
-180	['acm_hotel', 'amn_beach', 'city', u'full', 'island']	0.000%	отели на пхукете с собственным пляжем	1
-181	['acm_hotel', 'acm_obj_part', 'action2book', 'amn_kitchen', 'city', u'full']	0.000%	снять отель с кухней в номере париж	2
-182	['acm_gost', 'city', 'contacts_phone', u'full']	0.000%	телефоны гостиниц кингисеппа	2
-183	['agregator_ostrovok', u'full']	0.000%	островок	87
-184	['acm_minihotel', 'city', u'full', 'price_cheap']	0.000%	мини-отели в москве недорого	18
-185	['acm_gost', u'full', 'rating']	0.000%	рейтинг гостиниц	1
-186	['acm_gost', 'acm_hotel', 'city', u'full']	0.000%	мышкин отели и гостиницы	5
-187	['acm_obj_part', 'action2book', 'country', u'full', 'wh_how']	0.000%	как забронировать номер в египте	2
-188	['acm_hotel', 'amn_beach', 'city', u'full', 'location_line']	0.000%	отели анапы с собственным пляжем 1 линия	1
-189	['acm_gost', 'city', 'econom_class', u'full', 'price_cheap']	0.000%	гостиницы выборга эконом класса	5
-190	['acm_gost', 'city', 'date_month', u'full', 'price_cheap']	0.000%	дешевые гостиницы симферополя на октябрь	1
-191	['acm_minihotel', u'full']	0.000%	миниотель	2
-192	['acm_hotel', 'city', 'date_year', u'full', 'rating', 'stars_5']	0.000%	рейтинг пятизвездочных отелей сочи 2015	1
-193	['acm_gost', 'acm_minigost', 'city', u'full']	0.000%	магадан гостиницы минигостиницы	1
-194	['acm_hotel', 'action2book', 'city', 'country', u'full']	0.000%	отели в тунисе забронировать	1
-195	['action_drive', 'city', u'full', 'wh_how']	0.000%	как ехать до шереметьево	1
-196	['acm_hotel', 'city', u'full', 'island', 'price_cheap']	0.000%	недорогие отели пхукета	2
-197	['acm_hotel', 'city', u'full', 'island', 'rating']	0.000%	отели пхукета рейтинг	1
-198	['acm_obj_part', 'action2book', 'amn_view', u'full']	0.000%	снять номер с панорамным видом	1
-199	['acm_hotel', 'city', 'country', u'full', 'island', 'photo']	0.000%	таиланд пхукет отели фото	1
-200	['acm_hotel', 'city', u'full', 'island', 'map']	0.000%	отели пхукета на карте	17
-201	['acm_obj_part', 'action2book', 'city', u'full', 'price_cheap']	0.000%	снять номер в москве недорого	3
-202	['acm_gost', 'city', 'date_year', u'full', 'price_cheap']	0.000%	гостиницы ялты недорого 2015 год	6
-203	['acm_gost', 'acm_obj_part', 'action2book', 'city', u'full', 'price_cheap']	0.000%	снять номер в гостинице екатеринбурга недорого	2
-204	['acm_ghouse', 'action2book', 'city', u'full']	0.000%	аренда гостевого дома петрозаводск	1
-205	['action_stay', 'city', u'full', 'wh_where']	0.000%	где остановиться в сочи	5
-206	['acm_hotel', 'date_year', u'full', 'peninsula', 'price_cheap']	0.000%	эконом отели в крыму 2015	1
-207	['acm_hotel', 'action2book', 'agregator_ostrovok', 'city', u'full']	0.000%	островок бронирование отелей санкт-петербург	1
-208	['city', 'econom_class', u'full', 'price_cheap', 'rest']	0.000%	отдых в батуми эконом класса	1
-209	['acm_hotel', 'action2book', 'city', u'full', 'wh_how']	0.000%	как заказать отель в москве	1
-210	['date_month', u'full', 'island', 'rest']	0.000%	отдых на крите в ноябре	1
-211	['amn_spa', 'city', u'full', 'island', 'rating']	0.000%	рейтинг спа на пхукете	1
-212	['acm_hotel', 'city', u'full', 'stars_5']	0.000%	пятизвездочные отели в хайфе	1
-213	['action_show', 'city', u'full', 'map']	0.000%	карта москвы показать	1
-214	['country', u'full']	0.000%	египет	8
-215	['acm_hotel', 'city', u'full', 'rating', 'stars_4']	0.000%	список 4* отелей нячанга	1
-216	['action_rest', 'country', u'full']	0.000%	отдыхать в египте	1
-217	['action_visit', 'city', u'full']	0.000%	погулять в сочи	1
-218	['acm_gost', 'city', 'date_month', 'date_year', u'full']	0.000%	гостиницы в ялте ноябрь 2015	1
-219	['acm_gost', 'action_buy', 'city', u'full']	0.000%	купить гостиницу в сочи	1
-220	['acm_minihotel', 'acm_obj_part', 'action2book', 'city', u'full']	0.000%	снять номер в миниотеле в киеве	1
-221	['acm_hotel', 'acm_obj_part', 'city', u'full', 'price_cheap']	0.000%	номер в отеле дешево в ростове-на-дону	1
-222	['acm_hotel', 'amn_basin', 'country', u'full']	0.000%	черногория отели с бассейном	1
-223	['acm_hotel', 'city', u'full', 'map', 'price_cheap']	0.000%	недорогие отели в одессе на карте	2
-224	['acm_obj', 'amn_basin', 'city', u'full']	0.000%	санаторий с бассейном на домбае	1
-225	['acm_hotel', u'full', 'peninsula', 'price_cheap']	0.000%	недорогие отели в крыму	2
-226	[u'full']	0.000%		4
-227	['acm_obj', 'city', u'full', 'price_cheap']	0.000%	пансионаты санкт-петербурга недорого	2
-228	['acm_gost', 'city', 'econom_class', u'full']	0.000%	гостиницы львова эконом-класса	4
-229	['acm_gost', 'action2book', 'city', u'full', 'wh_how']	0.000%	как бронировать гостиницу в баку	1
-230	['acm_hotel', 'city', u'full', 'rating', 'stars_5']	0.000%	рейтинг пятизвездочных отелей москвы	1
-231	['acm_hotel', 'city', u'full', 'map', 'stars_4']	0.000%	карта отелей шарм эль шейха 4 *	1
-232	['acm_hotel', 'city', 'contacts_site', u'full', 'island', 'map']	0.000%	сайт карта отелей пхукета	1
-233	['acm_gost', 'city', 'contacts_site', 'country', u'full', 'photo']	0.000%	гостиница россия в санкт-петербурге официальный сайт фото	2
-234	['action_rest', 'date_month', 'date_year', u'full', 'wh_how']	0.000%	как отдыхаем в ноябре 2015 года	2
-235	['amn_restaurant', 'amn_view', 'city', u'full']	0.000%	рестораны с панорамным видом в будапеште	1
-236	['action_rest', 'country', 'date_month', 'date_year', u'full', 'price_cheap', 'wh_where']	0.000%	где можно отдохнуть в ноябре в россии недорого 2015	1
-237	['action_buy', 'country', u'full', 'wh_what']	0.000%	что купить в германии	4
-238	['action_stay', 'city', u'full', 'price_cheap']	0.000%	остановиться в санкт-петербурге недорого	1
-239	['action_rest', 'country', u'full', 'price_cheap', 'wh_how']	0.000%	как недорого отдохнуть в египте	1
-240	['acm_hotel', 'acm_obj_part', 'action2book', 'city', u'full', 'island']	0.000%	забронировать номер в отеле на пхукете	1
-241	['acm_hotel', 'amn_basin', 'amn_beach', u'full', 'peninsula']	0.000%	отели крыма с бассейном и собственным пляжем	1
-242	['acm_ghouse', 'city', 'date_year', u'full', 'rest']	0.000%	отдых в алуште 2015 год гостевые дома	2
-243	['acm_ghouse', u'full', 'peninsula']	0.000%	гостевые дома крыма	2
-244	['action_reach', 'city', u'full', 'wh_how']	0.000%	как доехать от симферополя до ялты	2
-245	[u'full', 'island', 'rest']	0.000%	отдых на крите	2
-246	['city', 'date_month', u'full']	0.000%	хельсинки в декабре	2
-247	['acm_gost', 'city', u'full', 'stars_4']	0.000%	гостиницы саратов 4*	1
-248	['action_see', 'city', u'full', 'wh_what']	0.000%	что посмотреть в калининграде	8
-249	['action_rest', 'city', 'date_month', 'date_year', u'full', 'wh_where']	0.000%	где отдохнуть в шарм эль шейхе в октябре 2015	1
-250	['amn_spa', 'city', u'full']	0.000%	спа евпатория	2
-251	['acm_gost', 'action2book', u'full']	0.000%	забронировать гостиницу	2
-252	['acm_gost', 'city', 'country', u'full']	0.000%	гостиница россия санкт-петербург	28
-253	['acm_hotel', 'amn_view', u'full']	0.000%	отель с панорамным видом	1
-254	['acm_gost', u'full', 'price_cheap']	0.000%	дешевые гостиницы	11
-255	['acm_hotel', 'city', 'date_month', u'full', 'price_cheap']	0.000%	дешевые отели на гоа январь	1
-256	['acm_gost', 'acm_hotel', 'city', u'full', 'map']	0.000%	карта отели гостиницы в геленджике	1
-257	['acm_gost', 'acm_hotel', u'full']	0.000%	гостиницы и отели	4
-258	['acm_hotel', 'amn_basin', 'amn_spa', 'city', u'full']	0.000%	спа отель в петергофе с бассейном	3
-259	['acm_hotel', 'amn_spa', u'full', 'peninsula', 'price_cheap']	0.000%	недорогие спа отели крыма	1
-260	['amn_beach', u'full', 'map', 'wh_where_direction']	0.000%	пляжи ко куда на карте	1
-261	['acm_minihotel', 'city', 'date_month', u'full']	0.000%	миниотели в адлере в ноябре	1
-262	['acm_minigost', u'full', 'peninsula']	0.000%	минигостиницы в крыму	2
-263	['acm_gost', 'city', u'full', 'photo']	0.000%	гостиница санкт-петербург фото	2
-264	['acm_hotel', 'amn_spa', 'country', u'full']	0.000%	турция отели со спа	1
-265	['acm_hotel', 'action2book', 'amn_internet', 'city', u'full', 'wh_how']	0.000%	как заказать отель в москве по интернету	1
-266	['action_see', 'city', 'date_month', u'full', 'rest', 'wh_what']	0.000%	сочи отдых в октябре что посмотреть	1
-267	['acm_hotel', 'amn_basin', 'amn_beach', 'city', u'full']	0.000%	отели алушты с собственным пляжем и бассейном	2
-268	['action_reach', 'city', u'full']	0.000%	доехать с домодедово до москвы	7
-269	['city', 'date_month', u'full', 'rest']	0.000%	отдых в сочи в октябре	2
-270	['acm_gost', 'acm_obj', 'city', u'full']	0.000%	адлер гостиницы и пансионаты	1
-271	['acm_minihotel', 'city', 'contacts_site', u'full']	0.000%	мини-отель гавана москва официальный сайт	1
-272	['action_see', 'city', u'full', 'photo', 'wh_what']	0.000%	мадрид что посмотреть фото	1
-273	['acm_gost', 'agregator_ostrovok', u'full']	0.000%	гостиница островок	1
-274	['acm_hotel', u'full', 'map']	0.000%	отель карта	1
-275	['amn_banya', 'city', u'full']	0.000%	баня в дагомысе	1
-276	['country', u'full', 'rest']	0.000%	отдых в египте	37
-277	['city', 'country', 'date_year', u'full']	0.000%	таиланд паттайя 2015	3
-278	['acm_ghouse', 'city', u'full', 'rest']	0.000%	отдых в калуге гостевые дома	1
-279	['action_visit', 'city', u'full', 'map', 'wh_what']	0.000%	что посетить в екатеринбурге карта	1
-280	['action_visit', 'city', u'full', 'price_cheap']	0.000%	дешево сходить в москве	1
-281	['city', 'date_month', u'full', 'wh_what']	0.000%	что в октябре в дубае	1
-282	['acm_hotel', u'full', 'peninsula', 'stars_5']	0.000%	пятизвездочные отели в крыму	1
-283	['action_visit', 'city', u'full', 'wh_where']	0.000%	где можно погулять в нижнем новгороде	2
-284	['acm_gost', 'amn_bowling', 'city', u'full']	0.000%	гостиница к боулинг в нижнем новгороде	1
-285	['acm_gost', 'city', 'contacts_site', u'full', 'photo']	0.000%	гостиница санкт-петербург в санкт-петербурге официальный сайт фото	19
-286	['action_overnight', 'city', u'full']	0.000%	переночевать в твери	2
-287	['acm_hotel', 'city', 'date_year', u'full', 'rating']	0.000%	рейтинг отелей шарм эль шейха 2015	2
-288	['action2book', 'agregator_ostrovok', u'full']	0.000%	островок бронирование	2
-289	['acm_hotel', 'acm_obj', u'full', 'map', 'peninsula']	0.000%	карта крыма с отелями и пансионатами	1
-290	['city', u'full', 'time_season']	0.000%	весна сочи	1
-291	['acm_hotel', 'amn_basin', u'full', 'peninsula']	0.000%	крым отели с бассейном	1
-292	['acm_gost', 'action2book', 'city', u'full']	0.000%	снять гостиницу в санкт-петербурге	6
-293	[u'full', 'stars_3']	0.000%	3*	1
-294	['acm_hotel', u'full', 'photo']	0.000%	отели фото	1
-295	['acm_gost', u'full']	0.000%	гостиница	37
-296	['acm_hotel', 'city', u'full', 'peninsula']	0.000%	отели балаклава крым	2
-297	['acm_hotel', 'acm_obj', 'city', u'full', 'price_cheap']	0.000%	дешевые отели пансионаты в сочи и адлере	1
-298	['action_drive', 'action_rest', 'date_month', u'full', 'wh_where_direction']	0.000%	куда ехать отдохнуть в ноябре	1
-299	['acm_obj_part', 'amn_view', 'city', u'full']	0.000%	номер с панорамным видом спб	2
-300	['acm_hotel', 'country', u'full', 'island']	0.000%	отели греции крит	1
-301	['acm_hotel', 'action2book', 'country', u'full', 'wh_how']	0.000%	как забронировать отель в германии	1
-302	['acm_hotel', 'city', 'date_month', 'date_year', u'full']	0.000%	отели в пскове в январе 2016	1
-303	['acm_gost', 'amn_basin', u'full']	0.000%	гостиница с бассейном	1
-304	['arrangement', 'city', 'date_month', 'date_year', u'full']	0.000%	мероприятия в риме в ноябре 2015	1
-305	['city', 'date_month', u'full', 'photo']	0.000%	минск в ноябре фото	1
-306	['acm_hotel', 'acm_obj_part', 'action2book', 'city', 'econom_class', u'full']	0.000%	номер в отеле экономкласса в риге снять	1
-307	['acm_gost', 'city', 'contacts_phone', u'full', 'price_cheap']	0.000%	дешевые гостиницы в серпухове с телефонами	1
-308	['acm_gost', 'acm_obj_part', u'full', 'price_cheap']	0.000%	дешевый номер в гостинице	1
-309	['acm_hotel', 'agregator_ostrovok', 'city', u'full', 'island']	0.000%	отели пхукета на островке	1
-310	['acm_hotel', 'arrangement', 'city', u'full']	0.000%	экскурсия и отели черновцы	1
-311	['acm_ghouse', 'city', 'date_month', 'date_year', u'full']	0.000%	евпатория гостевые дома 2015  сентябрь	1
-312	['acm_gost', 'amn_banya', 'city', u'full', 'price_cheap']	0.000%	недорогие бани в ижевске с гостиницами	1
-313	['acm_hotel', 'city', 'contacts_site', u'full', 'photo']	0.000%	отель санкт-петербург в санкт-петербурге официальный сайт фото	6
-314	['acm_gost', 'amn_view', 'city', u'full']	0.000%	гостиницы с красивым видом москва	1
-315	['amn_spa', 'country', u'full']	0.000%	спа в армении	1
-316	['acm_minigost', 'acm_obj', u'full', 'peninsula']	0.000%	минигостиницы и пансионаты в крыму	1
-317	['acm_hotel', 'city', 'detailed', u'full', 'map']	0.000%	карта шарм-эль-шейх с отелями подробная	2
-318	['acm_hotel', 'amn_parking', 'city', u'full']	0.000%	отели в спб с парковкой	2
-319	['acm_hotel', 'city', 'country', u'full', 'map']	0.000%	карта отелей египет шарм эль шейх	2
-320	['acm_gost', 'city', 'contacts_phone', u'full', 'rating']	0.000%	список гостиниц москвы с телефонами	1
-321	['acm_gost', 'country', u'full']	0.000%	гостиницы в италии	1
-322	['acm_gost', 'city', u'full', 'map', 'price_cheap']	0.000%	гостиницы оренбурга недорогие на карте	2
-323	['acm_obj_part', 'amn_basin', 'city', u'full']	0.000%	номер с бассейном в краснодаре	1
-324	['acm_ghouse', 'action2book', 'city', u'full', 'wh_where']	0.000%	где забронировать гостевые дома в сочи	1
-325	['acm_gost', 'city', 'contacts_site', u'full', 'price_cheap']	0.000%	гостиница дешевые в москва официальный сайт	1
-326	['acm_gost', 'acm_hotel', 'action2book', 'city', u'full']	0.000%	забронировать отель гостиницу в перми	1
-327	['acm_obj_part', 'action2book', 'city', u'full', 'price_cheap', 'wh_where']	0.000%	где можно снять недорогой номер в краснодаре	1
-328	['action_overnight', 'city', u'full', 'price_cheap', 'wh_where']	0.000%	где можно переночевать в москве недорого	1
-329	['action_rest', 'action_visit', 'city', u'full', 'wh_where_direction']	0.000%	куда сходить отдохнуть в минске	1
-330	['acm_minihotel', 'city', u'full']	0.000%	миниотели в москве	8
-331	['action_see', 'city', u'full', 'time_season', 'wh_what']	0.000%	что посмотреть в адлере осенью	3
-332	['city', u'full']	0.000%	екатеринбург	9
-333	['acm_ghouse', 'city', u'full', 'map']	0.000%	гостевые дома адлера на карте	1
-334	['acm_gost', 'action_select', 'city', u'full']	0.000%	подобрать гостиницу в москве	1
-335	['city', 'date_year', u'full']	0.000%	москва ханой 2015	1
-336	['acm_hotel', 'amn_basin', 'country', u'full', 'photo']	0.000%	отели во вьетнаме с бассейном фото	1
-337	['acm_gost', 'city', u'full', 'map']	0.000%	гостиницы москвы на карте	9
-338	['acm_gost', 'acm_obj_part', 'city', 'contacts_phone', u'full']	0.000%	номера телефонов гостиницы можайска	1
-339	['acm_hotel', 'country', u'full']	0.000%	отели египта	3
-340	['acm_hotel', 'acm_obj_part', 'city', u'full', 'photo']	0.000%	отели в сочи фото номеров	2
-341	['arrangement', 'city', 'date_year', u'full']	0.000%	экскурсии в паттайе 2015	3
-342	['acm_obj', 'city', u'full']	0.000%	репино пансионат	4
-343	['acm_hotel', 'amn_basin', 'date_month', 'date_year', u'full', 'peninsula']	0.000%	отели в крыму в ноябре 2015 с бассейном	1
-344	['amn_beach', 'city', u'full', 'island']	0.000%	пляжи пхукета	1
-345	['acm_gost', 'acm_hotel', 'city', u'full', 'price_cheap']	0.000%	недорогие гостиницы и отели в москве	2
-346	['acm_hotel', 'amn_spa', 'city', 'contacts_site', u'full']	0.000%	спа отель зеленоградск официальный сайт	4
-347	['acm_gost', 'city', 'date_month', u'full', 'peninsula']	0.000%	гостиница крым алушта на октябрь	2
-348	['acm_hotel', 'acm_obj_part', u'full']	0.000%	номер в отеле	3
-349	['acm_minigost', 'city', u'full']	0.000%	минигостиницы севастополя	4
-350	['acm_hotel', 'city', 'contacts_site', u'full', 'time_season']	0.000%	отель весна адлер официальный сайт	3
-351	['arrangement', 'city', u'full']	0.000%	мероприятия в гданьске	1
-352	['acm_hotel', 'amn_view', 'city', u'full']	0.000%	отели с панорамным видом москва	4
-353	['acm_gost', 'amn_beach', 'city', u'full']	0.000%	гостиницы адлера с собственным пляжем	2
-354	['acm_ghouse', 'city', u'full']	0.000%	гостевые дома в калининграде	7
-355	['acm_gost', 'city', u'full', 'photo', 'price_cheap']	0.000%	гостиница в томске недорого с фото	1
-356	['acm_hotel', 'city', u'full', 'map', 'peninsula']	0.000%	карта новый свет крым с отелями	1
-357	['acm_obj', 'city', 'date_year', u'full', 'photo']	0.000%	пансионат кассандра 2015 фото	1
-358	['acm_hotel', 'action2book', 'city', 'date_month', 'date_year', u'full']	0.000%	забронировать отель в адлере на ноябрь 2015	1
-359	['acm_hotel', 'action2book', 'country', u'full']	0.000%	отель в египте забронировать	2
-360	['acm_hotel', 'city', 'country', u'full', 'rating']	0.000%	рейтинг отелей египта шарм эль шейх	1
-361	['acm_hotel', 'city', u'full', 'price_cheap']	0.000%	дешёвые отели в москве	12
-362	['acm_obj_part', 'city', u'full']	0.000%	номера в сочи	1
-363	['acm_gost', 'amn_basin', 'city', u'full']	0.000%	гостиница с бассейном в краснодаре	3
-364	['acm_hotel', 'city', u'full', 'rest']	0.000%	отдых в орле отели	1
-365	['acm_hotel', 'city', u'full', 'time_season']	0.000%	отель весна адлер	3
-366	['acm_obj_part', 'amn_kitchen', 'city', 'date_year', u'full']	0.000%	адлер кухня в номере 2015	1
-367	['acm_ghouse', 'amn_basin', 'city', u'full']	0.000%	гостевые дома в лоо с бассейном	2
-368	['acm_gost', 'econom_class', u'full', 'price_cheap']	0.000%	гостиница эконом класса	2
-369	['acm_hotel', 'city', u'full', 'stars_3']	0.000%	отели паттайи 3*	2
-370	['acm_gost', 'acm_obj', 'acm_obj_part', u'full', 'peninsula']	0.000%	гостиницы санатории крыма номера	1
-371	['acm_gost', 'acm_hotel', 'city', u'full', 'peninsula']	0.000%	крым коктебель отели и гостиницы	1
-372	['acm_gost', 'amn_banya', 'city', u'full']	0.000%	санкт петербург гостиница с баней	1
-373	['acm_hotel', 'amn_basin', 'city', 'contacts_site', u'full']	0.000%	отели с бассейнами в адлере официальный сайт	1
-374	['action_rest', 'date_month', u'full', 'wh_where']	0.000%	где отдохнуть в ноябре	1
-375	['acm_gost', 'amn_spa', u'full']	0.000%	гостиница и спа	1
-376	['country', u'full', 'trip']	0.000%	поездки в египет	3
-377	['acm_obj_part', 'city', u'full', 'photo']	0.000%	дубаи фото в номере	1
-378	['acm_hotel', 'city', u'full', 'peninsula', 'photo']	0.000%	крым коктебель отель приморье фото	1
-379	['acm_hotel', 'city', 'country', u'full']	0.000%	отель россия санкт петербург	3
-380	['city', u'full', 'island', 'rest']	0.000%	отдых на родосе	1
-381	['acm_hotel', 'city', 'date_year', u'full', 'map']	0.000%	отели судака на карте 2015	1
-382	['action_visit', 'city', 'date_year', u'full', 'wh_where_direction']	0.000%	куда сходить в адлере 2015	1
-383	['acm_gost', 'amn_parking', 'city', u'full', 'price_cheap']	0.000%	гостиницы казани недорого с парковкой	1
-384	['acm_hotel', 'city', 'date_year', u'full']	0.000%	отели домбая 2015	3
-385	['acm_gost', 'city', u'full', 'price_cheap', 'wh_where']	0.000%	где в перми дешевые гостиницы	1
-386	['acm_hotel', 'city', 'contacts_site', u'full', 'map']	0.000%	отели ярославля на карте официальный сайт	1
-387	['acm_hotel', 'amn_basin', 'city', 'date_month', 'date_year', u'full']	0.000%	ялта октябрь 2015 отели с бассейном	1
-388	['city', u'full', 'map']	0.000%	карта нячанга	4
-389	['acm_apart', 'city', u'full']	0.000%	апартотели баку	2
-390	['acm_hotel', 'city', u'full', 'photo', 'rating']	0.000%	рейтинг отелей волгограда фото	1
-391	['acm_ghouse', 'acm_hotel', 'city', u'full']	0.000%	отели и гостевые дома в судаке	1
-392	['acm_gost', 'city', 'contacts_site', u'full']	0.000%	гостиницы мурома официальный сайт	13
-393	['acm_hotel', 'country', u'full', 'photo']	0.000%	отели в египте фото	1
-394	['action_do', 'city', 'date_month', u'full', 'wh_what']	0.000%	что делать в минске в ноябре	1
-395	['acm_gost', 'amn_breakfast', 'city', u'full']	0.000%	гостиницы ярославля с завтраком	2
-396	['city', u'full', 'photo']	0.000%	тирасполь фото	1
-397	['action_visit', 'city', 'date_month', 'date_year', u'full', 'wh_where_direction']	0.000%	куда сходить в сочи в октябре 2015	6
-398	['acm_gost', 'city', u'full', 'stars_2']	0.000%	гостиницы 2* краснодар	1
-399	['acm_hotel', u'full', 'wh_where_direction']	0.000%	отели на ко куде	1
-400	['acm_gost', 'acm_obj', 'city', u'full', 'price_cheap']	0.000%	недорогие гостиницы и пансионаты кисловодска	2
-401	['acm_ghouse', 'city', u'full', 'peninsula']	0.000%	крым алушта гостевые дома	1
-402	['acm_hotel', 'acm_obj_part', 'city', u'full']	0.000%	номер в отеле в минске	1
-403	['acm_gost', 'city', 'detailed', u'full', 'map']	0.000%	карта севастополя с гостиницами подробная	1
-404	['acm_minigost', 'action2book', 'city', u'full']	0.000%	аренда минигостиницы в анапе	1
-405	['acm_gost', 'city', u'full', 'rest']	0.000%	отдых в санкт-петербурге гостиницы	1
-406	['acm_gost', 'action_stay', 'city', u'full', 'price_cheap', 'wh_where']	0.000%	дивеево где остановиться гостиницы недорого	1
-407	['agregator_ostrovok', 'city', 'contacts_site', u'full']	0.000%	сайт островок санкт-петербург официальный сайт	2
-408	['acm_hotel', 'city', 'country', u'full', 'price_cheap']	0.000%	армения отели в ереване недорого	1
-409	['acm_gost', 'amn_kitchen', 'city', u'full']	0.000%	гостиница кухня москва	2
-410	['acm_obj', 'city', 'country', u'full']	0.000%	джермук армения санаторий	2
-411	['city', 'country', u'full', 'rest']	0.000%	отдых в египте в шарм эль шейхе	1
-412	['acm_hotel', 'action2book', 'country', u'full', 'rest']	0.000%	отдых в египте бронирование отелей	1
-413	['action_visit', 'city', u'full', 'time_season', 'wh_where_direction']	0.000%	куда сходить осенью в спб	2
-414	['action_rest', 'country', u'full', 'price_cheap']	0.000%	дёшево отдохнуть в египте	1
-415	['acm_obj_part', 'action2book', 'amn_kitchen', 'city', u'full']	0.000%	снять номер в москве с кухней	1
-416	['city', 'country', 'date_month', u'full']	0.000%	египет шарм эль шейх   на февраль	1
-417	['acm_gost', 'acm_hotel', 'city', 'econom_class', u'full', 'price_cheap']	0.000%	отели и гостиницы эконом класса  в анапе	2
-418	['acm_hotel', 'action_rest', 'city', u'full', 'island', 'wh_where']	0.000%	где отдохнуть в пхукете отель	1
-419	['action_rest', 'city', u'full', 'wh_where']	0.000%	где отдохнуть в казани	2
-420	['acm_hotel', 'amn_beach', 'city', u'full', 'map']	0.000%	карта пляжа кандолим с отелями	1
-421	['acm_ghouse', u'full']	0.000%	гостевые дома	3
-422	['acm_gost', 'acm_hotel', 'city', 'date_year', u'full', 'rest']	0.000%	отдых в ялте 2015 отели и гостиницы	1
-423	['acm_hotel', 'amn_banya', 'city', u'full']	0.000%	санкт-петербург отель с баней	1
-424	['acm_hotel', 'action2book', 'city', u'full', 'island']	0.000%	заказать отель в пхукете	2
-425	['city', 'date_month', 'date_year', u'full']	0.000%	паттайя в январе 2016	1
-426	['acm_hotel', 'acm_obj', 'city', u'full', 'map']	0.000%	карта ялты с отелями и пансионатами	2
-427	['country', 'date_month', 'date_year', u'full']	0.000%	египет в декабрь 2015	1
-428	['action_see', 'city', 'date_month', u'full', 'wh_what']	0.000%	что посмотреть в сочи в ноябре	6
-429	['acm_gost', 'city', 'country', u'full', 'photo']	0.000%	гостиница россия москва фото	1
-430	['acm_hotel', 'city', 'country', u'full', 'photo']	0.000%	турция измир фото отели	1
-431	['country', u'full', 'map']	0.000%	карта россии	1
-432	['acm_gost', 'acm_hotel', u'full', 'peninsula']	0.000%	гостиницы отели в крыму	1
-433	['acm_hotel', u'full', 'peninsula']	0.000%	отели крыма	16
-434	['acm_obj_part', u'full']	0.000%	номер в	1
-435	['city', 'date_month', 'date_year', u'full', 'island', 'rest']	0.000%	отдых на пхукете в январе 2016	1
-436	['acm_gost', 'city', u'full', 'rating']	0.000%	гостиницы челябинска список	22
-437	['acm_gost', 'city', 'contacts_phone', 'contacts_site', u'full', 'peninsula']	0.000%	гостиница крым севастополь официальный сайт телефон	1
-438	['city', u'full', 'island', 'photo']	0.000%	пхукет фото	6
-439	['acm_gost', 'amn_basin', 'city', 'date_year', u'full']	0.000%	гостиницы судака с бассейном 2015	1
-440	['acm_obj_part', 'action2book', u'full', 'peninsula']	0.000%	забронировать к крыму номер	1
-441	['acm_gost', 'acm_obj_part', 'action2book', u'full']	0.000%	снять номер в гостинице	3
-442	['acm_hotel', 'city', u'full', 'stars_2']	0.000%	отели в нячанге 2*	2
-443	['acm_hotel', 'action2book', 'city', u'full', 'map']	0.000%	отели адлера на карте бронировать	1
-444	['acm_hotel', 'city', u'full', 'rating']	0.000%	рейтинг отелей шарм эль шейха	4
-445	['acm_hotel', 'action2book', 'city', 'date_year', u'full']	0.000%	забронировать отель в пскове на 2015 год	1
-446	['acm_hotel', 'city', 'contacts_site', u'full']	0.000%	отель белград москва официальный сайт	4
-447	['city', u'full', 'price_cheap']	0.000%	недорого  на байкале	1
-448	['acm_hotel', 'action2book', 'date_year', u'full', 'peninsula']	0.000%	бронирование отелей в крыму на 2016 год	1
-449	['acm_hotel', 'acm_obj_part', 'action2book', u'full', 'peninsula']	0.000%	снять номер в отеле крыма	1
-450	['acm_ghouse', 'acm_obj_part', 'amn_kitchen', 'city', u'full']	0.000%	гостевые дома с кухней в номере в адлере	1
-451	['action_rest', 'action_visit', 'date_month', u'full', 'wh_where_direction']	0.000%	куда съездить отдохнуть в январе	1
-452	['acm_obj', 'acm_obj_part', 'action2book', 'city', u'full']	0.000%	пансионат репино забронировать номер	1
-453	['acm_minigost', 'action2book', u'full', 'peninsula']	0.000%	снять минигостиницу в крыму	1
-454	['acm_hotel', 'city', u'full', 'price_cheap', 'rating']	0.000%	список эконом отелей в париже	1
-455	['country', 'date_month', u'full']	0.000%	египет в декабре	8
-456	['acm_hotel', 'city', u'full', 'photo', 'stars_5']	0.000%	пятизвездочный отель в москве  фото	1
-457	['acm_gost', 'action2book', 'city', 'date_year', u'full']	0.000%	аренда гостиницы на 2016 в анапе	1
-458	['acm_hotel', 'amn_basin', 'amn_spa', 'country', u'full']	0.000%	спа отели в россии с бассейном	1
-459	['action_visit', 'city', u'full', 'price_cheap', 'wh_where_direction']	0.000%	куда сходить в москве дешево	1
-460	['acm_hotel', 'amn_beach', 'city', u'full', 'peninsula']	0.000%	отели судак крым с собственным пляжем	1
-461	['acm_gost', 'acm_obj_part', 'amn_view', 'city', u'full']	0.000%	гостиницы москвы с панорамным видом в номере	1
-462	['acm_gost', 'country', u'full', 'price_cheap']	0.000%	гостиницы дешевые россия	1
-463	['action_stay', 'city', 'date_month', u'full', 'wh_where']	0.000%	где остановиться в сочи в октябре	1
-464	[u'full', 'island']	0.000%	бали	1
-465	['action_visit', 'city', u'full', 'rating', 'wh_what']	0.000%	что посетить в москве список	1
-466	['acm_obj_part', 'action2book', 'amn_basin', 'city', u'full']	0.000%	снять номер с бассейном новосибирск	1
-467	['acm_gost', 'acm_obj', u'full', 'peninsula']	0.000%	гостиницы санатории крыма	1
-468	['city', 'date_year', u'full', 'island']	0.000%	пхукет 2015	2
-469	['acm_ghouse', 'city', 'date_year', u'full']	0.000%	гостевые дома коктебель 2015	2
-470	['acm_gost', 'action2book', 'amn_restaurant', 'city', u'full']	0.000%	заказать гостиницу в москве и ресторан	1
-471	['acm_hotel', 'city', 'contacts_phone', u'full', 'rating']	0.000%	список отелей москвы с телефонами	4
-472	['acm_gost', 'acm_obj', 'city', u'full', 'rating']	0.000%	санатории и гостиницы сочи список	1
-473	['acm_gost', 'city', u'full', 'stars_3']	0.000%	гостиницы москвы 3*	1
-474	['acm_hotel', 'action_stay', 'city', u'full']	0.000%	остановиться в отеле москвы	1
-475	['amn_basin', 'city', u'full', 'rest']	0.000%	отдых в новом свете с бассейном	1
-476	['city', 'country', 'date_month', 'date_year', u'full']	0.000%	египет шарм эль шейх ноябрь 2015	1
-477	['acm_gost', 'acm_obj_part', 'action2book', 'city', u'full']	0.000%	снять номер в гостиницы балаклавы	3
-478	['acm_gost', 'amn_breakfast', 'city', u'full', 'price_cheap']	0.000%	недорогие гостиницы минска с завтраками	1
-479	['amn_restaurant', 'city', u'full', 'photo']	0.000%	ресторан пекин москва фото	1
-480	['acm_hotel', 'city', u'full', 'island']	0.000%	отель на пхукете	2
-481	['action_visit', 'city', 'date_month', u'full', 'wh_where_direction']	0.000%	куда сходить в сочи в октябре	4
-482	['acm_hotel', 'city', 'date_month', u'full']	0.000%	отели в керчи в октябре	1
-483	['country', 'date_month', u'full', 'rest']	0.000%	отдых в египте в декабре	2
-484	['city', 'date_month', 'date_year', u'full', 'island']	0.000%	пхукет на декабрь 2015	1
-485	['acm_gost', 'action_see', 'city', 'contacts_site', u'full', 'map']	0.000%	гостиницы владимира официальный сайт посмотреть на карте	1
-486	['acm_hotel', 'city', 'contacts_site', u'full', 'price_cheap']	0.000%	отели санкт-петербург официальный сайт недорого	1
-487	['acm_gost', 'action2book', 'agregator_ostrovok', 'city', u'full']	0.000%	бронирование гостиниц в пекине островок	1
-488	['acm_hotel', 'city', u'full', 'location_line', 'stars_2']	0.000%	отель в лимассоле 2* на 1 линии	1
-489	['city', u'full', 'price_cheap', 'rest']	0.000%	отдых в суздале недорого	2
-490	['acm_gost', 'amn_restaurant', 'city', u'full']	0.000%	рестораны гостиниц санкт-петербурга	1
-491	['city', 'country', u'full', 'map']	0.000%	карта вьетнама нячанг	2
-492	['acm_gost', 'acm_hotel', u'full', 'price_cheap']	0.000%	дешевые отели и гостиницы	1
-493	['acm_hotel', 'acm_obj_part', 'amn_kitchen', 'city', u'full', 'island']	0.000%	отели на пхукете с кухней в номере	1
+0	total	21.000%
+1	['acm_gost', 'city', u'full']	4.000%	гостиницы санкт-петербурга	3
+2	['acm_hotel', 'city', u'full']	1.000%	серпухов отель	2
+3	['acm_gost', 'city', u'full', 'price']	1.000%	гостиницы в люберцах и цены	2
+4	['acm_gost', 'city', u'full', 'price_cheap']	1.000%	выборг гостиницы недорого	2
+5	['acm_hotel', 'acm_hotel_popular', u'full']	0.000%	отель бристоль	1
+6	['acm_gost_popular', 'acm_hotel', 'city', 'contacts_site', u'full']	0.000%	отель азимут санкт-петербург официальный сайт	1
+7	['acm_gost', 'city', u'full', 'poi_airport', 'poi_metro', 'poi_metro_station', 'space_near']	0.000%	гостиницы возле метро аэропорт москва	2
+8	['acm_hotel', 'action2book', 'city', u'full']	0.000%	бронь отель адлер	1
+9	['acm_hotel', u'full', 'geo_oblast', 'poi_metro_station']	0.000%	отель на тверской	1
+10	['acm_gost', 'city', u'full', 'poi_avenue', 'poi_metro_station_spb', 'price_cheap']	0.000%	гостиницы в питере на невском проспекте недорого	1
+11	['acm_hotel', 'city', u'full', 'poi_metro_station']	0.000%	отели в кузьминках москва	1
+12	['acm_hotel', 'city', 'country', u'full']	0.000%	греция кассандра отели	1
+13	['acm_gost', 'city', 'country', u'full']	0.000%	гостиница казахстан алматы	1
+14	['acm_gost', u'full', 'peninsula', 'price', 'price_cheap']	0.000%	дешевые гостиницы в крыму цены	1
+15	['action_reach', 'city', u'full', 'poi_airport', 'poi_station', 'wh_how']	0.000%	как добраться от курского вокзала до внуково	1
+16	['acm_obj', 'city', 'contacts_site', 'date_year', u'full', 'price']	0.000%	пансионат репино официальный сайт цены на 2015 год	1
+17	['city', u'full', 'poi_metro_station_spb']	0.000%	гостиный двор кохма	1
+18	['acm_hotel', 'city', u'full', 'poi_avenue']	0.000%	отели питера московский проспект	1
+19	['acm_gost', 'acm_gost_popular', 'city', 'contacts_site', u'full']	0.000%	корстон гостиница казань официальный сайт	1
+20	['acm_gost', 'acm_gost_popular', u'full']	0.000%	гостиница корстон	1
+21	['acm_gost', 'city', 'contacts_site', u'full']	0.000%	гостиницы углича официальный сайт	1
+22	['acm_hotel', 'amn_beach', 'city', u'full']	0.000%	отели дубая с собственным пляжем	1
+23	['acm_gost_popular', 'city', u'full']	0.000%	ялта интурист	1
+24	['acm_hotel', 'city', u'full', 'poi_centre']	0.000%	отели гродно в центре	1
+25	['acm_gost', 'acm_gost_popular', 'city', 'contacts_site', u'full', 'price']	0.000%	гостиница русь санкт-петербург официальный сайт цены	1
+26	['acm_gost', 'city', u'full', 'photo', 'price']	0.000%	гостиницы в махачкале цены и фото	1
+27	['acm_gost', 'city', u'full', 'poi_airport']	0.000%	гостиницы во внуково москва	1
+28	['city', 'country', u'full']	0.000%	египет шарм эль шейх	1
+29	['acm_gost', 'city', u'full', 'poi_metro', 'poi_metro_station']	0.000%	гостиница метро беляево москва	1
+30	['action_fly', 'city', u'full', 'how_many']	0.000%	сколько лететь с москвы до одессы	1
+31	['acm_gost', 'city', u'full', 'map']	0.000%	карта гостиниц москвы	2
+32	['acm_gost', 'city', u'full', 'poi_metro', 'price_cheap']	0.000%	гостинницы в москве недорогие у метро	1
+33	['acm_gost', 'acm_gost_popular', 'city', 'econom_class', u'full', 'price', 'price_cheap']	0.000%	гостиницы санкт-петербурга эконом класса цены	1
+34	['country', 'date_year', u'full', 'price', 'rest']	0.000%	греция отдых 2015 цены	1
+35	['acm_hotel', 'city', u'full', 'time_season']	0.000%	отель весна адлер	1
+36	['acm_minihotel', 'city', u'full']	0.000%	миниотели в перми	1
+37	['acm_gost', 'city', 'date_year', u'full', 'price']	0.000%	гостиницы владимира цены 2015 года	1
+38	['acm_hotel', 'country', u'full', 'price']	0.000%	таиланд отели цены	1
+39	['acm_hotel', 'amn_spa', 'city', u'full']	0.000%	спа отель в москве	1
+40	['agregator_ostrovok', u'full']	0.000%	островок	1
+41	['acm_gost', 'city', 'contacts_site', u'full', 'photo']	0.000%	гостиница санкт-петербург в санкт-петербурге официальный сайт фото	2
+42	['acm_hotel', 'city', 'contacts_site', u'full', 'price']	0.000%	отель севастополь в севастополе официальный сайт цены	1
+43	['action_visit', u'full', 'poi_metro_station', 'wh_where_direction']	0.000%	куда сходить на вднх	1
+44	['acm_hotel', 'city', u'full', 'map']	0.000%	отели лимассола на карте	1
+45	['acm_hotel', 'city', u'full', 'poi_centre', 'price_cheap']	0.000%	отели в спб недорого в центре	1
+46	['acm_gost', u'full']	0.000%	гостиница	1
+47	['acm_gost', 'city', u'full', 'poi_metro']	0.000%	гостиницы по станциям метро москва	1
+48	['acm_obj', 'amn_beach', 'city', u'full']	0.000%	пансионаты геленджика с собственным пляжем	1
+49	['acm_hotel', u'full', 'poi_centre']	0.000%	отель в центре	1
+50	['acm_hotel', 'agregator_ostrovok', 'country', u'full']	0.000%	островок отели в турции	1
+51	['acm_hotel', 'arrangement', 'city', u'full']	0.000%	экскурсия и отели черновцы	1
+52	['city', u'full', 'poi_private_sector', 'price_cheap']	0.000%	частный сектор недорого в адлере	1
+53	['acm_hotel', 'acm_hotel_popular', 'city', u'full']	0.000%	отель ибис москва	1
+54	['acm_gost', 'city', u'full', 'price', 'price_cheap']	0.000%	гостиница в химках недорого цены	1
+55	['acm_hotel_popular', 'acm_obj_part', 'action2book', 'city', u'full', 'price']	0.000%	казань ривьера бронирование номеров цена	1
+56	['acm_gost', 'acm_gost_popular', 'city', u'full']	0.000%	русь гостиница светлогорск	1
+57	['acm_gost', 'acm_hotel', 'city', u'full']	0.000%	отели и гостиницы челябинска	1
+58	['acm_hotel', 'acm_hotel_popular', 'action_perceive', u'full']	0.000%	отель калифорния слушать	1
+59	['acm_hotel', 'city', u'full', 'rating']	0.000%	рейтинг отелей москвы	1
+60	['acm_hotel', 'city', u'full', 'map', 'poi_centre']	0.000%	отели праги в центре на карте	1
+61	['city', u'full', 'poi_centre']	0.000%	центр баку	1
+62	['acm_hotel', 'acm_hotels_popular', 'city', u'full', 'map', 'poi_park']	0.000%	парк отель кисловодск на карте	1
+63	['acm_gost', 'city', u'full', 'geo_oblast', 'poi_avenue', 'price_cheap']	0.000%	дешевые гостиницы в волжском волгоградской области	1
+64	['acm_hotel', 'amn_basin', 'amn_spa', 'city', u'full']	0.000%	спа отель в петергофе с бассейном	1
+65	['action_reach', u'full', 'poi_metro_station_spb', 'poi_station', 'wh_how']	0.000%	как добраться от обводного канала до ладожского вокзала	1
+66	['acm_gost', 'city', u'full', 'poi_centre', 'price_cheap']	0.000%	гостиницы в центре москвы недорогие	1
+67	['acm_gost', 'city', 'city_city', u'full', 'map', 'price_cheap']	0.000%	дешевые гостиницы нижнего новгорода на карте города	1
+68	['city', u'full']	0.000%	сеул	1
+69	['acm_obj_part', 'action2book', 'city', u'full', 'price_cheap']	0.000%	снять номер в москве недорого	1
+70	['acm_gost', u'full', 'poi_metro_station']	0.000%	гостиница орехово	1
+71	['acm_gost_popular', 'city', 'contacts_site', u'full']	0.000%	ялта интурист официальный сайт	1
+72	['acm_hotel', 'city', 'city_city', u'full', 'poi_centre']	0.000%	отели новороссийска в центре города	1
+73	['acm_gost', 'city', u'full', 'poi_centre']	0.000%	гостиницы в ярославле в центре	1
+74	['city', u'full', 'map', 'poi_airport', 'poi_metro', 'poi_metro_station']	0.000%	карта москвы домодедово аэропорт метро	1
+75	['acm_hotel', 'amn_basin', 'city', u'full']	0.000%	отели ессентуков с бассейном	1
+76	['city', u'full', 'holiday']	0.000%	калининград на новый год	1
+77	['acm_obj', 'city', u'full']	0.000%	пансионат магадан  анапа	1
+78	['city', u'full', 'poi_centre', 'poi_tc']	0.000%	турин торговые центры	1
+79	['acm_minigost', 'city', u'full']	0.000%	одесса минигостиницы	1
+80	['acm_gost', 'amn_basin', 'city', 'city_city', u'full']	0.000%	гостиницы города астрахани с бассейном	1
+81	['acm_gost', 'acm_hotel_popular', u'full', 'geo_oblast', 'poi_metro_station']	0.000%	гостиница марриотт тверская	1
+82	['acm_gost', 'city', u'full', 'poi_station', 'space_near']	0.000%	гостиницы санкт-петербурга недалеко от московского вокзала	1
+83	['acm_gost', 'city', 'city_city', u'full', 'map']	0.000%	гостиницы санкт-петербурга на карте города	2
+84	['acm_hotel', 'city', u'full', 'price']	0.000%	отель в стамбуле цены	1
+85	['acm_gost', u'full', 'poi_station']	0.000%	гостиница на московском вокзале	1
+86	['action_visit', 'city', 'date_month', u'full', 'wh_where_direction']	0.000%	питер в ноябре куда сходить	1
+87	['amn_restaurant', 'city', 'date_year', u'full', 'island', 'price']	0.000%	пхукет рестораны цены 2015	1
+88	['acm_ghouse', 'city', u'full']	0.000%	гостевые дома в калининграде	1
+89	['city', u'full', 'poi_airport', 'poi_station']	0.000%	домодедово ярославский вокзал	1
+90	['acm_hotel', 'city', u'full', 'poi_airport']	0.000%	отель в домодедово	1
+91	['acm_hotel', 'action2book', 'city', u'full', 'wh_how']	0.000%	как забронировать отель в дубае	1
+92	['acm_hotel', 'city', u'full', 'price_cheap']	0.000%	недорогие отели москва	1
+93	['acm_gost', u'full', 'poi_metro', 'poi_metro_station']	0.000%	гостиницы метро медведково	1
+94	['acm_gost', 'acm_gost_popular', 'city', 'econom_class', u'full', 'price_cheap']	0.000%	гостиницы эконом класса в ессентуках	1
+95	['acm_hotel', 'action2book', 'agregator_ostrovok', u'full']	0.000%	островок бронирование отелей	1
+96	['acm_gost', 'city', u'full', 'poi_airport', 'poi_metro_station']	0.000%	гостиница в борисполе в аэропорту	1
+97	['acm_gost', 'city', 'contacts_site', u'full', 'price']	0.000%	гостиница октябрьская санкт-петербург официальный сайт стоимость	1
+98	['acm_hotel', 'acm_hotel_popular', 'acm_hotels_grand', 'city', u'full']	0.000%	марриотт гранд отель москва	1
+99	['acm_hotel', 'city', 'country', u'full', 'stars_3']	0.000%	отели 3* таиланд паттайя	1
+100	['acm_gost', 'city', u'full', 'poi_metro_station']	0.000%	гостиница свиблово москва	1
