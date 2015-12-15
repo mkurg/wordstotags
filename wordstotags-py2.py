@@ -14,13 +14,13 @@ timestamps = []
 timestamps.append(datetime.datetime.now())
     
 
-with open('test1001.txt', 'r') as f:
+with open('test2-cleaned.txt', 'r') as f:
     queriesRaw = f.readlines()
 for query in queriesRaw:
     query = query.strip('\n')
     query = re.sub('\n', '', query)
 
-inFile = 'test1001.txt'
+inFile = 'test2-cleaned.txt'
 
 pp = pprint.PrettyPrinter(depth=6)
 
