@@ -6,9 +6,14 @@ from os import listdir
 from os.path import isfile, join
 import re
 import sys
+import codecs
+import datetime
 
 import pprint
-import pymorphy2
+
+# Linguisics
+from nltk.stem.snowball import RussianStemmer
+from nltk.stem.snowball import EnglishStemmer
 
 pp = pprint.PrettyPrinter(depth=6)
 
@@ -17,32 +22,156 @@ timestamps.append(datetime.datetime.now())
 
 inp_file = 'test2-cleaned.txt'
 
-with open('test1001.txt', 'r') as f:
-    queriesRaw = f.readlines()
-for query in queriesRaw:
-    #query = query.strip('\n')
-    query = re.sub('\n', '', query)
+with codecs.open(inp_file, 'r', encoding='utf-8') as f:
+    queries_raw = f.readlines()
+for i in range(len(queries_raw)):
+    #queries_raw[i] = re.sub('\n', '', queries_raw[i], flags=re.UNICODE)
+    queries_raw[i] = queries_raw[i].strip('\n')
 
-class CacheMorchAnalyzer:
-    def __init__(self):
-        self.ma = pymorphy2.MorphAnalyzer()
-        self.parsed_words = {}
-
-    def parse(self, word):
-        if word not in self.parsed_words:
-            parsed_result = self.ma.parse(word)
-            if parsed_result:
-                self.parsed_words[word] = parsed_result[0]
-        return self.parsed_words[word]
-
-morph = CacheMorchAnalyzer()
-
-def Splitter(line):
-    tokens = line.split()
-    for token in tokens:
-        token = token.strip('\n')
-        token = re.sub('\n', '', token)
+def tokenize(line):
+    #tokens = line.split()
+    tokens = re.findall('[\w*]+', line, flags=re.UNICODE)
     return(tokens)
 
-with open('out3.txt', 'w') as out:
-    out.write(str(queriesRaw[0:10]))
+stemmed = {}
+def normalize(tokens):
+    stems = []
+    for token in tokens:
+        a = token.lower()
+        if a not in stemmed:
+            if ord(a[0]) <= 127:
+                stems.append(EnglishStemmer(ignore_stopwords=False).stem(a))
+                stemmed[a] = stems[-1]
+            else:
+                stems.append(RussianStemmer(ignore_stopwords=False).stem(a))
+                stemmed[a] = stems[-1]
+        else:
+            stems.append(stemmed[a])
+            #print('from cache')
+    return stems
+
+# Parsing and stemming queries
+queries_parsed = []
+for query in queries_raw:
+    if len(queries_parsed) % 1000 == 0:
+        print len(queries_parsed)
+    tokenized = tokenize(query)
+    #pp.pprint(tokenized)
+    stems = normalize(tokenized)
+    queries_parsed.append(stems)
+
+#pp.pprint(queries_parsed[0:10])
+
+tags_one_word = {}
+tags_many_words = []
+# Parsing tags dictionaries
+tag_files = [f for f in listdir('./tags/') if isfile(join('./tags/',f)) ]
+for tag_file in tag_files:
+    if tag_file.endswith('.txt'):
+        print 'processing tag file \'%s\'' % tag_file
+        with codecs.open('./tags/' + tag_file, 'r', encoding='utf-8') as tf:
+            current_tag = tag_file[:-4]
+            tags_many_words.append([current_tag, []])
+            for line in tf:
+                tokenized = tokenize(line)
+                stems = normalize(tokenized)
+                if len(stems) == 1:
+                    tags_one_word[stems[0]] = current_tag
+                else:
+                    tags_many_words[-1][1].append(stems)
+#print tags_one_word
+
+# Приписывание тегов
+# Сначала проверяем на многословные теги
+queries_tagged = []
+n = 0
+for ii in queries_parsed:
+    queries_tagged.append([set(), set(), len(ii), False])
+    #print ii
+    n += 1
+
+# Структура. 0 - множество тегов, 1 - множество номеров разобранных токенов, 2 - длина запроса в токенах, 3 - полностью ли распаршен запрос
+for tag in tags_many_words:
+    n = 0
+    print 'pass 1, tag %d of %d (%s)' % (tags_many_words.index(tag), len(tags_many_words), tag[0])
+    for query in queries_parsed:
+        #if n % 1000 == 0:
+        #    print 'pass 1, query %d' % n
+        for i in range(len(query)):
+            if len(tag[1]) > 0:
+                for k in tag[1]:
+                    if query[i] == k[0] and query[i:i + len(k)] == k:
+                        queries_tagged[n][1].update(range(i, i + len(k)))
+                        queries_tagged[n][0].add(tag[0])
+        n += 1
+n = 0
+for query in queries_parsed:
+    if n % 1000 == 0:
+        print 'pass 2, query %d' % n
+    for i in range(len(query)):
+        if not i in queries_tagged[n][1]:
+            try:
+                queries_tagged[n][0].add(tags_one_word[query[i]])
+                queries_tagged[n][1].add(i)
+            except KeyError:
+                pass
+    n += 1
+parsed_number = 0
+for i in queries_tagged:
+    if len(i[1]) == i[2]:
+        i[3] = True
+        parsed_number += 1
+n = 0
+for i in queries_tagged:
+    i.append(queries_raw[n])
+    n +=1
+#pp.pprint(queries_tagged)
+
+# Вывод
+print('Parsed %d queries (%s%%)' % (parsed_number, format((parsed_number * 100 / len(queries_tagged)), '.3f')))
+with codecs.open('new_out.csv', 'w', encoding='utf-8') as out:
+    out.write('query\ttags\tparsed\n')
+    for query in queries_tagged:
+        out.write('%s\t%s\t%s\n' % (query[4], query[0], query[3]))
+timestamps.append(datetime.datetime.now())
+print(timestamps[1] - timestamps[0])
+
+# Отладочный вывод
+'''
+test_queries = [u'в санкт-петербурге', u'Санкт-Петербург']
+for i in test_queries:
+    tokenized = tokenize(i)
+    #pp.pprint(tokenized)
+    stems = normalize(tokenized)
+    for stem in stems:
+        print stem
+
+for query in queries_parsed:
+    for token in query:
+        print(token)
+with codecs.open('out3.txt', 'w', encoding='utf-8') as out:
+    out.write(unicode(str(queries_parsed), 'unicode-escape'))
+
+
+for i in queries_parsed:
+    print queries_parsed.index(i)
+    for j in i:
+        print j
+
+for i in tags_many_words:
+    if i[0] == 'city':
+        for j in i[1]:
+            print len(j)
+            for k in j:
+                print k
+
+test = u'Это какая-то тестоввая строка-строчечка with some English words. 2* 3* двухзвёздочный островок.ру https://slovari.yandex.ru/tarball/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/ перевірка Київ, Києва'
+#test = tokenize(test)
+#RussianStemmer(ignore_stopwords=False).stem()
+
+a = tokenize(test)
+
+for l in a:
+    print l
+
+'''
