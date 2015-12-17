@@ -111,7 +111,8 @@ for query in queries_parsed:
     for i in range(len(query)):
         if not i in queries_tagged[n][1]:
             try:
-                queries_tagged[n][0].add(tags_one_word[query[i]])
+                if tags_one_word[query[i]] != 'stopword':
+                    queries_tagged[n][0].add(tags_one_word[query[i]])
                 queries_tagged[n][1].add(i)
             except KeyError:
                 pass
@@ -136,7 +137,130 @@ with codecs.open('new_out.csv', 'w', encoding='utf-8') as out:
 timestamps.append(datetime.datetime.now())
 print(timestamps[1] - timestamps[0])
 
+tag_sets = {}
+tags_freq = {}
+for query in queries_tagged:
+    if query[3] == True:
+        if str(sorted(query[0])) in tag_sets:
+            tag_sets[str(sorted(query[0]))].append(query[4])
+        else:
+            tag_sets[str(sorted(query[0]))] = [query[4]]
+        if str(sorted(query[0])) in tags_freq:
+            tags_freq[str(sorted(query[0]))] += 1
+        else:
+            tags_freq[str(sorted(query[0]))] = 1
+#pp.pprint(tag_sets)
+
+tag_sets_list = []
+for k, v in tag_sets.items():
+    tag_sets_list.append([k, v])
+queries_popularity = {}
+
+for tag_set in tag_sets_list:
+    ddict = {}
+    llist = []
+    for a in tag_sets[tag_set[0]]:
+        #print a
+        if a in ddict:
+            ddict[a] += 1
+        else:
+            ddict[a] = 1
+    for k, v in ddict.items():
+        llist.append([k, v])
+    llist.sort(key = lambda s: s[1], reverse=True)
+    queries_popularity[tag_set[0]] = llist
+
+tags_freq_list = []
+for k, v in tags_freq.items():
+    tags_freq_list.append([k, v])
+tags_freq_list = sorted(tags_freq_list, key=lambda setOfTags: setOfTags[1], reverse=True)
+tags_freq_list = list(enumerate(tags_freq_list))
+
+with codecs.open('new_stat.csv', 'w', encoding='utf-8') as new_stat:
+    for i in tags_freq_list:
+        try:
+            new_stat.write('%d\t%s\t%s%%\t%s\t%d\n' % (i[0], i[1][0], format(i[1][1] / float(len(queries_raw)) * 100, '.3f'), queries_popularity[i[1][0]][0][0], queries_popularity[i[1][0]][0][1]))
+        except KeyError:
+            new_stat.write()
+
+
+
+# То же, но для нераспаршенных
+tag_sets = {}
+tags_freq = {}
+for query in queries_tagged:
+    if query[3] == False:
+        if str(sorted(query[0])) in tag_sets:
+            tag_sets[str(sorted(query[0]))].append(query[4])
+        else:
+            tag_sets[str(sorted(query[0]))] = [query[4]]
+        if str(sorted(query[0])) in tags_freq:
+            tags_freq[str(sorted(query[0]))] += 1
+        else:
+            tags_freq[str(sorted(query[0]))] = 1
+#pp.pprint(tag_sets)
+
+tag_sets_list = []
+for k, v in tag_sets.items():
+    tag_sets_list.append([k, v])
+queries_popularity = {}
+
+for tag_set in tag_sets_list:
+    ddict = {}
+    llist = []
+    for a in tag_sets[tag_set[0]]:
+        #print a
+        if a in ddict:
+            ddict[a] += 1
+        else:
+            ddict[a] = 1
+    for k, v in ddict.items():
+        llist.append([k, v])
+    llist.sort(key = lambda s: s[1], reverse=True)
+    queries_popularity[tag_set[0]] = llist
+
+tags_freq_list = []
+for k, v in tags_freq.items():
+    tags_freq_list.append([k, v])
+tags_freq_list = sorted(tags_freq_list, key=lambda setOfTags: setOfTags[1], reverse=True)
+tags_freq_list = list(enumerate(tags_freq_list))
+
+with codecs.open('new_stat_unparsed.csv', 'w', encoding='utf-8') as new_stat:
+    for i in tags_freq_list:
+        try:
+            new_stat.write('%d\t%s\t%s%%\t%s\t%d\n' % (i[0], i[1][0], format(i[1][1] / float(len(queries_raw)) * 100, '.3f'), queries_popularity[i[1][0]][0][0], queries_popularity[i[1][0]][0][1]))
+        except KeyError:
+            new_stat.write()
+'''
+for tag_set in tag_sets.items():
+    #pp.pprint(tag_set)
+    ddict = {}
+    for query in tag_set:
+        #pp.pprint(query)
+        #print
+        if str(query) in ddict:
+            ddict[str(query)] += 1
+        else:
+            ddict[str(query)] = 1
+    #pp.pprint(ddict)
+
+queries_popularity = {}
+for tag_set in tag_sets.items():
+    ddict = {}
+    llist = []
+    for qquery in tag_set:
+        if str(qquery) in ddict:
+            ddict[str(qquery)] += 1
+        else:
+            ddict[str(qquery)] = 1
+    for k, v in ddict.items():
+        llist.append([k, v])
+    llist.sort(key = lambda s: s, reverse=True)
+    queries_popularity[str(tag_set)] = llist
+
+pp.pprint(queries_popularity)
 # Отладочный вывод
+'''
 '''
 test_queries = [u'в санкт-петербурге', u'Санкт-Петербург']
 for i in test_queries:
